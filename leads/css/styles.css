@@ -1,0 +1,362 @@
+@font-face {
+  font-family: "Graphik-Regular";
+  src: url("../fonts/Graphik-Regular.otf") format("truetype");
+}
+@font-face {
+  font-family: "Graphik-Semibold";
+  src: url("../fonts/Graphik-Semibold.otf") format("truetype");
+}
+h1 {
+  color: #ffffff;
+  font-family: Graphik-Semibold;
+  font-size: 30px;
+  margin-top: 6%;
+  
+}
+h2 {
+  color: #ffffff;
+  font-family: Graphik-Regular;
+  font-size: 32px;
+  margin: 5% 0 4% 0;
+}
+h3{
+  font-family: Graphik-Semibold;
+  margin: 6% 0 6% 0;
+}
+p {
+  color: #ffffff;
+  font-family: Graphik-Regular;
+  font-size: 20px;
+  margin-top: 8%;
+}
+strong{
+  color:#0093C7;
+}
+form {
+  margin-left: 15%;
+  width: 70%;
+  font-family: Graphik-Regular;
+  font-size: 14px;
+}
+.bg {
+  background-image: url("../img/fondo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.boton {
+  background: #0093C7;
+  border-radius: 43px 43px 43px 43px;
+  font-size:25px;
+  width: 50%;
+}
+.button_whatsapp{
+  background: green;
+  width: 23%;
+  border-radius: 7px;
+  padding:2px;
+  display:inline-block;
+  margin: 2% 0 0 38.3%;
+}
+.button_whatsapp a{
+  color:white;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: bold;
+}
+.button_whatsapp img{
+  width: 18%;
+  padding-bottom: 2%;
+}
+.button_whatsapp:hover{
+  background: lightblue;
+}
+.custom-control-label {
+  color: #0093C7;
+}
+.drop-down-color {
+  color: black;
+  outline:none;
+}
+.email {
+  margin-top: 4%;
+}
+.form-control {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 43px;
+  border: 1px solid #0093C7;
+  color: black;
+  margin: 1% 0;
+  font-size: 14px;
+}
+.form-style{
+  background: rgba(255, 255, 255, 0.1);
+  width: 100%;
+  border: solid thin #0093C7;
+  overflow:hidden; 
+  padding: 5px;
+  color: gray;
+  margin-bottom: 8px;
+  -webkit-border-radius: 43px;
+  -moz-border-radius: 43px;
+  border-radius: 43px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  }
+
+.selectBox{
+  width:140px;
+  height:40px;
+  border:0px;
+  outline:none;
+}
+  
+.input-style {
+  background: rgba(255, 255, 255, 0.1);
+  border: 0;
+  border-bottom: solid thin #0093C7;
+  font-family: Graphik-Regular;
+  font-size:14px;
+  margin: 6% 0;
+  text-align: center;
+  width: 100%;
+}
+.input-style:hover {
+  border-bottom: solid thin blue; 
+ } 
+.responsive {
+  height: auto;
+  width: 100%;
+}
+.seccion_texto {
+  width: 80%;
+  text-align: justify;
+  margin-left: 11%;
+}
+.seccion_redesociales{
+  margin: 0 0 4% 0;
+}
+
+.text_restricciones{
+  text-align:justify;
+  font-size: 14px; 
+  color: black; 
+  width: 80%; 
+  margin: 6% 0 0 10%; 
+  font-family: Graphik-Regular;
+}
+.text-card{
+  margin-top: 35px; 
+}
+  
+.arrow,
+.arrow:before{
+  position: absolute;
+  left: 50%;
+}
+.arrow{
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  top: 50%;
+  margin: 300px 0 0 -20px;
+  -webkit-transform: rotate(45deg);
+  border-left: none;
+  border-top: none;
+  border-right: 2px #fff solid;
+  border-bottom: 2px #fff solid;
+}  
+.arrow:before{
+  content: '';
+  width: 20px;
+  height: 20px;
+  top: 50%;
+  margin: -10px 0 0 -10px;
+  border-left: none;
+  border-top: none;
+  border-right: 1px #fff solid;
+  border-bottom: 1px #fff solid;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-name: arrow;
+} 
+.size{
+  font-size:40px;
+} 
+.size-h2{
+  font-size:35px;
+}
+@keyframes arrow{
+  0%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+    transform: translate(-10px, -10px);
+}
+ } 
+
+@media (max-width: 575.98px) {
+  h1 {
+    font-size: 22px;
+    margin-top: 10%;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin: 10% 0 10% 2%;
+  }
+  form {
+    width: 90%;
+    margin: 2% 0 0 6%;
+  }
+  p {
+    color: #ffffff;
+    font-size: 18px;
+    margin: 8% 0 8% 4%;
+  }
+  .input-style {
+    margin-bottom: 5%;
+    width: 100%;
+    font-size:16px;
+  }
+  .email {
+    margin-top: 4%;
+  }
+  .tel{
+    margin-top: 4%;
+  }
+  .seccion_texto {
+    width: 95%;
+    margin-left: 2%;
+  }
+  .text_restricciones{
+  width: 90%; 
+  margin-left: 6%; 
+}
+  .seccion_redesociales{
+  margin: 8% 0 25% 0;
+}
+  .size{
+    font-size:35px;
+    margin: 15% 0 5% 10%;
+  } 
+  .size-h2{
+    font-size:30px;
+    text-align: justify;
+    margin: 15% 0 5% 10%;
+  }
+.form-style{
+  background: rgba(255, 255, 255, 0.1);
+  width: 100%;
+  border: solid thin #0093C7;
+  padding: 5px;
+  color: gray;
+  margin-bottom: 1%;
+  -webkit-border-radius: 43px;
+  -moz-border-radius: 43px;
+  border-radius: 43px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 30px;
+    margin-top: 5%;
+  }
+
+  form {
+    width: 95%;
+    margin: 2% 0 0 3%;
+  }
+
+  p {
+    color: #ffffff;
+    margin: 3% 0 1% 0;
+  }
+  .input-style {
+    margin-bottom: 4%;
+    width: 100%;
+  }
+  .email {
+    margin-top: 4%;
+  }
+  .seccion_texto {
+    width: 95%;
+    margin-left: 3.5%;
+  }
+  .seccion_redesociales{
+  margin: 8% 0 15% 0;
+}
+.arrow{
+  margin: 320px 0 0 -20px;
+} 
+ .text_restricciones{
+  width: 90%; 
+  margin: 5% 0 5% 6%; 
+}
+.form-style{
+  background: rgba(255, 255, 255, 0.1);
+  width: 100%;
+  border: solid thin #0093C7;
+  padding: 5px;
+  color: gray;
+  margin-bottom: 1%;
+  -webkit-border-radius: 43px;
+  -moz-border-radius: 43px;
+  border-radius: 43px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  h2 {
+    margin-top: 5%;
+  }
+  h4 {
+    font-size: 22px;
+    margin-top: 5%;
+  }
+  form {
+    width: 95%;
+    margin: 2% 0 0 2%;
+  }
+  p {
+    margin: 3% 0 1% 0;
+  }
+  .input-style {
+    margin-bottom: 4%;
+    width: 100%;
+  }
+  .email {
+    margin-top: 2%;
+  }
+  .seccion_texto {
+    width: 95%;
+    margin-left: 2%;
+  }
+  .form-style{
+  background: rgba(255, 255, 255, 0.1);
+  width: 100%;
+  border: solid thin #0093C7;
+  padding: 5px;
+  color: gray;
+  margin-bottom: 1%;
+  -webkit-border-radius: 43px;
+  -moz-border-radius: 43px;
+  border-radius: 43px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  }
+}

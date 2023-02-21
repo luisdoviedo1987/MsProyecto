@@ -1,0 +1,141 @@
+@font-face{
+	font-family: "Graphik-Regular";
+    src: url("../fonts/Graphik-Regular.otf") format("truetype");}
+@font-face{
+	font-family: "Graphik-Semibold";
+    src: url("../fonts/Graphik-Semibold.otf") format("truetype");}
+$font-text:Graphik-Regular;
+$font-text1:Graphik-Semibold;
+$color-blanco:#ffffff;
+h1{
+	 font-family:$font-text1;
+	 color:$color-blanco;}
+h2{
+	 font-family:$font-text;
+	 margin-top:2%;
+	 color:$color-blanco;}
+h4{ 
+	margin: 2.3% 0 1% 0;
+	color:$color-blanco;
+	font-family:$font-text1;}
+h5{
+	color:$color-blanco;}
+p{
+	color:$color-blanco;
+	font-size:18px;
+	margin-top:0.5%;}
+
+.bg { 
+    background-image: url("../img/fondo.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+form{
+	width:40%;
+	margin-left:30%;
+}
+.boton{
+	border-radius: 43px 43px 43px 43px;}
+.custom-control-label{
+	color:$color-blanco;}
+.drop-down-color{
+	color:black;}
+.form-control{
+	border-radius: 43px 43px 43px 43px;
+	border: 0px solid black;
+	margin: 1% 0;
+	background: rgba(255,255,255,0.1);
+	color:$color-blanco;}
+.h-color{
+	margin-top:10%;
+}
+.input-style {
+  margin: 1% 0;
+  width: 28%; 
+  background:rgba(0,0,0,0.5);
+  color:$color-blanco;
+  padding:1%;
+  border-radius: 10px 10px 10px 10px;
+  font-weight: bold;}
+.email{
+	margin-top:2.5%;}
+.responsive {
+    width: 100%;
+    height: auto;}
+.seccion_texto{
+	width:55%;
+	margin-left:24%;}
+//MediaQuery Smarphone//
+@media (max-width: 575.98px) {
+h1{
+ 	font-size:30px;}
+h2{
+	font-size:25px;
+	margin-top:5%;}
+h4{
+	font-size:19px;
+	margin-top:5%;}
+form{
+	width:95%;
+	margin:2% 0 0 2%;}
+p{
+	color:$color-blanco;
+	margin:3% 0 1% 0;}
+.input-style {
+	margin-bottom:4%;
+    width: 90%; }
+.email{
+	margin-top:4%;}
+.seccion_texto{
+	width:95%;
+	margin-left:2%;}
+}
+.seccion_restricciones{
+	font-size:15px;
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+	h1{
+ 	font-size:40px;}
+h2{
+	font-size:30px;
+	margin-top:5%;}
+h4{
+	font-size:22px;
+	margin-top:5%;}
+form{
+	width:95%;
+	margin:2% 0 0 2%;}
+p{
+	color:$color-blanco;
+	margin:3% 0 1% 0;}
+.input-style {
+	margin-bottom:4%;
+	width: 65%;
+     }
+.email{
+	margin-top:4%;}
+.seccion_texto{
+	width:95%;
+	margin-left:2%;}
+	}
+@media (min-width: 768px) and (max-width: 991.98px) {
+h2{
+	margin-top:5%;}
+h4{
+	font-size:22px;
+	margin-top:5%;}
+form{
+	width:95%;
+	margin:2% 0 0 2%;}
+p{
+	margin:3% 0 1% 0;}
+.input-style {
+	margin-bottom:4%;
+    width: 50%; }
+.email{
+	margin-top:2%;}
+.seccion_texto{
+	width:95%;
+	margin-left:2%;}
+	}

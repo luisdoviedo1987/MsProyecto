@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>MediSmart</title>
+        
+        <!--Bootstrap-->
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <!--CSS Adicional-->
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <style>
+            div{
+                margin-bottom:10px;
+            }
+        </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    </head>
+    <body class="text-center" ng-app="confirmed-data">
+        <div class="container-fluid">
+            <header><h1 style="color:#000;">Registros de Leads:</h1></header>
+            <div class="col-md-12 col-sm-12 col-xs-12" style="margin-top:80px;">
+                <label for="password">Clave de acceso: </label>
+                <input type="password" id="password" required>
+            </div>
+            <div class="col-md-12">
+                <button id="submit" class="btn btn-default">Ingresar</button>
+            </div>
+            <div class="table-responsive" style="display:none" id="table" ng-controller="myCtrl">
+                <button ng-click="exportData()">Exportar A Excel </button>
+                <input type="date" dateformat="Y-m-d" ng-change="myFunc()" ng-model="Val.value">
+                <div class="table-responsive" id="esportTable">
+                <table class="table" id="tabla">
+                    <tr>
+                        <th>Id</th> 
+                        <th>Nombre</th> 
+                        <th>Telefono</th>
+                        <th>Correo Electrónico</th>
+                        <th>Fecha de creación</th>
+                    </tr>
+                    <tr ng-repeat="x in data" id="{{ $index +1 }}">
+                        <td>{{ $index +1 }}</td>
+                        <td>{{ x.Name }}</td>
+                        <td>{{ x.Telephone }}</td>
+                        <td>{{ x.Email }}</td>
+                        <td>{{ x.Fecha }}</td>
+                    </tr>
+                </table>
+                </div>
+            </div>
+        </div>
+             
+    
+        <script src="https://code.jquery.com/jquery-3.3.1.js" charset="utf-8"></script>
+        <script src="./FileSaver.js-master/src/FileSaver.js" charset="utf-8"></script>
+        <script>
+        $('#submit').click(function(){
+            $pass=$('#password').val();
+            if($pass==='MediSmart2019'){
+                $("#table").show();
+                    $("#password").prop('disabled', true);
+                    $("#submit").prop('disabled', true);
+            }else{
+                
+            }
+        });
+        var app = angular.module("confirmed-data", []);
+
+        app.controller("myCtrl", function($scope, $http) {
+            $scope.Val = {
+                     value: new Date("2019-12-13")
+                   };
+           $scope.array = [];
+            
+            $scope.myFunc = () => {
+                $scope.data = [];
+                if($scope.Val.value !== null){
+                    $scope.hoy= $scope.Val.value.getFullYear()+ "-"+ ("0" + ($scope.Val.value.getMonth() + 1)).slice(-2) + "-"+ ("0" + $scope.Val.value.getDate()).slice(-2);
+                }else{
+                    
+                    $scope.hoy = '';
+                }
+                if($scope.hoy !== ''){
+                    for(var x in $scope.array ){
+                        console.log($scope.array[x]);
+                        if($scope.array[x].Fecha === $scope.hoy){
+                            console.log("si")
+                            $scope.data.push($scope.array[x]);
+                        }
+                    }
+                }else{
+                    $scope.data = $scope.array;
+                }
+            }
+            $scope.exportData = () =>{
+                console.log("jeje")
+                // var FileSaver = require('file-saver');
+                var blob = new Blob([document.getElementById('esportTable').innerHTML], {
+                    type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;charset=utf-8"
+                });
+                saveAs(blob, "Report.xls");
+            }
+            
+            $scope.getData= () => {
+                var req = {
+                 method: 'GET',
+                 url: '/leads/confirm.php'
+                }
+                
+                $http(req).then(function(response){
+                    $scope.data = response.data.records
+                    $scope.array = response.data.records
+                    console.log($scope.array);
+                });
+            }
+            $scope.getData();
+            
+            $scope.aprobar = (id) => {
+                console.log("llego");
+                console.log(id);
+                var req = {
+                    method: 'POST',
+                    url: '/leads/confirm.php',
+                    data: id
+                }
+                $http(req).then(function(response){
+                    $scope.getData();
+                });
+            }
+        });
+        </script>
+    </body>
+</html>
