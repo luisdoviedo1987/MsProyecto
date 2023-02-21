@@ -1,0 +1,197 @@
+@extends('layout.master')
+
+
+@section('content')
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-12 mt-4 justify-content-center" id="gform_1">  
+            <form style="text-align:center; ">
+                <div id="gform_page_1_1" class="justify-content-center">
+                    <div class="row justify-content-center">
+                        <!-- <div class="col-md-12 mt-0">
+                          <img alt="MediSmart-promo" class="custom-logo" style="max-width: 80%" src="https://medismart.net/control/images/Bar-Web-1366x485px.png">
+                        </div> -->
+
+                        <div class="col-md-12 mt-0">
+                            <h2 style="text-align:center; color: #777;margin: 15px 0 50px;padding: 0!important;font-family: Lato,sans-serif!important;font-size: 30px;font-weight: 700!important;" >Elegí cómo beneficiarte del Plan Inteligente</h2>
+                        </div>
+                    </div>      
+                    <div class="row">
+                        <div class="col-md-4 mt-4" >
+                          <div class="col-md-12" style="margin-left : 30px">
+                                <div class="circle">
+                                    <div class="logo">-10%</div>
+                                    <div class="text">
+                                      <svg x="0" y="0" viewBox="0 0 300 300" >
+                                      <defs>
+                                        <path id="circlePath"
+                                          d="
+                                          M 150, 150
+                                          m -120, 0
+                                          a 120,120 0 0,1 240,0
+                                          a 120,120 0 0,1 -240,0
+                                          "
+                                         />
+                                      </defs>
+                                        <g>
+                                        <text>
+                                          <textPath xlink:href="#circlePath">
+                                           Para afiliaciones web </textPath>
+                                        </text>
+                                        </g>
+                                      </svg>
+                                    </div>
+                                  </div>
+                            </div>  
+                            <br>
+                            <div class="cyan-box-style-one">
+                               
+                              <div class="row justify-content-center">
+                                    <div class="col-md-12">
+                                        <h3 class="mt-4 justify-content-center" style="color: #fff; text-aling:center; ">PLAN <br> MENSUAL</h3>
+                                    </div>
+                                </div>    
+                                <div class="row">
+                                    <div class="col-md-5 align-bottom pr-1">
+                                       <center> <p class="mt-4 pt-0 pr-0 align-bottom" >Desde</p></center>
+                                    </div>
+                                     <div class="col-md-7 mt-n3 pl-0" style="text-align:left;">
+                                      <center>   <span class="dollars">$13.</span>
+                                        <span class="cents">56*</span></center>
+                                    </div> 
+                                </div>
+                                <div class="row">
+                                    <p class="mt-0 pt-0 pr-0 align-bottom" style="text-align:center;">Podés agregar beneficiarios a tu plan por sólo $6.78 al mes cada uno.</p>
+                                </div>
+                                <div class="row justify-content-center">
+                                    <a href="{{route('afiliarse', ['plan'=>'mensual'])}}" class="gform_next_button button justify-content-center" style="cursor: pointer; pointer-events: auto; text-align:center!important;line-height: 1 !important; padding: 15px 45px 15px 45px !important;">AFILIATE</a>
+                                </div>
+                                </center>
+                                
+                            </div>
+
+                            <p class="mt-0 pt-0 pr-0 align-bottom" style="text-align:center;"><font size="2"><b>* 10% de descuento se aplica únicamente para afiliaciones web y se aplica al final de la transacción.</b></font></p>
+                        </div>  
+                        
+                        <div class="col-md-4 mt-4" >
+                          <div class="col-md-12" style="margin-left : 30px">
+                                <div class="circle">
+                                    <div class="logo">-10%</div>
+                                    <div class="text">
+                                      <svg x="0" y="0" viewBox="0 0 300 300" >
+                                      <defs>
+                                        <path id="circlePath"
+                                          d="
+                                          M 150, 150
+                                          m -120, 0
+                                          a 120,120 0 0,1 240,0
+                                          a 120,120 0 0,1 -240,0
+                                          "
+                                         />
+                                      </defs>
+                                        <g>
+                                        <text>
+                                          <textPath xlink:href="#circlePath">
+                                           Para afiliaciones web </textPath>
+                                        </text>
+                                        </g>
+                                      </svg>
+                                    </div>
+                                  </div>
+                            </div>  
+                            <br>
+                            <div class="cyan-box-style-one">
+                                <div class="row justify-content-center">
+                                    <div class="col-md-12">
+                                        <h3 class="mt-4 justify-content-center" style="color: #fff; text-aling:center; ">PLAN SEMESTRAL</h3>
+                                    </div>
+                                </div>    
+                                <div class="row">
+                                    <div class="col-md-5 align-bottom pr-1">
+                                     <center> <p class="mt-4 pt-0 pr-0 align-bottom">Desde</p></center>
+                                    </div>
+                                    <div class="col-md-7 mt-n3 pl-0" style="text-align:left;">
+                                      <center>   <span class="dollars">$81.</span>
+                                        <span class="cents">36</span></center>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <p class="mt-0 pt-0 pr-0 align-bottom" style="text-align:center;">Podés agregar beneficiarios a tu plan por solo $ 40.68 por semestre cada uno.</p>
+                                </div>
+                                <div class="row justify-content-center">
+                                    <a href="{{route('afiliarse', ['plan'=>'semestral'])}}" class="gform_next_button button justify-content-center" style="cursor: pointer; pointer-events: auto; text-align:center!important;line-height: 1 !important;padding: 15px 45px 15px 45px !important;">AFILIATE</a>
+                                </div>
+                            </div>
+                             <p class="mt-0 pt-0 pr-0 align-bottom" style="text-align:center;"><font size="2"><b>* 10% de descuento se aplica únicamente para afiliaciones web y se aplica al final de la transacción.</b></font></p>
+                        </div> 
+
+                        <div class="col-md-4 mt-4" >
+                          <div class="col-md-12" style="margin-left : 30px">
+                                <div class="circle">
+                                    <div class="logo">-10%</div>
+                                    <div class="text">
+                                      <svg x="0" y="0" viewBox="0 0 300 300" >
+                                      <defs>
+                                        <path id="circlePath"
+                                          d="
+                                          M 150, 150
+                                          m -120, 0
+                                          a 120,120 0 0,1 240,0
+                                          a 120,120 0 0,1 -240,0
+                                          "
+                                         />
+                                      </defs>
+                                        <g>
+                                        <text>
+                                          <textPath xlink:href="#circlePath">
+                                           Para afiliaciones web </textPath>
+                                        </text>
+                                        </g>
+                                      </svg>
+                                    </div>
+                                  </div>
+                            </div>  
+                            <br>
+                            <div class="cyan-box-style-one">
+                                <div class="row justify-content-center">
+                                    <div class="col-md-12">
+                                        <h3 class="mt-4 justify-content-center" style="color: #fff; text-aling:center; ">PLAN <br> ANUAL</h3>
+                                    </div>
+                                </div>    
+                                <div class="row">
+                                    <div class="col-md-5 align-bottom pr-1">
+                                      <center>  <p class="mt-4 pt-0 pr-0 align-bottom" >Desde</p></center>
+                                    </div>
+                                    <div class="col-md-7 mt-n3 pl-0" style="text-align:left;">
+                                      <center>   <span class="dollars">$162.</span>
+                                        <span class="cents">72</span></center>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <p class="mt-0 pt-0 pr-0 align-bottom" style="text-align:center;">Podés agregar beneficiarios a tu plan por solo $ 81.36 al año cada uno.</p>
+                                </div>
+                                <div class="row justify-content-center">
+                                    <a href="{{route('afiliarse', ['plan'=>'anual'])}}" class="gform_next_button button justify-content-center" style="cursor: pointer; pointer-events: auto; text-align:center!important;line-height: 1 !important;padding: 15px 45px 15px 45px !important;">AFILIATE</a>
+                                </div>
+                            </div>
+                             <p class="mt-0 pt-0 pr-0 align-bottom" style="text-align:center;"><font size="2"><b>* 10% de descuento se aplica únicamente para afiliaciones web y se aplica al final de la transacción.</b></font></p>
+                        </div> 
+
+                    </div>
+                  <br><br>
+                    <div class="col-md-12 mt-0">
+                      <!-- <p class="mt-0 pt-0 pr-0 align-bottom" style="text-align:center;"><font size="2"><b>*Restricciones promoción 25% en anualidad: *Aplican restricciones. No aplica con otras promociones y/o descuentos. No aplica para afiliados activos, renovaciones o cambios de periodicidad. Aplica para nuevas afiliaciones de titulares + beneficiarios (agregados durante la afiliación) realizadas en diciembre 2020. Solamente aplica en el monto de afiliación anual, el segundo año se paga el monto regular. Descuento no incluye monto de los carnets, cuyo precio por persona es de $3.39 y solo se paga al inicio. Descuento válido hasta el 31 de diciembre 2020.</b></font></p> -->
+                    </div>
+                </div>
+            </form>
+        </div>
+       
+    </div>
+</div>
+
+<script>
+  fbq('track', 'InitiateCheckout');
+</script>
+
+@endsection
