@@ -1,0 +1,320 @@
+@extends('layout.master')
+
+@section('content')
+<div class="container">
+    <div class="col-sm-8 offset-sm-2 mt-4">
+        <div class="gf_browser_gecko gform_wrapper" id="gform_wrapper_1">
+            <div class="gform_anchor" id="gf_1" tabindex="-1"></div>
+            <form id="form_afiliarse" novalidate="" class="ng-untouched ng-pristine ng-invalid">
+                <div class="gform_body">
+                    <div class="gform_page" id="gform_page_1_1">
+                    <!---->
+                    <h2 style="text-align:center" class="ng-star-inserted">Estás a un paso de completar tu afiliación</h2>
+                    <!----><!---->
+                    <p style="text-align:center" class="ng-star-inserted">Dejanos tus datos para continuar con el proceso</p>
+                    <!---->
+                    <div class="gform_page_fields">
+                        <ul class="gform_fields top_label form_sublabel_below description_below" id="gform_fields_1">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <li>
+                                        <div class="ginput_container ginput_container_select">
+                                            <select aria-invalid="false" aria-required="true" class="medium gfield_select" id="tipo_id" name="tipo_id" required="">
+                                                <option disabled="" hidden="" selected="selected" value="">Elegí tu tipo de identificación</option>
+                                                <option value="1">Cédula Nacional</option>
+                                                <option value="2">Cédula Residente (DIMEX)</option>
+                                                <option value="3">Pasaporte</option>
+                                            </select>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_text">
+                                            <input
+                                                aria-invalid="false"
+                                                aria-required="true"
+                                                class="medium"
+                                                id="nueva_cedula"
+                                                name="cedula"
+                                                placeholder="Número de identificación"
+                                                required=""
+                                                type="text"
+                                                pattern=""
+                                                value=""
+                                            />
+                                            <span class="icon iconPencil"></span>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_text">
+                                            <input aria-invalid="false" aria-required="true" class="medium" id="nombre" name="nombre" placeholder="Nombre" required="" type="text" value=""  />
+                                            <span class="icon iconPencil"></span>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_text">
+                                            <input aria-invalid="false" aria-required="true" class="medium" id="apellido1" name="apellido1" placeholder="Primer apellido" required="" type="text" value=""  />
+                                            <span class="icon iconPencil"></span>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_text">
+                                            <input aria-invalid="false" aria-required="true" class="medium" id="apellido2" name="apellido2" placeholder="Segundo apellido" required="" type="text" value=""  />
+                                            <span class="icon iconPencil"></span>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_date mt-4">
+                                            <label for="fecha_nac" style="display: block !important; color: #73d8d0 !important; font-size: 16px; font-family: 'Roboto', sans-serif !important;">Fecha de Nacimiento :</label>
+                                            <div class="ginput_container ginput_container_text">
+                                                <input aria-invalid="false" aria-required="true" class="medium" id="fechanacimiento" name="fechanacimiento" placeholder="yyyy-MM-dd" required="" type="text" value="" />
+                                                <span class="icon iconPencil"></span>
+                                                <!---->
+                                            </div>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_select">
+                                            <select aria-invalid="false" aria-required="true" class="medium gfield_select" id="genero" name="genero" required="" >
+                                                <option hidden="" value="">Género</option>
+                                                <option value="Masculino">Hombre</option>
+                                                <option value="Femenino">Mujer</option>
+                                            </select>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                </div>
+                                <div class="col-sm-6">
+                                    <li>
+                                        <div class="ginput_container ginput_container_text">
+                                            <input
+                                                aria-invalid="false"
+                                                aria-required="true"
+                                                class="medium"
+                                                id="telefono"
+                                                mask="0000-0000"
+                                                name="telefono"
+                                                placeholder="Teléfono Celular"
+                                                required=""
+                                                type="text"
+                                                value=""
+                                            />
+                                            <span class="icon iconPencil"></span>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                    
+                                    <li>
+                                        <div class="ginput_container ginput_container_email">
+                                            <input aria-invalid="false" aria-required="true" class="medium" id="email" name="email" placeholder="Email" required="" type="email" value="" />
+                                            <span class="icon iconPencil"></span>
+                                            <!---->
+                                        </div>
+                                    </li>
+                                    <div class="form-html-one mt-4" >DIRECCIÓN*</div>
+                                    <li>
+                                        <div class="ginput_container ginput_container_select">
+                                            <select aria-invalid="false" aria-required="true" class="medium gfield_select provincias" id="provincia" name="provincia" required="">
+                                                <option disabled="" hidden="" selected="selected" value="">PROVINCIA</option>
+                                                <!---->
+                                            </select>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_select">
+                                            <select aria-invalid="false" aria-required="true" class="medium gfield_select cantones" id="canton" name="canton" required="">
+                                                <option disabled="" hidden="" selected="selected" value="">CANTON</option>
+                                                <!---->
+                                            </select>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="ginput_container ginput_container_select">
+                                            <select aria-invalid="false" aria-required="true" class="medium gfield_select distritos" id="distrito" name="distrito" required="">
+                                                <option disabled="" hidden="" selected="selected" value="">DISTRITO</option>
+                                                <!---->
+                                            </select>
+                                        </div>
+                                    </li>
+                                </div>
+                            </div>
+                        </ul>
+                    </div>
+                    <div class="gform_page_footer">
+                        <div class="row mt-3">
+                            <div class="col-sm-6"><a href="{{ route('afiliacion') }}" class="gform_previous_button" style="text-align:center;">&lt;&lt; VOLVER</a></div>
+                            <div class="col-sm-6"><a class="gform_next_button button" id="btn_continuar" style="text-align:center;"> CONTINUAR &gt;&gt;</a></div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@endsection
+
+@section('js')
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+    $( document ).ready(function() {
+        $( function() {
+            $( "#fechanacimiento" ).datepicker({
+                dateFormat: 'yy-mm-dd',
+                defaultDate : '-18y'
+            });
+        });
+
+        $(".provincias").on('change', function(event, canton, distrito) {
+            $('#distrito').html('');
+            $('#distrito').append('<option disabled="" hidden="" selected="selected" value="">DISTRITO</option>');
+            $('#distrito').prop('disabled', 'disabled');
+
+            $('#canton').html('');
+            $('#canton').append('<option disabled="" hidden="" selected="selected" value="">CANTON</option>');
+            var url = "{{ route('api.cantones', ['distelec' => 999]) }}";
+            url = url.replace("999", $(this).children("option:selected").val());
+            $.get(url, function(data, status){
+                $.each(data, function( index, value ) {
+                    if (canton !== undefined && (value.CODIGOCANTON_C == canton || value.NAME == canton) ) {
+                        $('#canton').append('<option value="'+value.CODIGOCANTON_C+'" selected>'+value.NAME+'</option>'); 
+                        $('#canton').trigger('change', distrito);
+                    }else{
+                        $('#canton').append('<option value="'+value.CODIGOCANTON_C+'" >'+value.NAME+'</option>'); 
+                    }
+                });
+            });
+        });
+
+        $(".cantones").on('change', function(event, distrito) {
+            $('#distrito').html('');
+            if ($(this).children("option:selected").val() != 0) {
+                $('#distrito').prop('disabled', false);
+            }
+
+            $('#distrito').append('<option disabled="" hidden="" selected="selected" value="">DISTRITO</option>');
+            var url = "{{ route('api.distritos', ['distelec' => 999]) }}";
+            url = url.replace("999", $(this).children("option:selected").val());
+            $.get(url, function(data, status){
+                $.each(data, function( index, value ) {
+                    if (distrito !== undefined && (value.CODIGODISTRITO_C == distrito || value.NAME == distrito) ) {
+                        $('#distrito').append('<option value="'+value.CODIGODISTRITO_C+'" selected>'+value.NAME+'</option>'); 
+                    }else{
+                        $('#distrito').append('<option value="'+value.CODIGODISTRITO_C+'" >'+value.NAME+'</option>'); 
+                    }
+                });
+            }); 
+        });
+
+        $.get("{{ route('api.provincias') }}", function(data, status){
+            $.each(data, function( index, value ) {
+                $('#provincia').append('<option value="'+value.CODIGOPROVINCIA+'" name="' + value.NAME + '">'+value.NAME+'</option>'); 
+            });
+        });
+        
+
+        $('#btn_continuar').on('click', function(){
+            if (validateId($('#nueva_cedula').val())){
+                if(moment().diff($("#fechanacimiento").val(), 'years')  >= 18 ){
+                    $( "#fechanacimiento" ).datepicker({
+                        dateFormat: 'yy-mm-dd',
+                        defaultDate : '-18y'
+                    });
+
+                    var form = $( "#form_afiliarse" );
+                    form.validate({
+                        errorClass: 'ng-invalid',
+                    });
+                    var formData = $('#form_afiliarse').serialize();
+                    if (form.valid()) {
+                        $('#modal_loading').modal('show');
+                        $.ajax({
+                            type:'POST',
+                            url:"{{ route('afiliarse.post') }}",
+                            data: formData,
+                            success:function(data){
+                                window.location.replace(data);
+                            },
+                            error: function(XMLHttpRequest, textStatus, errorThrown) { 
+                                if (XMLHttpRequest.status == 403) {
+                                    rmse('Error', XMLHttpRequest.responseJSON.message);
+                                }else{
+                                    rmse('Error', 'Ocurrió un error, intente mas tarde');
+                                }
+                            }   
+                        });
+                    }
+                }else{
+                    swal({
+                        title: "Lo sentimos",
+                        text: "Debes ser mayor de edad para ser titular de un plan Medismart.",
+                        icon: "error",
+                        button: "Entendido",
+                    });
+                }
+            }else{
+                swal({
+                    title: "Lo sentimos",
+                    text: "El número de identificación solamente puede contener letras y números.",
+                    icon: "error",
+                    button: "Entendido",
+                });
+            }   
+        });
+
+        function validateId(id) {
+            var re = '^[a-zA-Z0-9]*$';
+
+            if (id.match(re) == null) {
+                return false;
+            }
+            return true;
+        }
+
+        //buscar por cedula
+        $('#nueva_cedula').keyup(function () {
+            if ($(this).val().length > 5) {
+
+                $.ajax({
+                    type:'POST',
+                    url:"{{ route('buscar.cedula') }}",
+                    data:{'cedula':$(this).val()},
+                    success:function(data){
+                        var d = JSON.parse(data);
+                        $.each(d.records, function( index, value ) {
+                            if(value.found == "yes") {
+                                $('#nombre').val(value.nombre);
+                                $('#apellido1').val(value.apellido1);
+                                $('#apellido2').val(value.apellido2);
+
+                                //fecha nacimiento
+                                $("#fechanacimiento").datepicker("setDate", value.fechaNacimiento);
+
+                                //genero
+                                var genero = (value.genero == 'M') ? 'Masculino' : 'Femenino';
+                                $("#genero option:selected").prop("selected",false);
+                                $("#genero option[value=" + genero + "]").prop("selected",true);
+
+                                //provincia canton distrito
+                                $("#provincia option:selected").prop("selected",false);
+                                $("#provincia option[name='" + value.provincia + "']").prop("selected",true);
+                                $("#provincia").trigger('change', [value.canton, value.distrito]);
+                            }
+                        });
+                    },
+                    error: function(XMLHttpRequest, textStatus, errorThrown) { 
+                        
+                    }   
+                });
+            }
+        });
+    });
+</script>
+@endsection

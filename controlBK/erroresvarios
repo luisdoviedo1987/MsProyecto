@@ -1,0 +1,109 @@
+{
+  "message": "Error interno: Attempt to de-reference a null object",
+  "array": {
+    "result": {
+      "resultado": false,
+      "mensaje": "Error interno: Attempt to de-reference a null object",
+      "codigoError": 500
+    },
+    "numerocliente": "CLI014070",
+    "mascotas": [
+      {
+        "result": null,
+        "raza": "AA",
+        "petAccion": "delete",
+        "nombreMascota": "Minino2",
+        "idPet": "a004A00000ZYu5QQAT",
+        "genero": "M",
+        "especie": "Gato",
+        "edadAnio": 2,
+        "color": "AAA"
+      }
+    ],
+    "beneficiarios": []
+  }
+}
+
+
+{
+  "message": "Error interno: Attempt to de-reference a null object",
+  "array": {
+    "result": {
+      "resultado": false,
+      "mensaje": "Error interno: Attempt to de-reference a null object",
+      "codigoError": 500
+    },
+    "numerocliente": "CLI014070",
+    "mascotas": [],
+    "beneficiarios": [
+      {
+        "tipoIdentificacion": "Cedula física",
+        "telefono": "87898789",
+        "result": null,
+        "provincia": "20",
+        "parentezco": null,
+        "nombreBeneficiario": "JUAN DIEGO RODRIGUEZ STELLER",
+        "idBen": "a024A00000eSwebQAC",
+        "genero": "Masculino",
+        "estadoCivil": "",
+        "distrito": "202002",
+        "correo": "correo@correodiego.com",
+        "coberturaOncosmart": false,
+        "cedula": "907865432",
+        "canton": "2020",
+        "benAccion": "delete"
+      }
+    ]
+  }
+}
+
+{
+  "result": {
+    "resultado": false,
+    "mensaje": "Error interno: Attempt to de-reference a null object",
+    "codigoError": 500
+  },
+  "numerocliente": "CLI014070",
+  "mascotas": [],
+  "beneficiarios": [
+    {
+      "tipoIdentificacion": "Cedula física",
+      "telefono": "87068508",
+      "result": null,
+      "provincia": "20",
+      "parentezco": "Otra Relacion",
+      "nombreBeneficiario": null,
+      "idBen": "a024A00000eSwelQAC",
+      "genero": "Masculino",
+      "estadoCivil": "",
+      "distrito": "202002",
+      "correo": "adfa.rs@gmail.com",
+      "coberturaOncosmart": false,
+      "cedula": "989878986",
+      "canton": "2020",
+      "benAccion": "delete"
+    }
+  ]
+}
+
+{
+  "numerocliente": "CLI014070",
+  "beneficiarios": [
+    {
+      "benAccion": "delete",
+      "idBen": "a024A00000eSwelQAC",
+      "tipoIdentificacion": "Cedula física",
+      "cedula": "989878986",
+      "telefono": 87068508,
+      "parentezco": "Otra Relacion",
+      "correo": "adfa.rs@gmail.com",
+      "provincia": 20,
+      "canton": 2020,
+      "distrito": 202002,
+      "estadoCivil": "",
+      "coberturaOncosmart": false,
+      "genero": "Masculino"
+    }
+  ],
+  "mascotas": []
+}
