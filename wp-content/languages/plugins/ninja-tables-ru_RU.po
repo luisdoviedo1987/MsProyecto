@@ -1,0 +1,695 @@
+# Translation of Plugins - Ninja Tables &#8211; Best Data Table Plugin for WordPress - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Ninja Tables &#8211; Best Data Table Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-08 11:39:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Ninja Tables &#8211; Best Data Table Plugin for WordPress - Stable (latest release)\n"
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:67
+msgid "Clear All"
+msgstr "Очистить все"
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:68
+msgid "Selected"
+msgstr "Выбранное"
+
+#. Author URI of the plugin
+msgid "https://ninjatables.com/"
+msgstr "https://ninjatables.com/"
+
+#: includes/I18nStrings.php:37
+msgid "Documentation and Help"
+msgstr "Документация и помощь"
+
+#: admin/table-builder/config/responsive.php:32
+#: admin/table-builder/config/responsive.php:79
+msgid "Cell Stack Direction"
+msgstr "Направление текста ячейки"
+
+#: admin/table-builder/config/responsive.php:138
+msgid "Responsive Settings"
+msgstr "Настройки адаптивности"
+
+#: admin/table-builder/config/setting.php:207
+msgid "Margin Bottom"
+msgstr "Внешний отступ снизу"
+
+#: admin/table-builder/config/templates.php:57
+msgid "Comparison Table Four"
+msgstr "Таблица сравнения 4"
+
+#: admin/table-builder/config/component.php:12
+#: admin/table-builder/config/responsive.php:5
+#: admin/table-builder/config/setting.php:5
+msgid "General"
+msgstr "Общее"
+
+#: admin/table-builder/config/component.php:16
+#: admin/table-builder/NinjaTableBuilder.php:259
+msgid "Text"
+msgstr "Текст"
+
+#: admin/table-builder/config/component.php:31
+msgid "Button"
+msgstr "Кнопка"
+
+#: admin/table-builder/config/component.php:68
+msgid "Icon"
+msgstr "Значок"
+
+#: admin/table-builder/config/component.php:82
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: admin/table-builder/config/component.php:98
+msgid "List"
+msgstr "Список"
+
+#: admin/table-builder/config/component.php:117
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/table-builder/config/component.php:128
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: admin/table-builder/config/component.php:140
+msgid "Image"
+msgstr "Изображение"
+
+#: admin/table-builder/config/component.php:159
+msgid "Advanced"
+msgstr "Расширенное"
+
+#: includes/ninja_tables-global-functions.php:1054
+msgid "Nonce verification failed, please try again."
+msgstr "Не удалось выполнить проверку nonce. Повторите попытку."
+
+#: admin/NinjaTablesAdmin.php:177
+msgid "Add Chart"
+msgstr "Добавить график"
+
+#: admin/NinjaTablesAdmin.php:140
+msgid "Tables"
+msgstr "Таблицы"
+
+#: admin/NinjaTablesAdmin.php:165 admin/NinjaTablesAdmin.php:171
+msgid "Charts"
+msgstr "Графики"
+
+#: public/views/frameless/show_ntb_preview.php:9
+#: public/views/frameless/show_preview.php:9
+msgid "Preview Table"
+msgstr "Предпросмотр таблицы"
+
+#: admin/NinjaTablesAdmin.php:1732
+msgid "All Cache successfully cleared"
+msgstr "Весь кэш успешно очищен"
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr "WPManageNinja LLC"
+
+#: includes/NinjaTableImport.php:288
+msgid "CSV File is not valid"
+msgstr "Некорректный CSV файл"
+
+#: includes/NinjaTableImport.php:125
+msgid "Please upload valid CSV"
+msgstr "Загрузите действительный CSV"
+
+#: admin/NinjaTablesAdmin.php:1620 admin/NinjaTablesAdmin.php:1667
+#: admin/NinjaTablesAdmin.php:1700
+msgid "Settings successfully updated"
+msgstr "Настройки успешно обновлены"
+
+#: admin/table-builder/ImportExport.php:55 includes/NinjaTableImport.php:142
+msgid "Something is wrong when parsing the csv"
+msgstr "Что-то не так при разборе csv"
+
+#: admin/NinjaTablesAdmin.php:566
+msgid "Table "
+msgstr "Таблица "
+
+#: public/dataProviders/FluentFormProvider.php:121
+msgid "No fields were selected."
+msgstr "Поля не выбраны."
+
+#: public/dataProviders/FluentFormProvider.php:114
+msgid "The title field is required."
+msgstr "Поле заголовка обязательно."
+
+#: admin/NinjaTablesAdmin.php:1576
+msgid "There was an error to install the plugin. Please install the plugin manually."
+msgstr "При установке плагина произошла ошибка. Установите плагин вручную."
+
+#: admin/NinjaTablesAdmin.php:1560
+msgid "You are using wp multisite environment so please install WP FluentForm manually"
+msgstr "Вы используете среду wp multisite, поэтому, пожалуйста, установите WP FluentForm вручную"
+
+#: admin/NinjaTablesAdmin.php:1553
+msgid "You do not have permission to install a plugin, Please ask your administrator to install WP Fluent Form"
+msgstr "У вас нет разрешения на установку плагина. Попросите администратора установить WP Fluent Form"
+
+#: admin/NinjaTablesAdmin.php:1570
+msgid "WP Fluent Form successfully installed and activated, You are redirecting to WP Fluent Form Now"
+msgstr "WP Fluent Form успешно установлен и активирован, сейчас вы перенаправляетесь на WP Fluent Form"
+
+#. Plugin URI of the plugin
+msgid "https://wpmanageninja.com/downloads/ninja-tables-pro-add-on/"
+msgstr "https://wpmanageninja.com/downloads/ninja-tables-pro-add-on/"
+
+#: admin/NinjaTablesAdmin.php:1213
+msgid "No Tables found. Please add a table first"
+msgstr "Таблицы не найдены. Сначала добавьте таблицу"
+
+#: includes/I18nStrings.php:51
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/I18nStrings.php:72
+msgid "Add Column"
+msgstr "Добавить столбец"
+
+#: includes/I18nStrings.php:99
+msgid "Additional CSS"
+msgstr "Дополнительный CSS"
+
+#: includes/I18nStrings.php:48
+msgid "Apply"
+msgstr "Применить"
+
+#: includes/I18nStrings.php:46
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: includes/I18nStrings.php:54
+msgid "Click here"
+msgstr "Щёлкните здесь"
+
+#: includes/I18nStrings.php:73
+msgid "Column Name"
+msgstr "Название столбца"
+
+#: includes/I18nStrings.php:68
+msgid "Date Field"
+msgstr "Поле даты"
+
+#: includes/I18nStrings.php:78
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: includes/I18nStrings.php:33
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: includes/I18nStrings.php:19
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/I18nStrings.php:39
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/I18nStrings.php:18
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: includes/I18nStrings.php:35
+msgid "Enter your license key"
+msgstr "Введите ваш лицензионный ключ"
+
+#: includes/I18nStrings.php:7
+msgid "Home"
+msgstr "Главная"
+
+#: admin/NinjaTablesAdmin.php:148 includes/I18nStrings.php:23
+msgid "Import"
+msgstr "Импорт"
+
+#: includes/I18nStrings.php:21
+msgid "JSON - JavaScript Object Notation"
+msgstr "JSON -описания объектов JavaScript"
+
+#: includes/I18nStrings.php:25
+msgid "License"
+msgstr "Лицензия"
+
+#: includes/I18nStrings.php:34
+msgid "Licensing"
+msgstr "Лицензирование"
+
+#: includes/I18nStrings.php:84
+msgid "Maximum Width"
+msgstr "Макс. ширина"
+
+#: includes/I18nStrings.php:17
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: includes/I18nStrings.php:69
+msgid "Select Field"
+msgstr "Выбрать поля"
+
+#: includes/I18nStrings.php:85
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: includes/I18nStrings.php:65
+msgid "Text Area"
+msgstr "Область текста"
+
+#: includes/I18nStrings.php:77
+msgid "Update"
+msgstr "Обновить"
+
+#: includes/I18nStrings.php:58
+msgid "confirm"
+msgstr "подтвердить"
+
+#: includes/I18nStrings.php:36
+msgid "Activate Ninja Tables Pro"
+msgstr "Активировать Ninja Tables Pro"
+
+#: includes/I18nStrings.php:29
+msgid "Activate Ninja Tables Pro Add-on plugin to unlock this feature"
+msgstr "Активируйте дополнения к Ninja Tables Pro, чтобы разблокировать эту функцию"
+
+#: includes/I18nStrings.php:49
+msgid "Add Data"
+msgstr "Добавить данные"
+
+#: includes/I18nStrings.php:62
+msgid "Always show in all devices"
+msgstr "Показывать на всех устройствах"
+
+#: includes/I18nStrings.php:56
+msgid "Are you sure to delete this?"
+msgstr "Вы уверены, что хотите удалить это?"
+
+#: includes/I18nStrings.php:71
+msgid "Available Columns"
+msgstr "Доступные столбцы"
+
+#: includes/I18nStrings.php:50
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/I18nStrings.php:57
+msgid "cancel"
+msgstr "отмена"
+
+#: includes/I18nStrings.php:30
+msgid "Check all"
+msgstr "Выбрать всё"
+
+#: includes/I18nStrings.php:74
+msgid "Column Key"
+msgstr "Ключ столбца"
+
+#: includes/I18nStrings.php:20
+msgid "CSV - Comma-separated values"
+msgstr "CSV - значения, разделённые запятыми"
+
+#: includes/I18nStrings.php:104
+msgid "CSV Header Structure"
+msgstr "Структура заголовка CSV"
+
+#: includes/I18nStrings.php:43
+msgid "Custom CSS"
+msgstr "Произвольный CSS"
+
+#: includes/I18nStrings.php:75
+msgid "Data Type"
+msgstr "Тип данных"
+
+#: includes/I18nStrings.php:47
+msgid "Delete Entries"
+msgstr "Удалить записи"
+
+#: includes/I18nStrings.php:105
+msgid "Download Sample CSV"
+msgstr "Загрузить образец CSV"
+
+#: includes/I18nStrings.php:91
+msgid "Enable sorting of the table by the visitor"
+msgstr "Включить сортировку таблицы по посетителю"
+
+#: includes/I18nStrings.php:90
+msgid "Enable the visitor to filter or search the table."
+msgstr "Разрешить посетителю фильтровать или искать в таблице."
+
+#: includes/I18nStrings.php:100
+msgid "Export Table"
+msgstr "Экспортировать таблицу"
+
+#: includes/I18nStrings.php:82
+msgid "Extra Classes"
+msgstr "Дополнительные классы"
+
+#: includes/I18nStrings.php:95
+msgid "Extra CSS Class for the table"
+msgstr "Дополнительный класс CSS для таблицы"
+
+#: includes/I18nStrings.php:86
+msgid "Filterable"
+msgstr "Фильтрация"
+
+#: includes/I18nStrings.php:98
+msgid "Footer Colors"
+msgstr "Цвет подвала"
+
+#: includes/I18nStrings.php:38
+msgid "For any type of query which was not covered in our documentation, Please submit a support ticket ticket"
+msgstr "Для любого типа запроса, который не был рассмотрен в нашей документации, отправьте заявку в службу поддержки"
+
+#: includes/I18nStrings.php:87
+msgid "Header HTML Content"
+msgstr "Содержимое HTML заголовка"
+
+#: includes/I18nStrings.php:66
+msgid "HTML Field"
+msgstr "Поле HTML"
+
+#: includes/I18nStrings.php:44
+msgid "Import - Export"
+msgstr "Импорт - экспорт"
+
+#: includes/I18nStrings.php:28
+msgid "Import Format:"
+msgstr "Формат импорта:"
+
+#: includes/I18nStrings.php:103
+msgid "Import from CSV"
+msgstr "Импорт из CSV"
+
+#: includes/I18nStrings.php:101
+msgid "Import Table Data"
+msgstr "Импорт данных таблицы"
+
+#: includes/I18nStrings.php:22
+msgid "JSON - Exported From Ninja Tables"
+msgstr "JSON - Экспорт из таблиц Ninja"
+
+#: includes/I18nStrings.php:83
+msgid "Max Width"
+msgstr "Макс. ширина"
+
+#: includes/libs/Migrations/NinjaTablesSupsysticTableMigration.php:24
+msgid "No Table Found with the selected table"
+msgstr "Таблица с выбранной таблицей не найдена"
+
+#: includes/libs/Migrations/NinjaTablesUltimateTableMigration.php:21
+msgid "No Ultimate Table Found with the selected table"
+msgstr "Не найдено конечной таблицы с выбранной таблицей"
+
+#: includes/I18nStrings.php:67
+msgid "Numeric Value"
+msgstr "Числовое значение"
+
+#: includes/I18nStrings.php:14
+msgid "Title"
+msgstr "Название"
+
+#: includes/I18nStrings.php:88
+msgid "Show Table Title"
+msgstr "Показать название таблицы"
+
+#: includes/I18nStrings.php:97
+msgid "Table Body Colors"
+msgstr "Цвета основной части таблицы"
+
+#: includes/I18nStrings.php:41
+msgid "Table Configuration"
+msgstr "Конфигурация таблицы"
+
+#: includes/I18nStrings.php:42
+msgid "Table Design"
+msgstr "Дизайн таблицы"
+
+#: includes/I18nStrings.php:45
+msgid "Select bulk action"
+msgstr "Выбрать массовое действие"
+
+#: includes/I18nStrings.php:76
+msgid "Responsive Breakpoint"
+msgstr "Пороговое значение адаптивности"
+
+#: includes/I18nStrings.php:24
+msgid "Permission"
+msgstr "Права доступа"
+
+#: includes/I18nStrings.php:102
+msgid "Replace Existing Data"
+msgstr "Заменить существующие данные"
+
+#: includes/I18nStrings.php:27
+msgid "Select file:"
+msgstr "Выбрать файл:"
+
+#: includes/I18nStrings.php:81
+msgid "Select Items"
+msgstr "Выбрать элементы"
+
+#: includes/I18nStrings.php:15
+msgid "ShortCode"
+msgstr "Шорткод"
+
+#: includes/I18nStrings.php:89
+msgid "Show Table Description"
+msgstr "Показать описание таблицы"
+
+#: includes/I18nStrings.php:64
+msgid "Single Line Text Field"
+msgstr "Однострочное текстовое поле"
+
+#: includes/I18nStrings.php:79
+msgid "Standard"
+msgstr "Стандартный"
+
+#: includes/NinjaTableImport.php:77
+msgid "Successfully imported. Please go to all tables and review your newly imported table."
+msgstr "Успешно импортирован. Перейдите ко всем таблицам и просмотрите свою недавно импортированную таблицу."
+
+#: includes/I18nStrings.php:96
+msgid "Table Header Colors"
+msgstr "Цвета заголовка таблицы"
+
+#: includes/I18nStrings.php:40
+msgid "Table Rows"
+msgstr "Строки таблицы"
+
+#: includes/I18nStrings.php:63
+msgid "Totally hidden on all devices"
+msgstr "Полностью скрыт на всех устройствах"
+
+#: includes/I18nStrings.php:70
+msgid "Update Configuration"
+msgstr "Обновить конфигурацию"
+
+#: includes/I18nStrings.php:52
+msgid "Upgrade Notice"
+msgstr "Уведомление об обновлении"
+
+#: includes/I18nStrings.php:31
+msgid "Your License is Active"
+msgstr "Ваша лицензия активна"
+
+#: includes/I18nStrings.php:32
+msgid "Your license is active! Enjoy Ninja Tables Pro Add On"
+msgstr "Ваша лицензия активна! Дополнение Enjoy Ninja Tables Pro"
+
+#: includes/I18nStrings.php:53
+msgid "Your Ninja Tables Pro plugin is outdated. Please upgrade to its latest version."
+msgstr "Ваш плагин Ninja Tables Pro устарел. Обновите до последней версии."
+
+#: includes/I18nStrings.php:55
+msgid "to view the upgrade guide."
+msgstr "для просмотра руководства по обновлению."
+
+#: includes/I18nStrings.php:80
+msgid "Select a Format"
+msgstr "Выбрать формат"
+
+#: includes/I18nStrings.php:26
+msgid "NinjaTables can import tables from existing data, like from a CSV or JSON file. You can also import existing tables from the other WordPress table plugins."
+msgstr "NinjaTables может импортировать таблицы из существующих данных, например, из файла CSV или JSON. Вы также можете импортировать существующие таблицы из других плагинов таблиц WordPress."
+
+#: includes/I18nStrings.php:93
+msgid "Pagination Position"
+msgstr "Позиция пагинации"
+
+#: includes/I18nStrings.php:12
+msgid "Import Table"
+msgstr "Импортировать таблицу"
+
+#: admin/NinjaTablesAdmin.php:185
+msgid "<span style=\"color:#f39c12;\">Get Pro</span>"
+msgstr "<span style=\"color:#f39c12;\">Получить Pro</span>"
+
+#: admin/NinjaTablesAdmin.php:1325
+msgid "Successfully duplicated table."
+msgstr "Таблица успешно продублирована."
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:65
+#: includes/libs/TableDrivers/NinjaFooTable.php:339
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:64
+#: includes/libs/TableDrivers/NinjaFooTable.php:337
+msgid "Search in"
+msgstr "Искать в"
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:66
+#: includes/libs/TableDrivers/NinjaFooTable.php:341
+msgid "No Result Found"
+msgstr "Ничего не найдено"
+
+#: admin/NinjaTablesAdmin.php:1190
+msgid "Insert Shortcode"
+msgstr "Вставить шорткод"
+
+#: admin/NinjaTablesAdmin.php:1189
+msgid "Please select a table"
+msgstr "Пожалуйста, выберите таблицу"
+
+#: admin/NinjaTablesAdmin.php:1211
+msgid "Select a Table"
+msgstr "Выбрать таблицу"
+
+#: admin/NinjaTablesAdmin.php:1187
+msgid "Select a Table to insert"
+msgstr "Выбрать таблицу для вставки"
+
+#. Plugin Name of the plugin
+#: admin/NinjaTablesAdmin.php:73 admin/NinjaTablesAdmin.php:84
+#: admin/NinjaTablesAdmin.php:86 admin/NinjaTablesAdmin.php:124
+#: includes/I18nStrings.php:6
+msgid "Ninja Tables"
+msgstr "Ninja Tables"
+
+#: admin/NinjaTablesAdmin.php:87 includes/I18nStrings.php:11
+msgid "Add Table"
+msgstr "Добавить таблицу"
+
+#: admin/NinjaTablesAdmin.php:1678 includes/I18nStrings.php:10
+msgid "All Tables"
+msgstr "Все таблицы"
+
+#: admin/NinjaTablesAdmin.php:218 includes/I18nStrings.php:9
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/NinjaTablesAdmin.php:85
+msgid "Table"
+msgstr "Таблица"
+
+#: admin/NinjaTablesAdmin.php:156 includes/I18nStrings.php:8
+msgid "Tools"
+msgstr "Инструменты"
+
+#: admin/NinjaTablesAdmin.php:88 includes/I18nStrings.php:13
+msgid "Add New Table"
+msgstr "Добавить новую таблицу"
+
+#: admin/NinjaTablesAdmin.php:89 includes/I18nStrings.php:16
+#: public/views/frameless/show_ntb_preview.php:31
+#: public/views/frameless/show_preview.php:29
+msgid "Edit"
+msgstr "Изменить"
+
+#: admin/NinjaTablesAdmin.php:90
+#: includes/libs/TableDrivers/views/ninja_foo_table.php:44
+#: public/views/table_builder_html.php:38
+msgid "Edit Table"
+msgstr "Изменить таблицу"
+
+#: admin/NinjaTablesAdmin.php:714
+msgid "Invalid Table to Delete"
+msgstr "Недопустимая таблица для удаления"
+
+#: admin/NinjaTablesAdmin.php:91
+msgid "New Table"
+msgstr "Новая таблица"
+
+#: includes/NinjaTableImport.php:29
+msgid "No appropriate driver found for the import format."
+msgstr "Не найден подходящий драйвер для формата импорта."
+
+#: admin/NinjaTablesAdmin.php:95 admin/NinjaTablesAdmin.php:619
+msgid "No Table Found"
+msgstr "Таблица не найдена"
+
+#: admin/NinjaTablesAdmin.php:96
+msgid "No Table Found in Trash"
+msgstr "Таблица в корзине не найдена"
+
+#. Description of the plugin
+msgid "The Easiest & Fastest Responsive Table Plugin on WordPress. Multiple templates, drag-&-drop live table builder, multiple color scheme, and styles."
+msgstr "Самый простой и быстрый отклик стол плагин на WordPress. Несколько шаблонов, построитель таблиц drag- & -drop live, несколько цветовых схем и стилей."
+
+#: admin/NinjaTablesAdmin.php:97
+msgid "Parent Table"
+msgstr "Родительская таблица"
+
+#: includes/NinjaTableImport.php:299
+msgid "Please set table configuration first"
+msgstr "Сначала установите конфигурацию таблицы"
+
+#: includes/NinjaTableImport.php:313
+msgid "Please use the provided CSV header structure font face."
+msgstr "Используйте указанный шрифт структуры заголовка CSV."
+
+#: includes/NinjaTableImport.php:162 includes/NinjaTableImport.php:188
+#: includes/NinjaTableImport.php:255
+msgid "Successfully added a table."
+msgstr "Таблица успешно добавлена."
+
+#: admin/NinjaTablesAdmin.php:1041
+msgid "Successfully deleted data."
+msgstr "Данные успешно удалены."
+
+#: admin/NinjaTablesAdmin.php:732
+msgid "Successfully deleted the table."
+msgstr "Таблица успешно удалена."
+
+#: admin/NinjaTablesAdmin.php:945
+msgid "Successfully saved the data."
+msgstr "Данные успешно сохранены."
+
+#: admin/NinjaTablesAdmin.php:688
+msgid "Successfully updated configuration."
+msgstr "Конфигурация успешно обновлена."
+
+#: includes/NinjaTableImport.php:353
+msgid "Successfully uploaded data."
+msgstr "Данные успешно загружены."
+
+#: includes/libs/Migrations/NinjaTablesMigration.php:22
+#: includes/NinjaTableImport.php:266
+msgid "Temporary table description"
+msgstr "Описание временной таблицы"
+
+#: includes/libs/Migrations/NinjaTablesMigration.php:19
+#: includes/NinjaTableImport.php:265
+msgid "Temporary table name"
+msgstr "Название временной таблицы"
+
+#: admin/NinjaTablesAdmin.php:554
+msgid "The name field is required."
+msgstr "Поле названия обязательно."
+
+#: admin/NinjaTablesAdmin.php:92 admin/NinjaTablesAdmin.php:93
+msgid "View Table"
+msgstr "Смотреть таблицу"
+
+#: includes/NinjaTableImport.php:215
+msgid "You have a faulty JSON file. Please export a new one."
+msgstr "У вас неисправный файл JSON. Экспортируйте новый."

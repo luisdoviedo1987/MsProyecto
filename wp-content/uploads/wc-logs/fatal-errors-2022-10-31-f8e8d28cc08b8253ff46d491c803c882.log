@@ -1,0 +1,20 @@
+2022-10-31T16:16:47+00:00 CRITICAL Uncaught Error: Call to undefined function et_builder_get_fonts() in /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php:207
+Stack trace:
+#0 /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php(229): et_divi_fonts_url()
+#1 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(307): et_divi_load_fonts()
+#2 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /var/www/html/medismart.net/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#4 /var/www/html/medismart.net/public_html/wp-includes/script-loader.php(2156): do_action()
+#5 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts()
+#6 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#7 /var/www/html/medismart.net/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#8 /var/www/html/medismart.net/public_html/wp-includes/general-templa en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php en la línea 207
+
+2022-10-31T17:51:54+00:00 CRITICAL Uncaught SMTP2GOWPPlugin\GuzzleHttp\Exception\ServerException: Server error: `POST https://api.smtp2go.com/v3/email/send` resulted in a `500 Internal Server Error` response:
+{"request_id": "abd84c98-5944-11ed-bcf3-f23c93560c0e", "data": {"error": "An unknown error has occurred whilst processin (truncated...)
+ in /var/www/html/medismart.net/public_html/wp-content/plugins/smtp2go/build/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:78
+Stack trace:
+#0 /var/www/html/medismart.net/public_html/wp-content/plugins/smtp2go/build/vendor/guzzlehttp/guzzle/src/Middleware.php(63): SMTP2GOWPPlugin\GuzzleHttp\Exception\RequestException::create()
+#1 /var/www/html/medismart.net/public_html/wp-content/plugins/smtp2go/build/vendor/guzzlehttp/promises/src/Promise.php(173): SMTP2GOWPPlugin\GuzzleHttp\Middleware::SMTP2GOWPPlugin\GuzzleHttp\{closure}()
+#2 /var/www/html/medismart.net/public_html/wp-content/plugins/smtp2go/build/vendor/guzzlehttp/promises/src/Promise.php(128): SMTP2GOWPPlugin\GuzzleHttp\Promise\Promise:: en /var/www/html/medismart.net/public_html/wp-content/plugins/smtp2go/build/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php en la línea 78
+

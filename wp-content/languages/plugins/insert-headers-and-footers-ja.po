@@ -1,0 +1,212 @@
+# Translation of Plugins - Insert Headers and Footers by WPBeginner - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Insert Headers and Footers by WPBeginner - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-15 05:51:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Insert Headers and Footers by WPBeginner - Stable (latest release)\n"
+
+#: views/sidebar.php:116
+msgid "Fix WordPress email deliverability with the best SMTP plugin."
+msgstr "ベストな SMTP プラグインで、WordPress のメール配信を改善。"
+
+#: views/sidebar.php:115
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: views/sidebar.php:106
+msgid "Best WordPress SEO plugin (used by 3 million sites)."
+msgstr "300万サイトで使用されるベスト WordPress SEO プラグイン。"
+
+#: views/sidebar.php:105
+msgid "AIOSEO"
+msgstr "AIOSEO"
+
+#: views/sidebar.php:96
+msgid "Get the best Drag & Drop WordPress Website Builder"
+msgstr "最高のドラッグ & ドロップ WordPress サイトビルダー"
+
+#. translators: $1$s - IHAF plugin name; $2$s - WP.org review link; $3$s -
+#. WP.org review link.
+#: inc/admin/class-review.php:177
+msgid "Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> to help us spread the word. Thank you from the WPBeginner team!"
+msgstr "<a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> で %1$s に <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> 評価し、製品を広める手助けをお願いします。ありがとうございます ! WPBeginner チームより"
+
+#: inc/admin/class-review.php:115
+msgid "I already did"
+msgstr "回答済み"
+
+#: inc/admin/class-review.php:114
+msgid "Nope, maybe later"
+msgstr "後で"
+
+#: inc/admin/class-review.php:113
+msgid "Ok, you deserve it"
+msgstr "レビューする"
+
+#: inc/admin/class-review.php:110
+msgid "~ Syed Balkhi<br>Founder of WPBeginner"
+msgstr "~ Syed Balkhi<br>WPBeginner ファウンダー"
+
+#: inc/admin/class-review.php:108
+msgid "Hey, I noticed you have been using Insert Headers and Footers for some time - that’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Insert Headers and Footers プラグインを継続利用いただき、ありがとうございます。とても嬉しいです ! もしよろしければ、大変お手数ですが WordPress 公式サイトにて5つ星評価をいただけると、利用者数増につながり、私たちのモチベーションが大幅アップいたします。"
+
+#: ihaf.php:158
+msgid "Sorry, you are not allowed to edit this page."
+msgstr "ページの編集権限がありません。"
+
+#: ihaf.php:150
+msgid "Sorry, only have read-only access to this page. Ask your administrator for assistance editing."
+msgstr "ページの閲覧のみ許可されています。編集するには、サイト管理者にお問い合わせください。"
+
+#. translators: %s: The `</body>` tag
+#: views/settings.php:57
+msgid "These scripts will be printed above the closing %s tag."
+msgstr "これらのスクリプトは %s 閉じタグの直前に出力されます。"
+
+#. translators: %s: The `<head>` tag
+#: views/settings.php:45
+msgid "These scripts will be printed just below the opening %s tag."
+msgstr "これらのスクリプトは %s 開始タグの直後に出力されます。"
+
+#: views/settings.php:40
+msgid "Scripts in Body"
+msgstr "ボディ内スクリプト"
+
+#. translators: %s: The `<head>` tag
+#: views/settings.php:33
+msgid "These scripts will be printed in the %s section."
+msgstr "これらのスクリプトは %s セクション内に出力されます。"
+
+#: views/sidebar.php:95
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: views/sidebar.php:86
+msgid "Best WordPress Lead Generation Plugin"
+msgstr "WordPress でリードを生み出すベストプラグイン"
+
+#: views/sidebar.php:85
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: views/sidebar.php:76
+msgid "Google Analytics Made Easy for WordPress"
+msgstr "Google Analytics が WordPress で簡単に"
+
+#: views/sidebar.php:75
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: views/sidebar.php:66
+msgid "Drag & Drop WordPress Form Builder"
+msgstr "ドラッグ & ドロップの WordPress フォームビルダー"
+
+#: views/sidebar.php:65
+msgid "WPForms"
+msgstr "WPForms"
+
+#: views/sidebar.php:58
+msgid "Like this plugin? Check out our other WordPress plugins:"
+msgstr "プラグインが気に入りましたか ? 他の WordPress プラグインもチェックしてください:"
+
+#: views/sidebar.php:54
+msgid "Our WordPress Plugins"
+msgstr "当社の WordPress プラグイン"
+
+#: views/sidebar.php:43
+msgid "Boost Your WordPress SEO"
+msgstr "Boost Your WordPress SEO"
+
+#: views/sidebar.php:38
+msgid "Improve WordPress Security"
+msgstr "Improve WordPress Security"
+
+#: views/sidebar.php:33
+msgid "Speed Up WordPress"
+msgstr "Speed Up WordPress"
+
+#: views/sidebar.php:27
+msgid "Some of our popular guides:"
+msgstr "人気のガイド:"
+
+#: views/sidebar.php:20
+msgid "WPBeginner blog"
+msgstr "WPBeginner ブログ"
+
+#. translators: %s: Link to WPBeginner blog
+#: views/sidebar.php:17
+msgid "Want to take your site to the next level? Check out our daily free WordPress tutorials on %s."
+msgstr "サイトをレベルアップさせましょう。%sで、毎日更新される無料の WordPress チュートリアルをチェックしてください。"
+
+#: views/sidebar.php:9
+msgid "Improve Your Site"
+msgstr "あなたのサイトを改善"
+
+#: views/settings.php:65
+msgid "Save"
+msgstr "保存"
+
+#: views/settings.php:52
+msgid "Scripts in Footer"
+msgstr "フッター内スクリプト"
+
+#: views/settings.php:28
+msgid "Scripts in Header"
+msgstr "ヘッダー内スクリプト"
+
+#: views/settings.php:2 views/settings.php:23
+msgid "Settings"
+msgstr "設定"
+
+#: views/dashboard-notices.php:15
+msgid "to configure the plugin."
+msgstr "してプラグインを設定します。"
+
+#: views/dashboard-notices.php:15
+msgid "Click here"
+msgstr "ここをクリック"
+
+#. translators: %s: Name of this plugin
+#: views/dashboard-notices.php:11
+msgid "Thank you for installing %1$s!"
+msgstr "%1$s をインストールいただきありがとうございます。"
+
+#: ihaf.php:173
+msgid "Settings Saved."
+msgstr "設定を保存しました。"
+
+#: ihaf.php:164
+msgid "Invalid nonce specified. Settings NOT saved."
+msgstr "nonce が一致しません。設定は保存されませんでした。"
+
+#: ihaf.php:161
+msgid "nonce field is missing. Settings NOT saved."
+msgstr "nonde フィールドがありません。設定は保存されませんでした。"
+
+#: ihaf.php:145
+msgid "Sorry, you are not allowed to access this page."
+msgstr "ページへのアクセス権限がありません。"
+
+#. Author of the plugin
+msgid "WPBeginner"
+msgstr "WPBeginner"
+
+#. Description of the plugin
+msgid "Allows you to insert code or text in the header or footer of your WordPress blog"
+msgstr "コードやテキストをあなたの WordPress サイトのヘッダーやフッターに入れることができるようになります。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.wpbeginner.com/"
+msgstr "http://www.wpbeginner.com/"
+
+#. Plugin Name of the plugin
+msgid "Insert Headers and Footers"
+msgstr "Insert Headers and Footers"

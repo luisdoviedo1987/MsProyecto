@@ -1,0 +1,609 @@
+# Translation of Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-23 21:27:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "WPCode"
+msgstr "WPCode"
+
+#: includes/admin/pages/class-wpcode-admin-page-code-snippets.php:214
+#: includes/generator/class-wpcode-generator-post-type.php:231
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/admin/class-wpcode-metabox-snippets.php:50
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:150
+#: includes/generator/class-wpcode-generator-script.php:193
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:22
+msgid "Header"
+msgstr "Header"
+
+#: includes/admin/class-wpcode-metabox-snippets.php:57
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:152
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:48
+msgid "Body"
+msgstr "Body"
+
+#: includes/admin/class-wpcode-metabox-snippets.php:51
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:154
+#: includes/generator/class-wpcode-generator-script.php:192
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:35
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:96
+msgid "Update"
+msgstr "Update"
+
+#. Translators: This is the format for displaying the date in the admin list,
+#. [date] at [time].
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:106
+msgid "%1$s at %2$s"
+msgstr "%1$s bij %2$s"
+
+#: includes/generator/class-wpcode-generator-hooks.php:1336
+msgid "Action"
+msgstr "Actie"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:714
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:358
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:768
+msgid "Active"
+msgstr "Actief"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:357
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:765
+msgid "All"
+msgstr "Alle"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:45
+msgid "Archive"
+msgstr "Archief"
+
+#: includes/generator/class-wpcode-generator-post-type.php:196
+msgid "Archives"
+msgstr "Archieven"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:467
+#: includes/generator/class-wpcode-generator-post-type.php:378
+#: includes/generator/class-wpcode-generator-query.php:225
+#: includes/generator/class-wpcode-generator-query.php:299
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:241
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:671
+msgid "Clear"
+msgstr "Wissen"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:161
+#: includes/generator/class-wpcode-generator-hooks.php:1379
+msgid "Code"
+msgstr "Code"
+
+#: includes/generator/class-wpcode-generator-post-type.php:383
+msgid "Comments"
+msgstr "Reacties"
+
+#: includes/class-wpcode-generator.php:95
+msgid "Content"
+msgstr "Inhoud"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:469
+msgid "Created"
+msgstr "Gemaakt"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:130
+msgid "Custom"
+msgstr "Aangepast"
+
+#: includes/generator/class-wpcode-generator-post-type.php:382
+#: includes/generator/class-wpcode-generator-query.php:487
+msgid "Custom Fields"
+msgstr "Aangepaste velden"
+
+#: includes/generator/class-wpcode-generator-widget.php:231
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/generator/class-wpcode-generator-post-type.php:125
+#: includes/generator/class-wpcode-generator-sidebar.php:138
+#: includes/generator/class-wpcode-generator-widget.php:150
+#: includes/generator/class-wpcode-generator-widget.php:223
+msgid "Description"
+msgstr "Beschrijving"
+
+#: includes/class-wpcode-generator.php:97
+msgid "Design"
+msgstr "Ontwerp"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:369
+msgid "Dismiss"
+msgstr "Negeren"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:664
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:284
+msgid "Edit"
+msgstr "Bewerk"
+
+#: includes/generator/class-wpcode-generator-widget.php:189
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:594
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:607
+msgid "Error"
+msgstr "Fout"
+
+#: includes/generator/class-wpcode-generator-post-type.php:380
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:481
+msgid "Export"
+msgstr "Exporteren"
+
+#: includes/generator/class-wpcode-generator-post-type.php:297
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: includes/generator/class-wpcode-generator-widget.php:183
+msgid "Field Type"
+msgstr "Veldtype"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:667
+#: includes/generator/class-wpcode-generator-hooks.php:1337
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:84
+#: includes/generator/class-wpcode-generator-contact-methods.php:84
+#: includes/generator/class-wpcode-generator-cronjob.php:89
+#: includes/generator/class-wpcode-generator-menu.php:89
+#: includes/generator/class-wpcode-generator-post-status.php:84
+#: includes/generator/class-wpcode-generator-post-type.php:84
+#: includes/generator/class-wpcode-generator-query.php:114
+#: includes/generator/class-wpcode-generator-script.php:89
+#: includes/generator/class-wpcode-generator-sidebar.php:89
+#: includes/generator/class-wpcode-generator-style.php:89
+#: includes/generator/class-wpcode-generator-taxonomy.php:84
+#: includes/generator/class-wpcode-generator-widget.php:84
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:269
+msgid "Get Support"
+msgstr "Krijg ondersteuning"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:427
+msgid "Help"
+msgstr "Hulp"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:901
+msgid "Hide"
+msgstr "Verbergen"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:41
+msgid "Homepage"
+msgstr "Homepage"
+
+#: includes/generator/class-wpcode-generator-hooks.php:35
+msgid "Hooks"
+msgstr "Hooks"
+
+#: includes/generator/class-wpcode-generator-query.php:298
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:149
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:182
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:304
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:480
+msgid "Import"
+msgstr "Import"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:717
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:359
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:771
+msgid "Inactive"
+msgstr "Inactief"
+
+#: includes/generator/class-wpcode-generator-style.php:186
+msgid "Media"
+msgstr "Media"
+
+#: includes/generator/class-wpcode-generator-post-type.php:484
+msgid "Menu position"
+msgstr "Menupositie"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:466
+#: includes/generator/class-wpcode-generator-post-status.php:128
+#: includes/generator/class-wpcode-generator-post-type.php:136
+#: includes/generator/class-wpcode-generator-sidebar.php:130
+msgid "Name"
+msgstr "Naam"
+
+#: includes/generator/class-wpcode-generator-post-type.php:283
+#: includes/generator/class-wpcode-generator-taxonomy.php:279
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:165
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:571
+msgid "Note"
+msgstr "Notitie"
+
+#: includes/generator/class-wpcode-generator-widget.php:191
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/generator/class-wpcode-generator-query.php:365
+msgid "Offset"
+msgstr "Offset"
+
+#: includes/generator/class-wpcode-generator-post-type.php:365
+#: includes/generator/class-wpcode-generator-widget.php:239
+msgid "Options"
+msgstr "Opties"
+
+#: includes/generator/class-wpcode-generator-query.php:274
+msgid "Order"
+msgstr "Bestellen"
+
+#: includes/generator/class-wpcode-generator-query.php:293
+msgid "Order by"
+msgstr "Sorteer op"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:47
+#: includes/generator/class-wpcode-generator-contact-methods.php:47
+#: includes/generator/class-wpcode-generator-cronjob.php:47
+#: includes/generator/class-wpcode-generator-hooks.php:1279
+#: includes/generator/class-wpcode-generator-menu.php:47
+#: includes/generator/class-wpcode-generator-post-status.php:47
+#: includes/generator/class-wpcode-generator-post-type.php:47
+#: includes/generator/class-wpcode-generator-query.php:72
+#: includes/generator/class-wpcode-generator-script.php:47
+#: includes/generator/class-wpcode-generator-sidebar.php:47
+#: includes/generator/class-wpcode-generator-style.php:47
+#: includes/generator/class-wpcode-generator-taxonomy.php:47
+#: includes/generator/class-wpcode-generator-widget.php:47
+msgid "Info"
+msgstr "Info"
+
+#: includes/generator/class-wpcode-generator-post-status.php:157
+#: includes/generator/class-wpcode-generator-post-status.php:185
+#: includes/generator/class-wpcode-generator-post-type.php:411
+#: includes/generator/class-wpcode-generator-post-type.php:426
+#: includes/generator/class-wpcode-generator-post-type.php:454
+#: includes/generator/class-wpcode-generator-post-type.php:465
+#: includes/generator/class-wpcode-generator-post-type.php:479
+#: includes/generator/class-wpcode-generator-post-type.php:521
+#: includes/generator/class-wpcode-generator-post-type.php:532
+#: includes/generator/class-wpcode-generator-post-type.php:552
+#: includes/generator/class-wpcode-generator-post-type.php:622
+#: includes/generator/class-wpcode-generator-post-type.php:636
+#: includes/generator/class-wpcode-generator-post-type.php:647
+#: includes/generator/class-wpcode-generator-query.php:137
+#: includes/generator/class-wpcode-generator-query.php:342
+#: includes/generator/class-wpcode-generator-query.php:437
+#: includes/generator/class-wpcode-generator-script.php:210
+#: includes/generator/class-wpcode-generator-script.php:229
+#: includes/generator/class-wpcode-generator-style.php:211
+#: includes/generator/class-wpcode-generator-style.php:230
+#: includes/generator/class-wpcode-generator-taxonomy.php:322
+#: includes/generator/class-wpcode-generator-taxonomy.php:336
+#: includes/generator/class-wpcode-generator-taxonomy.php:347
+#: includes/generator/class-wpcode-generator-taxonomy.php:361
+#: includes/generator/class-wpcode-generator-taxonomy.php:372
+#: includes/generator/class-wpcode-generator-taxonomy.php:417
+msgid "No"
+msgstr "Nee"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:26
+msgid "Page"
+msgstr "Pagina"
+
+#: includes/generator/class-wpcode-generator-post-type.php:678
+msgid "Pages"
+msgstr "Pagina's"
+
+#: includes/generator/class-wpcode-generator-query.php:331
+msgid "Pagination"
+msgstr "Paginering"
+
+#: includes/generator/class-wpcode-generator-post-type.php:386
+msgid "Post Formats"
+msgstr "Berichtformaten"
+
+#: includes/generator/class-wpcode-generator-post-type.php:35
+#: includes/generator/class-wpcode-generator-post-type.php:111
+msgid "Post Type"
+msgstr "Berichttype"
+
+#: includes/generator/class-wpcode-generator-post-type.php:677
+msgid "Posts"
+msgstr "Berichten"
+
+#: includes/generator/class-wpcode-generator-widget.php:102
+msgid "Prefix"
+msgstr "Voorvoegsel"
+
+#: includes/generator/class-wpcode-generator-query.php:306
+msgid "Random"
+msgstr "Willekeurig"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:257
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:320
+msgid "Restore"
+msgstr "Terugzetten"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:204
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:157
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:230
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:291
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:339
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:142
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:116
+msgid "Schedule"
+msgstr "Planning"
+
+#: includes/generator/class-wpcode-generator-query.php:259
+msgid "Search"
+msgstr "Zoeken"
+
+#: includes/generator/class-wpcode-generator-widget.php:193
+msgid "Select"
+msgstr "Selecteer"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:386
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:436
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:900
+msgid "Show"
+msgstr "Tonen"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:35
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:116
+msgid "Sidebars"
+msgstr "Zijbalken"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:201
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:473
+#: includes/generator/class-wpcode-generator-post-status.php:111
+msgid "Status"
+msgstr "Status"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:569
+msgid "Tag"
+msgstr "Tag"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:211
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:470
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/generator/class-wpcode-generator-query.php:387
+#: includes/generator/class-wpcode-generator-query.php:393
+#: includes/generator/class-wpcode-generator-taxonomy.php:35
+#: includes/generator/class-wpcode-generator-taxonomy.php:112
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: includes/generator/class-wpcode-generator-query.php:417
+msgid "Terms"
+msgstr "Voorwaarden"
+
+#: includes/generator/class-wpcode-generator-widget.php:188
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/generator/class-wpcode-generator-widget.php:192
+msgid "Textarea"
+msgstr "Tekstgebied"
+
+#: includes/generator/class-wpcode-generator-post-type.php:376
+#: includes/generator/class-wpcode-generator-query.php:300
+msgid "Title"
+msgstr "Titel"
+
+#: includes/generator/class-wpcode-generator-query.php:542
+msgid "Type"
+msgstr "Type"
+
+#: includes/generator/class-wpcode-generator-widget.php:190
+msgid "URL"
+msgstr "URL"
+
+#: includes/conditional-logic/class-wpcode-conditional-user.php:26
+msgid "User"
+msgstr "Gebruiker"
+
+#: includes/generator/class-wpcode-generator-post-status.php:146
+#: includes/generator/class-wpcode-generator-post-type.php:441
+#: includes/generator/class-wpcode-generator-taxonomy.php:309
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: includes/admin/class-wpcode-review.php:120
+#: includes/generator/class-wpcode-generator-post-status.php:170
+#: includes/generator/class-wpcode-generator-post-status.php:195
+#: includes/generator/class-wpcode-generator-post-type.php:399
+#: includes/generator/class-wpcode-generator-post-type.php:551
+#: includes/generator/class-wpcode-generator-post-type.php:757
+#: includes/generator/class-wpcode-generator-query.php:136
+#: includes/generator/class-wpcode-generator-query.php:379
+#: includes/generator/class-wpcode-generator-query.php:436
+#: includes/generator/class-wpcode-generator-script.php:211
+#: includes/generator/class-wpcode-generator-script.php:228
+#: includes/generator/class-wpcode-generator-style.php:212
+#: includes/generator/class-wpcode-generator-style.php:229
+#: includes/generator/class-wpcode-generator-taxonomy.php:428
+#: includes/generator/class-wpcode-generator-taxonomy.php:505
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/admin/class-wpcode-upgrade-welcome.php:141
+msgid "PHP Snippets"
+msgstr "PHP snippets"
+
+#: includes/admin/class-wpcode-upgrade-welcome.php:131
+msgid "Header & Footer Scripts"
+msgstr "Header & footer scripts"
+
+#: includes/admin/class-wpcode-admin-page-loader.php:127
+#: includes/admin/class-wpcode-admin-page-loader.php:128
+#: includes/admin/class-wpcode-admin-page-loader.php:185
+#: includes/admin/pages/class-wpcode-admin-page-code-snippets.php:32
+msgid "Code Snippets"
+msgstr "Code snippets"
+
+#: includes/admin/admin-ajax-handlers.php:193
+msgid "Success! Your server can make SSL connections."
+msgstr "Succes! Je server kan SSL verbindingen maken."
+
+#: includes/admin/admin-ajax-handlers.php:40
+msgctxt "Snippet status change"
+msgid "activated"
+msgstr "geactiveerd"
+
+#: includes/admin/admin-ajax-handlers.php:40
+msgctxt "Snippet status change"
+msgid "deactivated"
+msgstr "gedeactiveerd"
+
+#. Translators: Human-Readable time to display.
+#: includes/admin/class-wpcode-notifications.php:282
+msgid "%1$s ago"
+msgstr "%1$s geleden"
+
+#: includes/admin/class-wpcode-upgrade-welcome.php:151
+msgid "Error Handling"
+msgstr "Foutafhandeling"
+
+#. Translators: This simply adds the plugin name before the logo text.
+#: includes/admin/class-wpcode-upgrade-welcome.php:162
+#: includes/admin/pages/class-wpcode-admin-page.php:395
+msgid "%s logo"
+msgstr "%s logo"
+
+#: includes/admin/class-wpcode-upgrade-welcome.php:227
+msgid "Lead Developer"
+msgstr "Hoofdontwikkelaar"
+
+#: includes/admin/pages/class-wpcode-admin-page-code-snippets.php:194
+#: includes/admin/pages/class-wpcode-admin-page.php:894
+msgid "Search Snippets"
+msgstr "Zoek snippets"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:59
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:574
+msgid "Generator"
+msgstr "Generator"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:140
+msgid "Generate"
+msgstr "Genereer"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:202
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:304
+#: includes/admin/pages/class-wpcode-admin-page.php:1068
+msgid "Code Preview"
+msgstr "Code voorbeeld"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:211
+msgctxt "Copy to clipboard"
+msgid "Copy Code"
+msgstr "Code kopiëren"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:243
+#: includes/generator/class-wpcode-generator-type.php:212
+msgid "Remove Row"
+msgstr "Verwijder rij"
+
+#: includes/admin/pages/class-wpcode-admin-page-library.php:44
+msgid "Library"
+msgstr "Bibliotheek"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:92
+msgid "Save Snippet"
+msgstr "Snippet opslaan"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:356
+msgid "Insertion"
+msgstr "Invoeging"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:366
+msgid "Insert Method"
+msgstr "Invoeg methode"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:369
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:468
+msgid "Location"
+msgstr "Locatie"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpcode.com/"
+msgstr "https://www.wpcode.com/"
+
+#: includes/admin/class-wpcode-upgrade-welcome.php:30
+#: includes/admin/class-wpcode-upgrade-welcome.php:31
+msgid "Welcome to WPCode"
+msgstr "Welkom bij WPCode"
+
+#. translators: $1$s - WPCode plugin name; $2$s - WP.org review link; $3$s -
+#. WP.org review link.
+#: includes/admin/class-wpcode-review.php:192
+msgid "Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> to help us spread the word. Thank you from the WPCode team!"
+msgstr "Beoordeel %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> op <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> om ons te helpen het woord te verspreiden. Bedankt namens het WPCode team!"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:111
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:137
+msgid "Sorry, you only have read-only access to this page. Ask your administrator for assistance editing."
+msgstr "Je hebt enkel alleen-lezen toegang tot deze pagina. Vraag je beheerder om hulp bij het bewerken."
+
+#. translators: %s: The `</body>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:147
+msgid "These scripts will be printed above the closing %s tag."
+msgstr "Deze scripts worden afgedrukt boven de afsluitende %s tag."
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:142
+msgid "These scripts will be printed just below the opening %s tag."
+msgstr "Deze scripts worden net onder de openingstag %s afgedrukt."
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:137
+msgid "These scripts will be printed in the %s section."
+msgstr "Deze scripts worden afgedrukt in de sectie %s."
+
+#: includes/admin/class-wpcode-admin-page-loader.php:193
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:38
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:138
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:276
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:180
+msgid "Settings Saved."
+msgstr "Instellingen opgeslagen."

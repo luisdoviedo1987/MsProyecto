@@ -1,0 +1,653 @@
+# Translation of Plugins - reCAPTCHA in WP comments form - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - reCAPTCHA in WP comments form - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-22 11:06:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - reCAPTCHA in WP comments form - Stable (latest release)\n"
+
+#: recaptcha-in-wp-comments.php:18
+msgctxt "Menu name of plugin"
+msgid "reCAPTCHA in Comments"
+msgstr "reCAPTCHA en Comentarios"
+
+#: includes/tools.php:274
+msgctxt "1: Go to settings page message, 2: Settings page WP admin URL, 3: Menu name of the plugin"
+msgid "%1$s <a href=\"%2$s\">%3$s</a>."
+msgstr "%1$s <a href=\"%2$s\">%3$s</a>."
+
+#: includes/messages.php:40
+msgctxt "1: reCAPTCHA pair string"
+msgid "One or both parts of the %1$s are empty. Plugin has switched to the Installation Wizard mode."
+msgstr "Una o ambas partes del %1$s están vacías. El plugin ha cambiado al modo Asistente de Instalación."
+
+#: includes/messages.php:408
+msgctxt "1: reCAPTCHA pair string, 2: URL address"
+msgid "For further information and an step by step example of how to get or to change your %1$s, please visit the <a href=\"%2$s\" target=\"_blank\">Author's plugin reCAPTCHA API Key pair page</a>."
+msgstr "Para más información y un exemplo paso a paso de como obtener o cambiar tu %1$s, por favor, visita la <a href=\"%2$s\" target=\"_blank\">página del autor del plugin sobre el Par de claves API para reCAPTCHA</a>."
+
+#: includes/messages.php:406
+msgctxt "1: reCAPTCHA pair string"
+msgid "After saving your %1$s, the Installation Wizard will disappear and you will be able to access to the normal plugin settings interface."
+msgstr "Después de guardar tu %1$s, el Asistente de Instalación desaparecerá y podrás acceder al interface normal de ajustes del plugin."
+
+#: includes/messages.php:401
+msgctxt "1: reCAPTCHA pair string"
+msgid "The Installation Wizard just works for helping you to create and get your %1$s."
+msgstr "El Asistente de Instalación sólo funciona para ayudarte a crear y para obtener tu %1$s."
+
+#: includes/messages.php:397
+msgctxt "1: reCAPTCHA pair string"
+msgid "The installation wizard will appear each time that one or both parts of the %1$s are <strong>empty</strong> in the homonymous plugin settings fields."
+msgstr "El Asistente de Instalación aparecerá cada vez de una o ambas partes del %1$s estén <strong>vacías</strong> en los campos homónimos de los ajustes del plugin."
+
+#: includes/messages.php:393
+msgctxt "1: reCAPTCHA pair string"
+msgid "The plugin is <strong>completely automatic</strong> so, it's not necesary that you configure anything however, the plugin SHOWS a Google reCAPTCHA field that USES a pair of <strong>Site and Secret API Keys</strong> thus the plugin also NEED them so that, before using the plugin, first you have to follow this Two simple steps Installation Wizard for getting a new %1$s for your site."
+msgstr "El plugin es <strong>completamente automático</strong> así que no es necesario que configures nada sin embargo, el plugin MUESTRA un campo Google reCAPTCHA que USA un par de claves API <strong>Sitio y Secreta</strong> por lo tanto, el plugin también las necesita así que, antes de usar el plugin, primero debes seguir este simple Asistente de Instalación en dos pasos para obtener un nuevo %1$s para tu sitio web."
+
+#: includes/messages.php:389
+msgctxt "1: reCAPTCHA pair string"
+msgid "This Installation Wizard is used for helping you in installations process from the scratch to obtain your %1$s."
+msgstr "Este Asistente de Instalación se usa para ayudarte durante el proceso de instalación desde cero en la obtención de tu %1$s."
+
+#: includes/messages.php:363
+msgctxt "1: reCAPTCHA pair string"
+msgid "Finally, if you see an image like this next one, the plugin works properly but there is a problem with your %1$s. Please check your API Keys again."
+msgstr "Finalmente, si ves una imagen parecida a esta siguiente, el plugin funciona perfectamente pero hay un problema con tu %1$s. Por favor, verifica nuevamente tu Par de claves API."
+
+#: includes/messages.php:353
+msgctxt "1: reCPATCHA pair string, 2: accordion section name"
+msgid "Check your %1$s in the <strong>%2$s</strong> accordion section."
+msgstr "Verifica tu %1$s en la sección acordeón <strong>%2$s</strong>."
+
+#: includes/messages.php:327
+msgctxt "1: setting field name, 2: accordion section name"
+msgid "Change the state of the <strong>%1$s</strong> switcher in the <strong>%2$s</strong> accordion section."
+msgstr "Cambia el estado del interruptor <strong>%1$s</strong> en la sección acordeón <strong>%2$s</strong>."
+
+#: includes/messages.php:314
+msgctxt "1: switch ON string, 2: accordion section name"
+msgid "Check if the activation switcher is <strong>%1$s</strong> in the <strong>%2$s</strong> accordion section."
+msgstr "Verifica si el interruptor de activación está en <strong>%1$s</strong> en la sección acordeón <strong>%2$s</strong>."
+
+#: includes/messages.php:303
+msgctxt "Help tab title"
+msgid "I don't see reCAPTCHA field"
+msgstr "No veo el campo reCAPTCHA"
+
+#: includes/messages.php:276
+msgctxt "Help tab title"
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+#: includes/messages.php:238
+msgctxt "Help tab title"
+msgid "reCAPTCHA Security Level"
+msgstr "Nivel de seguridad del reCAPTCHA"
+
+#: includes/messages.php:221
+msgid "In most of WP themes, the plugin works automatically without any additional configuration but, if your WP theme has got a special comments form, it has got different ID attributes in form HTML tags, you need to configure the CSS styles, etc. through this set of settings you can change the operating mode of the plugin completely."
+msgstr "En la mayoría de los temas WP, el plugin funciona automáticamente sin ninguna configuración adicional pero, si tu tema tiene un formulario de comentarios especial, tiene un atributo ID diferente en las etiquetas HTML del formulario, necesitas configurar los estilos CSS, etc. a través de este conjunto de ajustes puedes cambiar el modo de funcionamiento del plugin completamente."
+
+#: includes/messages.php:219
+msgid "In this accordion section, you can set up the technical and internal parameters of the plugin."
+msgstr "En esta sección acordeón, puedes ajustar los parámetros técnicos e internos del plugin."
+
+#: includes/messages.php:178
+msgctxt "1: reCAPTCHA pair string, 2: URL"
+msgid "For further information and an step by step example of how to get or to change your %1$s, please visit the <a href=\"%2$s\" target=\"_blank\">Author's plugin reCAPTCHA API Key pair page</a>."
+msgstr "Para más información y un ejemplo paso a paso de cómo obtener o cambiar tu %1$s, por favor visita la <a href=\"%2$s\" target=\"_blank\">página del autor del plugin sobre el Par de claves API para reCAPTCHA</a>."
+
+#: includes/messages.php:137
+msgctxt "1: reCAPTCHA pair string"
+msgid "If you want to change the %1$s that the plugin is using, please, follow these simple instructions."
+msgstr "Si quieres cambiar el %1$s que el plugin está usando, por favor, sigue estas simples instrucciones."
+
+#: includes/messages.php:136
+msgctxt "1: reCAPTCHA pair string"
+msgid "Changing the %1$s"
+msgstr "Cambiando el %1$s"
+
+#: includes/messages.php:134
+msgctxt "Help tab title"
+msgid "Change API Key pair"
+msgstr "Cambiar el Par de claves API"
+
+#: includes/messages.php:77
+msgctxt "It could be a exact copy of the standard WP text used for `Save Changes` button translated to your native language"
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: includes/installation-interface.php:168
+msgctxt "1: reCAPTCHA pair string"
+msgid "Paste the <span class=\"warning\">%1$s</span> values here"
+msgstr "Pega los valores del <span class=\"warning\">%1$s</span> aquí"
+
+#: includes/installation-interface.php:147
+msgctxt "1: reCAPTCHA pair string"
+msgid "And, as you can see in the next example image, the <strong>Keys</strong> subsection of this page already contains your new %1$s."
+msgstr "¨Y, como puedes ver en esta próxima imagen de ejemplo, la subsección <strong>Claves</strong> de esta página ya contiene tu nuevo %1$s."
+
+#: includes/installation-interface.php:121
+msgctxt "1: reCAPTCHA pair string"
+msgid "This plugin works showing a Google reCAPTCHA widget but for working, Google reCAPTCHA need a pair of their API Keys thus, before beginning to use this plugin, first you have to obtain a %1$s so that, simply follow these easy instructions and <strong>get yours</strong>."
+msgstr "Este plugin funciona mostrando un widget de Google reCAPTCHA pero para funcionar, Google reCAPTCHA necesita un Par de sus claves API por lo tanto, antes de empezar a usar este plugin, primero tienes que obtener un %1$s así que, sigue estas sencillas instrucciones y <strong>obtén el tuyo</strong>."
+
+#: includes/installation-interface.php:205
+msgid "For further information and more examples of how to get or change your Google reCAPTCHA API Key pair, please visit the <a href=\"%1$s\" target=\"_blank\">Author's plugin reCAPTCHA API Key pair page</a>."
+msgstr "Para más información y más ejemplos sobre cómo obtener o cambiar tu Par de Claves API de Google reCAPTCHA, por favor, visita la <a href=\"%1$s\" target=\"_blank\">página del autor del plugin sobre el Par de claves API del reCAPTCHA</a>."
+
+#: includes/installation-interface.php:124
+msgid "Obtaining your Google reCAPTCHA API Keys pair"
+msgstr "Obteniendo tu Par de claves API de Google reCAPTCHA"
+
+#: includes/messages.php:41
+msgid "Press this button for restoring plugin default value"
+msgstr "Pulsa este botón para restaurar el valor por defecto del plugin"
+
+#: includes/settings.php:353
+msgid "BLOCK access executing WP_DIE()"
+msgstr "BLOQUEAR acceso ejecutando WP_DIE()"
+
+#: includes/settings.php:343
+msgid "Send comment to TRASH"
+msgstr "Enviar comentario a PAPELERA"
+
+#: includes/settings.php:333
+msgid "Action:"
+msgstr "Acción:"
+
+#: includes/settings.php:348
+msgid "Directly DELETE comment"
+msgstr "Directamente BORRAR comentario"
+
+#: includes/settings.php:321
+msgid "Force the language in which reCAPTCHA field speaks"
+msgstr "Forzar el idioma en el que el campo reCAPTCHA habla"
+
+#: includes/settings.php:250
+msgctxt "recaptcha-in-wp-comments-form"
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/settings.php:245
+msgctxt "recaptcha-in-wp-comments-form"
+msgid "Center"
+msgstr "Centro"
+
+#: includes/settings.php:240
+msgctxt "recaptcha-in-wp-comments-form"
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/settings.php:234
+msgid "Align"
+msgstr "Alineación"
+
+#: includes/settings.php:173
+msgid "Paste your Secret key here"
+msgstr "Pega tu Clave secreta aquí"
+
+#: includes/settings.php:166
+msgid "Paste your Site key here"
+msgstr "Pega tu Clave de sitio aquí"
+
+#: includes/messages.php:39
+msgid "Plugin and reCAPTCHA settings saved."
+msgstr "Ajustes del Plugin y del reCAPTCHA guardados."
+
+#: includes/messages.php:402
+msgid "This Wizard is divided into two parts: in first one you CREATE your new Google reCAPTCHA API Keys pair and in the second one you GET it, simply copying these API Keys from Google reCAPTCHA settings page and pasting them into the homonymous fields of the form inside the itself Wizard. That's all."
+msgstr "Este Asistente se divide en dos partes: en la primera CREAS tu nuevo Par de Claves API de Google reCAPTCHA y en la segunda, lo recuperas, simplemente copiando estas Claves API desde la pagina de ajustes de Google reCAPTCHA y copiándolas en los campos homónimos del formulario del propio Asistente. Eso es todo."
+
+#: includes/messages.php:399
+msgid "Installation Wizard"
+msgstr "Asistente de Instalación"
+
+#: includes/messages.php:391
+msgid "Plugin requirements"
+msgstr "Requerimientos del plugin"
+
+#: includes/messages.php:386
+msgid "Plugin installation"
+msgstr "Instalación del Plugin"
+
+#: includes/messages.php:346
+msgctxt "1: accordion section name"
+msgid "To find out the ID's, first desactivate the plugin via <strong>%1$s</strong> accordion section, then use the <strong>Inspect Element</strong> or the <strong>See HTML code</strong> options of your browser to see the HTML code of the post comments form of your WP theme, and after applying the changes in above indicated fields, remember to reactivate the plugin again."
+msgstr "Para averiguar las ID's, primero desactiva el plugin via la sección acordeón <strong>%1$s</strong>, entonces usa la opción <strong>Inspeccionar elemento</strong> o <strong>Ver código HTML</strong> de tu navegador para ver el codigo HTML del formulario de comentarios de las entradas, y después de aplicar los cambios en los campos arriba indicados, acuérdate de reactivar el plugin otra vez."
+
+#: includes/messages.php:340
+msgctxt "1: accordion section name"
+msgid "Check the ID's of the &lt;FORM&gt; and &lt;BUTTON&gt; HTML elements in a real WP post comments form and afterwards, please, check whether these ID's are equal or different of the homonymous field values in the <strong>%1$s</strong> accordion section. Apply the changes if it's necessary."
+msgstr "Verifica los ID's de los elementos HTML &lt;FORM&gt; y &lt;BUTTON&gt; en un formulario de comentarios de una entrada WP real y después, por favor, verifica su estos ID's son iguales o diferentes de los valores de los campos homónimos de la sección acordeón <strong>%1$s</strong>. Aplica los cambios si es necesario."
+
+#: includes/messages.php:307
+msgid "Some times, directly after installing the plugin but mostly, after changing or updating your WP Theme, it's possible that the reCAPTCHA field doesn't appears of the screen. It's rare because the plugin is configured for operating with most of WP themes but, if it happens, please, check one by one these points to fix the problem."
+msgstr "Algunas veces, directamente después de instalar el plugin pero mayormente, después de cambiar o actualizar tu tema WP, es posible que el campo reCAPTCHA no aparezca en pantalla. Es raro porque el plugin se configura para funcionar con la mayoría de los temas WP pero, si sucede, por favor, verifica uno por uno estos puntos para corregir el problema."
+
+#: includes/messages.php:284
+msgid "Google reCAPTCHA field works with major screen readers (ChromeVox, JAWS, NVDA and VoiceOver) so that, it will alert screen readers of status changes, such as when the reCAPTCHA verification quiz is complete. The status changes are always visible and audible. See next example image."
+msgstr "El campo Google reCAPTCHA funciona con la mayoría del los lectores de pantalla (ChromeVox, JAWS, NVDA and VoiceOver) así que, alertará a los lectores de pantalla de los cambios de estado, como cuando el acertijo de verificación reCAPTCHA se ha completado. Los cambios de estos siempre son visibles y audibles. Observa la siguiente imagen de ejemplo."
+
+#: includes/messages.php:280
+msgid "From the accessibility point of view, you could worry about whether is always better to use a sound or image type verification quiz however, despite of you have fixed the reCAPTCHA <em>Type</em> parameter to <strong>Image</strong> in the <strong>%s</strong> accordion section, Google reCAPTCHA field automatically (and always) allows people that use screen readers to convert the reCAPTCHA quiz into a sound or text type verification field so that, you have not to configure anything else."
+msgstr "Desde el punto de vista de la accesibilidad, podría preocuparte si siempre es mejor usar un sonido o bien una image como tipo de acertijo de verificación sin embargo, a pesar de que hayas fijado el parámetro de <em>Tipo</em> de reCAPTCHA en <strong>Imagen</strong> en la sección acordeón <strong>%s</strong>, el campo Google reCAPTCHA automáticamente (y siempre) permite a las personas que usan lectores de pantalla convertir el acertijo del reCAPTCHA en un campo de verificación de tipo sonido o texto así que, no tienes que configurar nada más."
+
+#: includes/messages.php:256
+msgid "Now, go to the <strong>Key Configuraction</strong> section, open the <strong>Advanced Settings</strong> subsection and simply select the level of security using the slider <strong>Security Preference</strong> then press the <strong>Save Changes</strong> button."
+msgstr "Ahora, dirígete a la sección <strong>Configuración de la Clave</strong>, abre la subsección <strong>Ajustes Avanzados</strong> y simplemente selecciona el nivel de seguridad utilizando el potenciómetro deslizador <strong>Preferencia de Seguridad</strong> luego, pulsa el botón <strong>Guardar Cambios</strong>."
+
+#: includes/messages.php:252
+msgid "Go to the <strong>Manage your reCAPTCHA API keys</strong> section and select your reCAPTCHA that's identified by its label."
+msgstr "Dirígete a la sección <strong>Manage your reCAPTCHA API keys</strong> y selecciona tu reCAPTCHA que se identifica a través de su etiqueta."
+
+#: includes/messages.php:244
+msgid "Changing reCAPTCHA field security level"
+msgstr "Cambiando el nivel de seguridad del campo reCAPTCHA"
+
+#: includes/messages.php:242
+msgid "Nowadays, <strong>Google reCAPTCHA field doesn't allow to modify its level of security (difficulty) from outside of its official settings page</strong> so that, if you want that the plugin shows a more (or less) secure reCAPTCHA quiz, you have to visit the <a href=\"%1$s\" target=\"_blank\" >Google reCAPTCHA official site</a> and follow these simple instructions."
+msgstr "Actualmente, <strong>el campo Google reCAPTCHA no permite modificar su nivel de seguridad (dificultad) desde fuera de su pagina oficial de ajustes</strong> así que si deseas que tu plugin muestra un acertijo reCAPTCHA más (o menos) seguro, debes visitar la página <a href=\"%1$s\" target=\"_blank\" >sitio oficial de Google reCAPTCHA</a> y seguir estas simples instrucciones."
+
+#: includes/messages.php:146
+msgid "Now, you can <strong>CREATE</strong> a new reCAPTCHA field or you can <strong>SELECT</strong> one of your previously created reCAPTCHAS."
+msgstr "Ahora, puedes <strong>CREAR</strong> un nuevo campo reCAPTCHA o puedes <strong>SELECCIONAR</strong> uno de los reCAPTCHAS creados previamente."
+
+#: includes/messages.php:172
+msgctxt "1: reCAPTCHA API Keys accordion section name, 2: Save Changes button text"
+msgid "And finally, one by one, you have to copy these new Site and Secret API Keys from the Google settings page and paste them into the plugin homonymous fields in the <strong>%1$s</strong> acordion section. Remember to press the <strong>%2$s</strong> button."
+msgstr "Y finalmente, uno a uno, debes copiar estas nuevas claves API Sitio y Secreta desde la pagina de ajustes de Google y pegarlas en los campos homónimos de la sección acordeón <strong>%1$s</strong>. Acuerdate de pulsar el botón <strong>%2$s</strong>."
+
+#: includes/messages.php:166
+msgid "Once in the reCAPTCHA settings page, you have to go to the <strong>Adding reCAPTCHA to your site</strong> section, and open the <strong>Keys</strong> subsection."
+msgstr "Una vez en la página de ajustes de reCAPTCHA, debes ir a la subsección <strong>Añadir reCAPTCHA a tu Sitio</strong> y abrir la subsección <strong>Claves</strong>."
+
+#: includes/messages.php:157
+msgid "In the case of selecting a previously created reCAPTCHA field, go to the <strong>Manage your reCAPTCHA API keys</strong> and select a reCAPTCHA that's identified by its label then you'll go to the settings page of this reCAPTCHA."
+msgstr "En el caso de seleccionar un reREPTCHA previamente creado, dirígete a la sección <strong>Manage your reCAPTCHA API keys</strong> y selecciona un reCAPTCHA que se identifica por su etiqueta, luego irás a la página de ajustes de ese reCAPTCHA."
+
+#: includes/messages.php:141 includes/messages.php:248
+msgid "Visit the <a href=\"%1$s\" target=\"_blank\" >Google reCAPTCHA official site</a> and press <strong>Get reCAPTCHA</strong> button. Perhaps you have to log in with your <strong>Google Account</strong>."
+msgstr "Visita el <a href=\"%1$s\" target=\"_blank\" >Sitio oficial de Google reCAPTCHA</a> and pulsa el botón <strong>Get reCAPTCHA</strong>. Quizás debas identificarte con tu <strong>Cuenta Google</strong>."
+
+#: includes/messages.php:119
+msgctxt "1: reCAPTCHA pair string"
+msgid "On the other hand, it's important to understand that the <strong>Google reCAPTCHA field</strong> works thanks to a %1$s so that, for using this plugin, you always need an API Keys pair however, don't worry about these technical issues. Each time that the plugin detects the lack of this API Keys pair, it automatically starts an easy Installation Wizard that will help you to obtain a new API Keys pair for your site in just two steps."
+msgstr "Por otro lado, es importante entender que <strong>el campo Google reCAPTCHA</strong> funciona gracias a un %1$s así que, para usar este plugin, siempre vas a necesitar unas Claves API sin embargo, no te preocupes por los detalles técnicos. Cada vez que el plugin detecte la falta de este Par de claves API, automáticamente inicia un simple Asistente de Instalación que te ayudará a obtener un nuevo Par de claves API para tu sitio en sólo dos pasos."
+
+#: includes/messages.php:118
+msgid "The plugin is <strong>completely automatic</strong> so, it's not necesary that you configure anything for showing a reCAPTCHA field in your comments form, just active you the plugin in the <strong>%s</strong> accordion section."
+msgstr "El plugin es <strong>completamente automático</strong> así que, no es necesario que configures nada para que aparezca un campo reCAPTCHA en tu formulario de comentarios, simplemente activa el plugin a través de la sección acordeón <strong>%s</strong>."
+
+#: includes/messages.php:114
+msgctxt "Help tab title"
+msgid "About the plugin"
+msgstr "Acerca del Plugin"
+
+#: includes/messages.php:105
+msgid "For further information about the plugin, please, visit the <a href=\"%1$s\" target=\"_blank\">Author's plugin page</a>."
+msgstr "Para más información acerca de este plugin, por favor, visita la <a href=\"%1$s\" target=\"_blank\">página del Autor del plugin</a>."
+
+#: includes/messages.php:86
+msgctxt "reCAPTCHA pair string"
+msgid "Google reCAPTCHA API Keys pair"
+msgstr "Par de claves API de Google reCAPTCHA"
+
+#: includes/messages.php:82
+msgid "Save your Google reCAPTCHA API Keys pair"
+msgstr "Guardar tu Par de claves API de Google reCAPTCHA"
+
+#: includes/messages.php:72
+msgctxt "String for 'inactive' state in switcher fields. It should be always translated as a short string, 2 to 5 letters."
+msgid "OFF"
+msgstr "OFF"
+
+#: includes/messages.php:30
+msgid "Plugin installation Wizard"
+msgstr "Asistente de Instalación del Plugin"
+
+#: includes/messages.php:28
+msgid "Output screen Settings"
+msgstr "Ajustes de Salida en pantalla"
+
+#: includes/messages.php:26
+msgid "Antispam Settings"
+msgstr "Ajustes Antispam"
+
+#: includes/installation-interface.php:198
+msgid "<span class=\"warning\"><strong>By the way but important</strong></span>. This plugin <strong>just appears</strong> inside the WP comments form <strong>when users are not logged in</strong> the site so that, if you want to check whether the plugin works or not with one of your real posts, please remember, first log out from WP."
+msgstr "<span class=\"warning\"><strong>Por cierto, pero importante</strong></span>. Este plugin <strong>sólo aparece</strong> en los formularios de comentarios WP <strong>cuando el usuario no ha iniciado sesión</strong> en el sitio así que, si deseas verificar si el plugin funciona o no en una de tus entradas de verdad, acuérdate, primero, de cerrar tu sesión de WP en el sitio."
+
+#: includes/installation-interface.php:196
+msgctxt "1: string ON for switch button, 2: Plugin Activation accordion section name"
+msgid "Once in the normal plugin settings interface, you have <strong>to activate the plugin operation</strong> changing the activation switch to <strong>%1$s</strong> in the <strong>%2$s</strong> accordion section, automatically a reCAPTCHA field will appear in the comments form of your WP theme."
+msgstr "Una vez en el interface normal de ajustes del plugin, debes <strong>activar el funcionamiento del plugin</strong> cambiando el conmutador de activación a <strong>%1$s</strong> en la sección accordeón <strong>%2$s</strong>, automáticamente un campo reCAPTCHA aparecerá en el formulario de comentarios de tu tema WP."
+
+#: includes/installation-interface.php:195
+msgid "<strong>Activate</strong> the plugin operation."
+msgstr "<strong>Activar</strong> el funcionamiento del plugin."
+
+#: includes/installation-interface.php:189
+msgid "After saving the Google reCAPTCHA API Keys pair, you'll never see this wizard again but you'll access to the <strong>normal plugin settings interface</strong>."
+msgstr "Después de guardar el Par de claves API de Google reCAPTCHA, nunca más vas a volver a ver este asistente sinó que accederás al <strong>interface de ajustes normal del plugin</strong>."
+
+#: includes/installation-interface.php:165
+msgctxt "Save installation button text"
+msgid "Once you have copied the Keys pair, simply press the <strong>%s</strong> button and the plugin will be ready to work."
+msgstr "Una vez hayas copiado el Par de claves, simplemente pulsa el botón <strong>%s</strong> y el plugin estará listo para funcionar."
+
+#: includes/installation-interface.php:163
+msgid "Now, one by one, copy the reCAPTCHA API Keys from the Google reCAPTCHA settings page and paste its content into the respective homonymous field in the below form."
+msgstr "Ahora, uno a uno, copia las claves API de reCAPTCHA desde la página de ajustes de Google reCAPTCHA y pega su contenido en los respectivos campos homónimos del formulario inferior."
+
+#: includes/installation-interface.php:161
+msgid "<strong>Copy</strong> these API Keys from Google reCAPTCHA settings page and <strong>paste</strong> them into these next form fields."
+msgstr "<strong>Copia</strong> estas Claves API desde la página de ajustes de  Google reCAPTCHA y <strong>pégalas</strong> en los siguientes campos de formulario."
+
+#: includes/installation-interface.php:156
+msgid "Copying Google reCAPTCHA API Keys pair to the plugin"
+msgstr "Copiando el Par de claves API de Google reCAPTCHA en el plugin"
+
+#: includes/installation-interface.php:143
+msgid "Once you've registered the new Google reCAPTCHA, automatically you'll go to the <strong>Google reCAPTCHA settings page</strong> for your new reCAPTCHA. This page was identified by the <em>Label</em> that you have created in the prior step."
+msgstr "Una vez registrado el nuevo Google reCAPTCHA, automáticamente irás a la <strong>página de ajuste de Google reCAPTCHA</strong> para ese nuevo reCAPTCHA. Esta página se identifica a través de la <em>Etiqueta</em> que hayas creado en el paso anterior."
+
+#: includes/installation-interface.php:141
+msgid "Press the <em>Register</em> button for saving the new <strong>Google reCAPTCHA</strong>."
+msgstr "Pulsa el botón <em>Registrar</em> para guardar el nuevo <strong>Google reCAPTCHA</strong>."
+
+#: includes/installation-interface.php:134
+msgid "Creating a new <strong>Google reCAPTCHA</strong>."
+msgstr "Creando un nuevo <strong>Google reCAPTCHA</strong>."
+
+#: includes/installation-interface.php:129
+msgid "Afterwards, perhaps you have to log in if you are not identified with your Google Account (typically your Gmail username and password)."
+msgstr "Después, quizás debes iniciar sesión si tu no te has identificado con tu Cuenta Google (tipicamente tu nombre de usuario y clave secreta de Gmail)."
+
+#: includes/installation-interface.php:128
+msgid "Visit the <a href=\"%1$s\" target=\"_blank\" >Google reCAPTCHA official site</a> and press the <em>Get reCAPTCHA</em> button."
+msgstr "Visita el <a href=\"%1$s\" target=\"_blank\" >sitio oficial de Google reCAPTCHA</a> y pulsa el botón <em>Get reCAPTCHA</em>."
+
+#: includes/tools.php:116
+msgid "Use always site language"
+msgstr "Usar siempre el idioma del sitio"
+
+#: includes/tools.php:113
+msgid "Detect user's browser language"
+msgstr "Detectar idioma del navegador del usuario"
+
+#: includes/backend-interface.php:373
+msgid "So that, if you have deleted (or forgot) accidentally any of these next values, you've changed your WP theme and the reCAPTCHA field doesn't appear, you are testing a new configuration or whatever... Don't worry, just relax you and press these buttons each time you need it."
+msgstr "Así que, si has borrado (u olvidado) accidentalmente cualquier de estos proximos valores, has cambiado tu tema WP y el campo reCAPTCHA no aparece, estás comprobado una nueva configuración o cualquier otra cosa, No te preocupes, sólo relájate y pulsa estos botones cada vez que lo necesites."
+
+#: includes/backend-interface.php:372
+msgid "Press these buttons for <strong>restoring separately</strong> each one of the <strong>original plugin default values</strong>."
+msgstr "Pulsa estos botonoes para <strong>restaurar separadamente</strong> cada uno de los <strong>valores originales por defecto para el plugin</strong>."
+
+#: includes/backend-interface.php:347
+msgid "When the plugin detects an unauthorized comment or a security breach, which action do you want to do?"
+msgstr "Cuando el plugin detecte un comentario no autorizado o una brecha de seguridad, ¿qué acción quieres hacer?"
+
+#: includes/backend-interface.php:231
+msgid "reCAPTCHA Operation"
+msgstr "Funcionamiento del reCAPTCHA"
+
+#: includes/backend-interface.php:230
+msgid "Plugin Status"
+msgstr "Estado del plugin"
+
+#: includes/settings.php:569
+msgid "Credit Link"
+msgstr "Enlace de Créditos"
+
+#: includes/backend-interface.php:404
+msgid "Do you like this plugin? Please, allow you a little credits output."
+msgstr "Te gusta este plugin? Por favor, permite mostrar los créditos del plugin."
+
+#: includes/backend-interface.php:205
+msgid "For further information see the <strong>Help</strong> tab of this screen, or visit the <a href=\"%1$s\" target=\"_blank\" >Author's plugin page</a> or the <a href=\"%2$s\" target=\"_blank\" >Google reCAPTCHA</a> website."
+msgstr "Para más información, mira la pestaña <strong>Ayuda</strong> de esta pantalla, o visita la <a href=\"%1$s\" target=\"_blank\" >página del plugin del autor</a> o la web de <a href=\"%2$s\" target=\"_blank\" >Google reCAPTCHA</a>."
+
+#: includes/backend-interface.php:207
+msgid "If you like this plugin, please, consider activate the small <strong>credit link</strong> of the plugin in the accordion section <strong>%1$s</strong> and I would be grateful if you rate the plugin in <a href=\"%2$s\" target=\"_blank\" >Wordpress plugin page</a>."
+msgstr "Si te gusta este plugin, por favor, considera activar el pequeño <strong>enlace de créditos</strong> del plugin in la sección acordeón <strong>%1$s</strong> y te estaría muy agradecido si puntúas el plugin en <a href=\"%2$s\" target=\"_blank\" >la página del plugin en WordPress</a>."
+
+#: includes/recaptcha.php:90
+msgid "Get reCAPTCHA plugin"
+msgstr "Descarga el plugin reCAPTCHA"
+
+#: includes/recaptcha.php:89
+msgid "reCAPTCHA plugin homepage"
+msgstr "Página del plugin reCAPTCHA"
+
+#: includes/messages.php:225 includes/messages.php:262
+#: includes/messages.php:288
+msgid "For further information about the plugin settings and for seeing some examples, please visit the <a href=\"%1$s\" target=\"_blank\">Author's plugin settings help page</a>."
+msgstr "Para más información acerca de los ajustes del plugin y para ver algunos ejemplos, por favor visita la <a href=\"%1$s\" target=\"_blank\">página de ayuda para los ajustes del plugin</a> del autor."
+
+#: includes/messages.php:199
+msgid "For further information about all options of Google reCAPTCHA field and for seeing some examples, please visit the <a href=\"%1$s\" target=\"_blank\">Author's plugin settings help page</a>."
+msgstr "Para más información acerca de todas las opciones del campo de Google reCAPTCHA y para ver varios ejemplos, por favor, visita la <a href=\"%1$s\" target=\"_blank\">página del autor de ayuda para los ajustes del plugin</a>."
+
+#: includes/messages.php:195
+msgid "In this accordion section, you can configure completely the look of the recaptcha field. There are five options that allow you to change, respectively, the theme, size, mode, align and language of the Google reCAPTCHA field."
+msgstr "En esta sección acordeón, puedes configurar completamente el aspecto del campo recaptcha. Hay cinco opciones que te permiten, respectivamente, cambiar el tema, tamaño, modo, alineación y lenguage del campo de Google reCAPTCHA."
+
+#: includes/messages.php:117
+msgid "This screen is used for managing the plugin settings and the Google reCAPTCHA field settings."
+msgstr "Esta pantalla se usa para la gestionar los ajustes del plugin y los ajustes del campo Google reCAPTCHA,"
+
+#. Author URI of the plugin
+msgid "http://www.joanmiquelviade.com"
+msgstr "http://www.joanmiquelviade.com"
+
+#. Author of the plugin
+msgid "Joan Miquel Viad&eacute;"
+msgstr "Joan Miquel Viad&eacute;"
+
+#. Description of the plugin
+msgid "reCAPTCHA in WP comments form plugin is an ANTISPAM tool that adds a Google reCAPTCHA field inside the comments form of your WP theme when the user is not logged in so that, it protects your site from the spammers. Additionaly, in case of that any spam robot or user manually breaks reCAPTCHA field, the plugin introduces a second verification process that allows you to decide what you want to do with those comments."
+msgstr "El plugin reCAPTCHA in WP comments form es una herramienta antispam que añade un campo de verificación reCAPTCHA dentro del formulario de comentarios de tu tema WP cuando el usuario no está conectado con clave así que, protege tu sitio de los spammers. Adicionamente, en el caso de que cualquier robot de spam o usuario manualmente burle al reCAPTCHA, el plugin introduce un segundo proceso de verificación que te permite dedicir qué deseas hacer con esos comentario."
+
+#. Plugin URI of the plugin
+msgid "http://www.joanmiquelviade.com/plugin/google-recaptcha-in-wp-comments-form/"
+msgstr "http://www.joanmiquelviade.com/plugin/google-recaptcha-in-wp-comments-form/"
+
+#. Plugin Name of the plugin
+#: includes/messages.php:116
+msgid "reCAPTCHA in WP comments form"
+msgstr "reCAPTCHA en formulario WP de comentarios"
+
+#: includes/recaptcha.php:248
+msgid "<p>Sorry, it seems you're a robot.</p>"
+msgstr "<p>Lo siento, pero parece ser que eres un robot.</p>"
+
+#: includes/settings.php:558 includes/messages.php:328
+msgid "Forced javascript output"
+msgstr "Forzar salida javascript"
+
+#: includes/settings.php:548
+msgid "reCAPTCHA container CSS"
+msgstr "CSS del contenedor del reCAPTCHA"
+
+#: includes/settings.php:526
+msgid "HTML tag container for reCAPTTCHA"
+msgstr "Etiqueta HTML del contenedor del reCAPTCHA"
+
+#: includes/settings.php:496
+msgid "Submit button ID"
+msgstr "ID del Botón Enviar"
+
+#: includes/settings.php:475
+msgid "Comments form ID"
+msgstr "ID del formulario de comentarios"
+
+#: includes/settings.php:338
+msgid "Mark comment as SPAM"
+msgstr "Marcar comentario como SPAM"
+
+#: includes/settings.php:276
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/settings.php:227
+msgctxt "Google reCAPTCHA option name. Don't translate if it's not necessary."
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/settings.php:222
+msgctxt "Google reCAPTCHA option name. Don't translate if it's not necessary."
+msgid "Image"
+msgstr "Image"
+
+#: includes/settings.php:217
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/settings.php:210
+msgctxt "Google reCAPTCHA option name. Don't translate if it's not necessary."
+msgid "Compact"
+msgstr "Compact"
+
+#: includes/settings.php:205
+msgctxt "Google reCAPTCHA option name. Don't translate if it's not necessary."
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/settings.php:200
+msgid "Size"
+msgstr "Tamaño"
+
+#: includes/settings.php:192
+msgctxt "Google reCAPTCHA option name. Don't translate if it's not  necessary."
+msgid "Dark"
+msgstr "Oscuro"
+
+#: includes/settings.php:187
+msgctxt "Google reCAPTCHA option name. Don't translate if it's not necessary."
+msgid "Light"
+msgstr "Light"
+
+#: includes/settings.php:181
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/settings.php:172
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: includes/settings.php:165
+msgid "Site key"
+msgstr "Clave del sitio"
+
+#: includes/settings.php:153
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: includes/backend-interface.php:399
+msgid "If your theme doesn't use the WP function <code>comment_form()</code> but it makes a direct PHP output of the form code, you should activate the <strong>Javascript Output Mode</strong> to see the reCAPTCHA field."
+msgstr "Si tu tema no usa la función WP <code>comment_form()</code> sino que realizar una salida directa del código PHP del formulario, deberías activar el <strong>Modo de Salida Javascript</strong> para ver el campo reCAPTCHA."
+
+#: includes/settings.php:543
+msgid "You can modify the reCAPTCHA container style via CSS using the <code>.google-recaptcha-container</code> class."
+msgstr "Puedes modificar el estilo del contenedor del reCAPTCHA via CSS usando la clase <code>.google-recaptcha-container</code>."
+
+#: includes/settings.php:521
+msgid "You can modify the HTML tag container for reCAPTCHA field."
+msgstr "Puedes modificar la etiqueta HTML del contenedor del campo reCAPTCHA."
+
+#: includes/backend-interface.php:289
+msgid "Post Comment"
+msgstr "Enviar Comentario"
+
+#: includes/backend-interface.php:284
+msgid "Plugin Inactive. You have to activate the plugin in <strong>%s</strong> accordion section."
+msgstr "Plugin Inactivo. Debes activar el plugin en la sección acordeón <strong>%s</strong>."
+
+#: includes/backend-interface.php:282
+msgid "http://example.com"
+msgstr "http://example.com"
+
+#: includes/backend-interface.php:282
+msgid "Website"
+msgstr "Web"
+
+#: includes/backend-interface.php:281
+msgid "address@example.com"
+msgstr "direccion@ejemplo.com"
+
+#: includes/backend-interface.php:281
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/backend-interface.php:280
+msgid "John Doe Doe"
+msgstr "Juan Pérez"
+
+#: includes/backend-interface.php:280
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/backend-interface.php:279
+msgid "This is a comment text sample with one paragraph."
+msgstr "Este es un ejemplo de texto para un comentario de un párrafo ."
+
+#: includes/backend-interface.php:279
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comentario"
+
+#: includes/backend-interface.php:277
+msgid "Required fields are marked %s"
+msgstr "Campos obligatorios marcados con %s"
+
+#: includes/backend-interface.php:276
+msgid "Your email address will not be published."
+msgstr "Tu dirección de email no se publicará."
+
+#: includes/backend-interface.php:271
+msgid "Leave a Reply"
+msgstr "Escribe una respuesta"
+
+#: includes/backend-interface.php:261
+msgid "Comments form sample"
+msgstr "Ejemplo de formulario de comentarios"
+
+#: includes/backend-interface.php:104
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#: includes/backend-interface.php:103
+msgid "Connected"
+msgstr "Conectado"
+
+#: includes/messages.php:152
+msgid "Pressing the <em>Register</em> button, you'll save the <strong>New Site</strong> and you'll go to the settings page of the new reCAPTCHA."
+msgstr "Pulsando el botón <em>Registrar</em>, guardas el <strong>Nuevo Sitio</strong> web y te diriges a la página de ajustes del nuevo reCAPTCHA."
+
+#: includes/messages.php:64
+msgid "For further information visit the <a href=\"%1$s\" target=\"_blank\" >Author's plugin</a> page."
+msgstr "Para más información visita la página <a href=\"%1$s\" target=\"_blank\" >del autor del plugin</a>."
+
+#: includes/messages.php:27
+msgid "Plugin Settings"
+msgstr "Ajustes del Plugin"
+
+#: includes/messages.php:25
+msgid "reCAPTCHA Customizer"
+msgstr "Personalizar reCAPTCHA"
+
+#: includes/messages.php:24
+msgid "reCAPTCHA API Keys"
+msgstr "Claves API reCAPTCHA"
+
+#: includes/messages.php:23
+msgid "Plugin Activation"
+msgstr "Activación del Plugin"

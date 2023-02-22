@@ -1,0 +1,143 @@
+
+# BEGIN All In One WP Security
+#AIOWPS_BLOCK_WP_FILE_ACCESS_START
+<Files license.txt>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+<Files wp-config-sample.php>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+<Files readme.html>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+#AIOWPS_BLOCK_WP_FILE_ACCESS_END
+#AIOWPS_BASIC_HTACCESS_RULES_START
+<Files .htaccess>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+ServerSignature Off
+LimitRequestBody 100485760
+<Files wp-config.php>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+#AIOWPS_BASIC_HTACCESS_RULES_END
+#AIOWPS_PINGBACK_HTACCESS_RULES_START
+<Files xmlrpc.php>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+#AIOWPS_PINGBACK_HTACCESS_RULES_END
+#AIOWPS_DEBUG_LOG_BLOCK_HTACCESS_RULES_START
+<Files debug.log>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+#AIOWPS_DEBUG_LOG_BLOCK_HTACCESS_RULES_END
+#AIOWPS_BLOCK_SPAMBOTS_START
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} POST
+RewriteCond %{REQUEST_URI} ^(.*)?wp-comments-post\.php(.*)$
+RewriteCond %{HTTP_REFERER} !^http(s)?://medismart\.net [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^$
+RewriteRule .* http://127.0.0.1 [L]
+</IfModule>
+#AIOWPS_BLOCK_SPAMBOTS_END
+# END All In One WP Security
+
+# BEGIN WordPress
+# Las directivas (líneas) entre «BEGIN WordPress» y «END WordPress» son
+# generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
+# Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+php_value upload_max_filesize 64M
+php_value post_max_size 64M
+php_value max_execution_time 300
+php_value max_input_time 300
+
+# BEGIN Brute Force Login Protection
+<FilesMatch ".*\.(php|html?|css|js|jpe?g|png|gif)$">
+order deny,allow
+deny from 216.98.213.240
+deny from 2a00:23c6:5f09:2b01:a842:4efe:7568:2b2c
+deny from 2803:9800:a008:811a:500f:f8bc:2292:5152
+deny from 94.74.107.205
+deny from 62.210.185.4
+deny from 178.128.39.20
+deny from 103.231.3.254
+deny from 39.44.153.224
+deny from 24.113.187.127
+deny from 122.173.81.87
+deny from 84.32.121.84
+deny from 105.184.252.249
+deny from 103.73.238.18
+deny from 181.231.30.234
+deny from 185.73.168.83
+deny from 2a00:23c6:5f09:2b01:5cff:5478:881b:f634
+deny from 2a02:85f:1163:4a00:64e7:ff16:bc40:277c
+deny from 2a00:23c6:5f09:2b01:adb3:5bd4:f440:15e8
+deny from 5.102.5.121
+deny from 2a00:23c6:5f09:2b01:2162:e358:a14c:4d54
+deny from 41.62.206.236
+deny from 2a02:85f:1163:4a00:f4fb:e57f:5180:e60c
+deny from 2a00:23c6:5f09:2b01:6c00:15a8:51c6:144a
+deny from 196.4.80.2
+deny from 2804:14c:fc80:a06f:c811:635d:d2ed:a2e4
+deny from 36.71.236.27
+</FilesMatch>
+# END Brute Force Login Protection
+
+# BEGIN wtfdivi
+
+
+# END wtfdivi

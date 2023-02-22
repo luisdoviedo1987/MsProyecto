@@ -1,0 +1,525 @@
+# Translation of Plugins - CAPTCHA 4WP - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - CAPTCHA 4WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-30 14:04:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - CAPTCHA 4WP - Stable (latest release)\n"
+
+#: admin/settings.php:832
+msgid "I'll configure it later"
+msgstr "Jag konfigurerar det senare"
+
+#: admin/settings.php:831
+msgid "Configure it now"
+msgstr "Konfigurera det nu"
+
+#: admin/settings.php:99
+msgid "Settings & placements"
+msgstr "Inställningar och placeringar"
+
+#: admin/templates/help/system-info.php:19
+msgid "System information"
+msgstr "Systeminformation"
+
+#: admin/templates/help/sidebar.php:38 admin/templates/help/sidebar.php:65
+#: admin/templates/help/sidebar.php:92
+msgid "LEARN MORE"
+msgstr "LÄR DIG MER"
+
+#: admin/templates/help/sidebar.php:14
+msgid "Other plugins developed by us:"
+msgstr "Andra tillägg utvecklade av oss:"
+
+#: admin/templates/help/index.php:20
+msgid "System Info"
+msgstr "Systeminformation"
+
+#: admin/templates/help/index.php:19
+msgid "Help"
+msgstr "Hjälp"
+
+#: admin/templates/help/help.php:62
+msgid "Rate plugin"
+msgstr "Betygsätt tillägg"
+
+#: admin/templates/help/help.php:58
+msgid "Rate CAPTCHA 4WP"
+msgstr "Betygsätt CAPTCHA 4WP"
+
+#: admin/templates/help/help.php:52
+msgid "Knowledge Base"
+msgstr "Kunskapsbas"
+
+#: admin/templates/help/help.php:48
+msgid "Plugin Documentation"
+msgstr "Tilläggets dokumentation"
+
+#: admin/templates/help/help.php:41
+msgid "Free email support"
+msgstr "Gratis e‑postsupport"
+
+#: admin/templates/help/help.php:40
+msgid "Free support forum"
+msgstr "Gratis supportforum"
+
+#: admin/templates/help/help.php:36
+msgid "Plugin Support"
+msgstr "Support för tillägget"
+
+#: admin/templates/help/help.php:20
+msgid "Getting Started"
+msgstr "Komma igång"
+
+#: admin/settings.php:959
+msgid "No Ads!"
+msgstr "Inga annonser!"
+
+#: admin/settings.php:958
+msgid "Remove CAPTCHA from specific URLs"
+msgstr "Ta bort CAPTCHA från specifika URL:er"
+
+#: admin/settings.php:957
+msgid "Remove CAPTCHA for specific IP addresses"
+msgstr "Ta bort CAPTCHA för specifika IP-adresser"
+
+#: admin/settings.php:956
+msgid "Remove CAPTCHA for logged in users"
+msgstr "Ta bort CAPTCHA för inloggade användare"
+
+#: admin/settings.php:943
+msgid "Upgrade to Premium for:"
+msgstr "Uppgradera till Premium för:"
+
+#: admin/settings.php:919
+msgid "Captcha configuration"
+msgstr "Konfiguration av Captcha"
+
+#: admin/settings.php:917
+msgid "Captcha settings"
+msgstr "Inställningar för Captcha"
+
+#: admin/settings.php:914
+msgid "The secret key that you have entered is invalid. Please try again."
+msgstr "Den hemliga nyckeln som du har angett är ogiltig. Försök igen."
+
+#: admin/settings.php:844
+msgid "CAPTCHA Placements"
+msgstr "CAPTCHA-placeringar"
+
+#: admin/settings.php:808
+msgid "Please supply a valid IP"
+msgstr "Ange en giltig IP"
+
+#: admin/settings.php:732 admin/settings.php:753
+msgid "Premium Features ➤"
+msgstr "Premiumfunktioner ➤"
+
+#: admin/settings.php:729 admin/settings.php:750
+msgid "Help & Contact Us"
+msgstr "Hjälp och kontakta oss"
+
+#: admin/settings.php:728 admin/settings.php:749
+msgid "Settings & Placements"
+msgstr "Inställningar och placeringar"
+
+#: admin/settings.php:728 admin/settings.php:749
+msgid "CAPTCHA 4WP Settings"
+msgstr "Inställningar för CAPTCHA 4WP"
+
+#: admin/settings.php:726 admin/settings.php:727 admin/settings.php:747
+#: admin/settings.php:748 admin/settings.php:830
+msgid "CAPTCHA Configuration"
+msgstr "Konfiguration av CAPTCHA"
+
+#: admin/settings.php:445
+msgid "And others"
+msgstr "Och andra"
+
+#: admin/settings.php:444
+msgid "BuddyPress and bbPress"
+msgstr "BuddyPress och bbPress"
+
+#: admin/settings.php:443
+msgid "Contact Form 7, MailChimp 4 WordPress forms"
+msgstr "Contact Form 7, MailChimp 4 WordPress-formulär"
+
+#: admin/settings.php:439
+msgid "Find out more"
+msgstr "Ta reda på mer"
+
+#: admin/settings.php:438 admin/settings.php:961
+msgid "Upgrade to Premium"
+msgstr "Uppgradera till Premium"
+
+#: admin/settings.php:416
+msgid "WordPress pages"
+msgstr "WordPress-sidor"
+
+#: admin/settings.php:376
+msgid "reCAPTCHA domain"
+msgstr "reCAPTCHA-domän"
+
+#: admin/settings.php:263
+msgid "Select a language"
+msgstr "Välj ett språk"
+
+#: admin/settings.php:257
+msgid "CAPTCHA language"
+msgstr "CAPTCHA-språk"
+
+#: admin/settings.php:200
+msgid "how to get the Google reCAPTCHA keys"
+msgstr "hur man skaffar Google reCAPTCHA-nycklar"
+
+#: admin/settings.php:172
+msgid "reCAPTCHA version"
+msgstr "reCAPTCHA-version"
+
+#: admin/settings.php:167
+msgid "STEP 1: Select the type of reCAPTCHA you want to use"
+msgstr "STEG 1: Välj den typ av reCAPTCHA du vill använda"
+
+#: admin/settings.php:150
+msgid "upgrade to Premium"
+msgstr "Uppgradera till Premium"
+
+#. Plugin Name of the plugin
+#: admin/settings.php:726 admin/settings.php:747
+msgid "CAPTCHA 4WP"
+msgstr "CAPTCHA 4WP"
+
+#: admin/settings.php:137
+msgid "very restrictive"
+msgstr "mycket restriktiv"
+
+#. translators: expression "very restrictive" in bold
+#: admin/settings.php:136
+msgid "Any value above 0.5 is %s."
+msgstr "Alla värden över 0,5 är %s."
+
+#. Author URI of the plugin
+msgid "https://www.wpwhitesecurity.com/"
+msgstr "https://www.wpwhitesecurity.com/"
+
+#. Author of the plugin
+msgid "WP White Security"
+msgstr "WP White Security"
+
+#. Plugin URI of the plugin
+msgid "https://www.wpwhitesecurity.com/wordpress-plugins/captcha-plugin-wordpress/"
+msgstr "https://www.wpwhitesecurity.com/wordpress-plugins/captcha-plugin-wordpress/"
+
+#: admin/settings.php:236
+msgid "Captcha Score"
+msgstr "Captcha-poäng"
+
+#: admin/settings.php:252
+msgid "Form Pages"
+msgstr "Formulärsidor"
+
+#: admin/settings.php:251
+msgid "All Pages"
+msgstr "Alla sidor"
+
+#: anr-captcha-class.php:682
+msgid "Comment Submission Failure"
+msgstr "Fel när kommentaren skulle skickas"
+
+#. translators:field type
+#: admin/settings.php:626
+msgid "No hook defined for %s"
+msgstr "Ingen åtgärds-hook definierad för %s"
+
+#: admin/settings.php:389
+msgid "Remove CSS"
+msgstr "Ta bort CSS"
+
+#: anr-captcha-class.php:96
+msgid "Please solve Captcha correctly"
+msgstr "Lös Captcha korrekt"
+
+#: admin/settings.php:211
+msgid "Secret Key"
+msgstr "Hemlig nyckel"
+
+#: anr-captcha-class.php:98
+msgid "ERROR"
+msgstr "FEL"
+
+#: admin/settings.php:361
+msgid "Badge shows for invisible captcha"
+msgstr "Märke visas för osynlig captcha"
+
+#: admin/settings.php:359
+msgid "Inline"
+msgstr "Inline"
+
+#: admin/settings.php:358 admin/settings.php:371
+msgid "Bottom Left"
+msgstr "Botten vänster"
+
+#: admin/settings.php:357 admin/settings.php:370
+msgid "Bottom Right"
+msgstr "Botten höger"
+
+#: admin/settings.php:351
+msgid "Badge"
+msgstr "Märke"
+
+#: admin/settings.php:347
+msgid "Compact"
+msgstr "Kompakt"
+
+#: admin/settings.php:346
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/settings.php:336
+msgid "Dark"
+msgstr "Mörk"
+
+#: admin/settings.php:335
+msgid "Light"
+msgstr "Ljus"
+
+#: functions.php:47
+msgid "<strong>ERROR</strong>: "
+msgstr "<strong>FEL</strong>: "
+
+#: admin/settings.php:394
+msgid "This css increase login page width to adjust with Captcha width."
+msgstr "Denna CSS ökar inloggningssidans bredd för att justeras med Captcha-bredden."
+
+#: admin/settings.php:393
+msgid "Remove this plugin's css from login page?"
+msgstr "Ta bort detta tilläggs CSS från inloggningssida?"
+
+#: admin/settings.php:323
+msgid "Error message"
+msgstr "Felmeddelande"
+
+#: admin/settings.php:340
+msgid "Size"
+msgstr "Storlek"
+
+#: admin/settings.php:329
+msgid "Theme"
+msgstr "Tema"
+
+#: admin/settings.php:206
+msgid "Site Key"
+msgstr "Webbplatsnyckel"
+
+#: admin/settings.php:155
+msgid "Comments form"
+msgstr "Kommentarsformulär"
+
+#: admin/settings.php:423
+msgid "Reset password form"
+msgstr "Formulär för återställning av lösenord"
+
+#: admin/settings.php:424
+msgid "Lost password form"
+msgstr "Formulär för glömt lösenord"
+
+#: admin/settings.php:422
+msgid "Registration form"
+msgstr "Registreringsformulär"
+
+#: admin/settings.php:421
+msgid "Login form"
+msgstr "Inloggningsformulär"
+
+#: admin/settings.php:319
+msgid "Vietnamese"
+msgstr "Vietnamesiska"
+
+#: admin/settings.php:318
+msgid "Ukrainian"
+msgstr "Ukrainska"
+
+#: admin/settings.php:317
+msgid "Turkish"
+msgstr "Turkiska"
+
+#: admin/settings.php:316
+msgid "Thai"
+msgstr "Thai"
+
+#: admin/settings.php:315
+msgid "Swedish"
+msgstr "Svenska"
+
+#: admin/settings.php:314
+msgid "Spanish (Latin America)"
+msgstr "Spanska (latinamerika)"
+
+#: admin/settings.php:313
+msgid "Spanish"
+msgstr "Spanska"
+
+#: admin/settings.php:312
+msgid "Slovenian"
+msgstr "Slovenska"
+
+#: admin/settings.php:311
+msgid "Slovak"
+msgstr "Slovakiska"
+
+#: admin/settings.php:310
+msgid "Serbian"
+msgstr "Serbiska"
+
+#: admin/settings.php:309
+msgid "Russian"
+msgstr "Ryska"
+
+#: admin/settings.php:308
+msgid "Romanian"
+msgstr "Rumänska"
+
+#: admin/settings.php:307
+msgid "Portuguese (Portugal)"
+msgstr "Portugisiska (Portugal)"
+
+#: admin/settings.php:306
+msgid "Portuguese (Brazil)"
+msgstr "Portugisiska (Brasilien)"
+
+#: admin/settings.php:305
+msgid "Portuguese"
+msgstr "Portugisiska"
+
+#: admin/settings.php:304
+msgid "Polish"
+msgstr "Polska"
+
+#: admin/settings.php:303
+msgid "Persian"
+msgstr "Persiska"
+
+#: admin/settings.php:302
+msgid "Norwegian"
+msgstr "Norska"
+
+#: admin/settings.php:301
+msgid "Lithuanian"
+msgstr "Litauiska"
+
+#: admin/settings.php:300
+msgid "Latvian"
+msgstr "Lettiska"
+
+#: admin/settings.php:299
+msgid "Korean"
+msgstr "Koreanska"
+
+#: admin/settings.php:298
+msgid "Japanese"
+msgstr "Japanska"
+
+#: admin/settings.php:297
+msgid "Italian"
+msgstr "Italienska"
+
+#: admin/settings.php:296
+msgid "Indonesian"
+msgstr "Indonesiska"
+
+#: admin/settings.php:295
+msgid "Hungarain"
+msgstr "Ungerska"
+
+#: admin/settings.php:294
+msgid "Hindi"
+msgstr "Hindi"
+
+#: admin/settings.php:293
+msgid "Hebrew"
+msgstr "Hebreiska"
+
+#: admin/settings.php:292
+msgid "Greek"
+msgstr "Grekiska"
+
+#: admin/settings.php:291
+msgid "German (Switzerland)"
+msgstr "Tyska (Schweiz)"
+
+#: admin/settings.php:290
+msgid "German (Austria)"
+msgstr "Tyska (Österrike)"
+
+#: admin/settings.php:289
+msgid "German"
+msgstr "Tyska"
+
+#: admin/settings.php:288
+msgid "French (Canadian)"
+msgstr "Franska (Kanadensisk)"
+
+#: admin/settings.php:287
+msgid "French"
+msgstr "Franska"
+
+#: admin/settings.php:286
+msgid "Finnish"
+msgstr "Finska"
+
+#: admin/settings.php:285
+msgid "Filipino"
+msgstr "Filippinska"
+
+#: admin/settings.php:284
+msgid "English (US)"
+msgstr "Engelska (US)"
+
+#: admin/settings.php:283
+msgid "English (UK)"
+msgstr "Engelska (UK)"
+
+#: admin/settings.php:282
+msgid "Dutch"
+msgstr "Nederländska"
+
+#: admin/settings.php:281
+msgid "Danish"
+msgstr "Danska"
+
+#: admin/settings.php:280
+msgid "Czech"
+msgstr "Tjeckiska"
+
+#: admin/settings.php:279
+msgid "Croatian"
+msgstr "Kroatiska"
+
+#: admin/settings.php:278
+msgid "Chinese (Traditional)"
+msgstr "Kinesiska (traditionell)"
+
+#: admin/settings.php:277
+msgid "Chinese (Simplified)"
+msgstr "Kinesiska (förenklad)"
+
+#: admin/settings.php:276
+msgid "Catalan"
+msgstr "Katalanska"
+
+#: admin/settings.php:275
+msgid "Bulgarian"
+msgstr "Bulgariska"
+
+#: admin/settings.php:274
+msgid "Arabic"
+msgstr "Arabiska"
+
+#: admin/settings.php:1017
+msgid "Settings"
+msgstr "Inställningar"

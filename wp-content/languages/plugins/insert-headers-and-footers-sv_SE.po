@@ -1,0 +1,1947 @@
+# Translation of Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-13 10:49:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release)\n"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:115
+msgid "Facebook Pixel ID"
+msgstr "Facebook Pixel-ID"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:112
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:81
+msgid "TikTok"
+msgstr "TikTok"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:80
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:79
+msgid "Google"
+msgstr "Google"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:78
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:65
+msgid "No coding required"
+msgstr "Ingen kodning krävs"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:64
+msgid "Works with Facebook, Google Ads, Pinterest, and TikTok"
+msgstr "Fungerar med Facebook, Google Ads, Pinterest och TikTok"
+
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:58
+msgid "Upgrade to WPCode PRO"
+msgstr "Uppgradera till WPCode PRO"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:206
+msgid "Update Snippet"
+msgstr "Spara förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:200
+msgid "Auto height"
+msgstr "Automatisk höjd"
+
+#: includes/admin/pages/class-wpcode-admin-page-click.php:185
+msgid "Go back to the library"
+msgstr "Gå tillbaka till biblioteket"
+
+#: includes/admin/pages/class-wpcode-admin-page-click.php:127
+msgid "Congratulations, your site is now connected!"
+msgstr "Grattis, din webbplats är nu ansluten!"
+
+#: includes/admin/pages/class-wpcode-admin-page-click.php:115
+msgid "Disconnect Site From Library"
+msgstr "Koppla från webbplats från bibliotek"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-device.php:51
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-device.php:46
+msgid "Desktop"
+msgstr "Stationär dator"
+
+#. Translators: more here is used in the sense of "get access to more snippets"
+#. and gets replaced with the number of snippets if the library items are
+#. loaded correctly.
+#: includes/lite/admin/notices.php:33
+msgid "more"
+msgstr "mer"
+
+#: includes/lite/admin/class-wpcode-admin-page-loader-lite.php:35
+#: includes/lite/admin/class-wpcode-admin-page-loader-lite.php:36
+msgid "Upgrade to Pro"
+msgstr "Uppgradera till Pro"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:328
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:327
+msgid "Activate"
+msgstr "Aktivera"
+
+#: includes/admin/pages/class-wpcode-admin-page-click.php:102
+#: includes/admin/pages/class-wpcode-admin-page-click.php:143
+#: includes/admin/pages/class-wpcode-admin-page.php:1242
+msgid "Connect to Library"
+msgstr "Anslut till bibliotek"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1245
+msgid "Mobile only"
+msgstr "Endast mobil"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1244
+msgid "Desktop only"
+msgstr "Endast stationär dator"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1229
+#: includes/lite/conditional-logic/class-wpcode-conditional-device.php:26
+#: includes/lite/conditional-logic/class-wpcode-conditional-device.php:37
+msgid "Device Type"
+msgstr "Enhetstyp"
+
+#: includes/admin/class-wpcode-review.php:131
+#: includes/admin/class-wpcode-review.php:141
+msgid "No thanks"
+msgstr "Nej tack"
+
+#: includes/admin/class-wpcode-review.php:129
+#: includes/admin/class-wpcode-review.php:140
+msgid "Give Feedback"
+msgstr "Ge feedback"
+
+#: includes/admin/class-wpcode-review.php:117
+msgid "Are you enjoying WPCode?"
+msgstr "Gillar du enjoying WPCode?"
+
+#: includes/admin/class-wpcode-review.php:122
+msgid "Not Really"
+msgstr "Inte riktigt"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-woocommerce.php:81
+msgid "My Account Page"
+msgstr "Min kontosida"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-woocommerce.php:37
+msgid "WooCommerce Page"
+msgstr "WooCommerce-sida"
+
+#: includes/lite/auto-insert/class-wpcode-auto-insert-edd.php:38
+#: includes/lite/auto-insert/class-wpcode-auto-insert-woocommerce.php:41
+msgid "After the Cart"
+msgstr "Efter varukorgen"
+
+#: includes/lite/auto-insert/class-wpcode-auto-insert-edd.php:37
+#: includes/lite/auto-insert/class-wpcode-auto-insert-woocommerce.php:40
+msgid "Before the Cart"
+msgstr "Före varukorgen"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:738
+msgid "Save to Library"
+msgstr "Spara till bibliotek"
+
+#: includes/admin/pages/class-wpcode-admin-page-library.php:57
+msgid "My Favorites"
+msgstr "Mina favoriter"
+
+#: includes/admin/pages/class-wpcode-admin-page-library.php:56
+msgid "My Library"
+msgstr "Mitt bibliotek"
+
+#: includes/admin/pages/class-wpcode-admin-page-library.php:55
+msgid "Snippets"
+msgstr "Förhandsvisningstexter"
+
+#: includes/admin/class-wpcode-admin-page-loader.php:209
+msgid "Get WPCode Pro"
+msgstr "Skaffa WPCode Pro"
+
+#: includes/admin/class-wpcode-admin-page-loader.php:208
+msgid "Upgrade to WPCode Pro"
+msgstr "Uppgradera till WPCode Pro"
+
+#: includes/admin/admin-scripts.php:43
+msgid "OK"
+msgstr "OK"
+
+#: includes/admin/admin-scripts.php:42
+msgid "Please wait."
+msgstr "Vänta."
+
+#. Plugin Name of the plugin
+msgid "WPCode Lite"
+msgstr "WPCode Lite"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-woocommerce.php:66
+msgid "Shop Page"
+msgstr "Butikssida"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-woocommerce.php:61
+msgid "Single Product Page"
+msgstr "Enskild produktsida"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1173
+msgid "Custom Shortcode"
+msgstr "Anpassad kortkod"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1104
+msgid "Custom Shortcode is a Pro Feature"
+msgstr "Anpassad kortkod är en Pro-funktion"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1103
+msgid "Upgrade to PRO"
+msgstr "Uppgradera till PRO"
+
+#: includes/admin/pages/class-wpcode-admin-page-library.php:202
+#: includes/admin/pages/class-wpcode-admin-page-library.php:232
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1372
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:149
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:292
+msgid "Learn more about all the features"
+msgstr "Lär dig mer om alla funktionerna"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-woocommerce.php:71
+msgid "Product Category Page"
+msgstr "Sida för produktkategori"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-woocommerce.php:56
+msgid "Cart Page"
+msgstr "Sida för varukorg"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-edd.php:37
+msgid "EDD Page"
+msgstr "EDD-sida"
+
+#: includes/lite/auto-insert/class-wpcode-auto-insert-woocommerce.php:34
+msgid "Before the List of Products"
+msgstr "Före listan med produkter"
+
+#: includes/lite/auto-insert/class-wpcode-auto-insert-woocommerce.php:35
+msgid "After the List of Products"
+msgstr "Efter listan med produkter"
+
+#: includes/lite/auto-insert/class-wpcode-auto-insert-woocommerce.php:37
+msgid "After the Single Product"
+msgstr "Efter enskilda produkten"
+
+#: includes/lite/auto-insert/class-wpcode-auto-insert-woocommerce.php:36
+msgid "Before the Single Product"
+msgstr "Före enskilda produkten"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1176
+msgid "Shortcode name"
+msgstr "Namn på kortkod"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1101
+msgid "Save to Library is a Pro Feature"
+msgstr "Spara till bibliotek är en Pro-funktion"
+
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:118
+msgid "Disconnect from the WPCode Library"
+msgstr "Koppla från WPCode-biblioteket"
+
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:115
+msgid "Connect to the WPCode Library"
+msgstr "Anslut till WPCode-biblioteket"
+
+#: includes/generator/class-wpcode-generator-widget.php:255
+msgid "Add field"
+msgstr "Lägg till fält"
+
+#: includes/generator/class-wpcode-generator-widget.php:250
+msgid "Add another field"
+msgstr "Lägg till ett annat fält"
+
+#: includes/generator/class-wpcode-generator-widget.php:231
+msgid "Default"
+msgstr "Standard"
+
+#: includes/generator/class-wpcode-generator-widget.php:209
+msgid "Field Label"
+msgstr "Fältetikett"
+
+#: includes/generator/class-wpcode-generator-widget.php:201
+msgid "Field ID"
+msgstr "Fält-ID"
+
+#: includes/generator/class-wpcode-generator-widget.php:195
+msgid "Radio"
+msgstr "Radioknapp"
+
+#: includes/generator/class-wpcode-generator-widget.php:194
+msgid "Checkboxes"
+msgstr "Kryssrutor"
+
+#: includes/generator/class-wpcode-generator-widget.php:193
+msgid "Select"
+msgstr "Välj"
+
+#: includes/generator/class-wpcode-generator-widget.php:192
+msgid "Textarea"
+msgstr "Textområde"
+
+#: includes/generator/class-wpcode-generator-widget.php:191
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/generator/class-wpcode-generator-widget.php:190
+msgid "URL"
+msgstr "URL"
+
+#: includes/generator/class-wpcode-generator-widget.php:189
+msgid "Email"
+msgstr "E-post"
+
+#: includes/generator/class-wpcode-generator-widget.php:188
+msgid "Text"
+msgstr "Text"
+
+#: includes/generator/class-wpcode-generator-widget.php:183
+msgid "Field Type"
+msgstr "Fälttyp"
+
+#: includes/generator/class-wpcode-generator-widget.php:177
+msgid "Fields"
+msgstr "Fält"
+
+#: includes/generator/class-wpcode-generator-widget.php:138
+msgid "Widget Title"
+msgstr "Widgetrubrik"
+
+#: includes/generator/class-wpcode-generator-widget.php:129
+msgid "Widget ID"
+msgstr "Widget-ID"
+
+#: includes/generator/class-wpcode-generator-widget.php:102
+msgid "Prefix"
+msgstr "Prefix"
+
+#: includes/generator/class-wpcode-generator-widget.php:90
+msgid "Class name"
+msgstr "Klassnamn"
+
+#: includes/generator/class-wpcode-generator-widget.php:35
+#: includes/generator/class-wpcode-generator-widget.php:123
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:485
+msgid "Assign Terms"
+msgstr "Tilldela termer"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:478
+msgid "Manage Terms"
+msgstr "Hantera termer"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:468
+msgid "Delete Terms"
+msgstr "Ta bort termer"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:461
+msgid "Edit Terms"
+msgstr "Redigera termer"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:355
+msgid "Show Tag Cloud"
+msgstr "Visa etikettmoln"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:341
+msgid "Show Admin Column"
+msgstr "Visa adminkolumn"
+
+#: includes/generator/class-wpcode-generator-style.php:247
+msgid "Add style"
+msgstr "Lägg till stil"
+
+#: includes/generator/class-wpcode-generator-style.php:242
+msgid "Add more styles"
+msgstr "Lägg till fler stilar"
+
+#: includes/generator/class-wpcode-generator-style.php:186
+msgid "Media"
+msgstr "Media"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:204
+msgid "Add Sidebar"
+msgstr "Lägg till sidopanel"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:184
+msgid "After Widget"
+msgstr "Efter widget"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:175
+msgid "Before Widget"
+msgstr "Före widget"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:166
+msgid "After Title"
+msgstr "Efter rubrik"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:157
+msgid "Before Title"
+msgstr "Före rubrik"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:146
+#: includes/generator/class-wpcode-generator-widget.php:158
+msgid "CSS Class"
+msgstr "CSS-klass"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:116
+msgid "Sidebars"
+msgstr "Sidopaneler"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:35
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: includes/generator/class-wpcode-generator-script.php:186
+msgid "Header or Footer?"
+msgstr "Sidhuvud eller sidfot?"
+
+#: includes/generator/class-wpcode-generator-script.php:163
+#: includes/generator/class-wpcode-generator-style.php:163
+msgid "Dependencies"
+msgstr "Beroenden"
+
+#. Translators: placeholder adds the hook name.
+#: includes/generator/class-wpcode-generator-script.php:130
+#: includes/generator/class-wpcode-generator-style.php:130
+msgid "Embed (%s)"
+msgstr "Bädda in (%s)"
+
+#. Translators: placeholder adds the hook name.
+#: includes/generator/class-wpcode-generator-script.php:128
+#: includes/generator/class-wpcode-generator-style.php:128
+msgid "Login (%s)"
+msgstr "Logga in (%s)"
+
+#. Translators: placeholder adds the hook name.
+#: includes/generator/class-wpcode-generator-script.php:126
+#: includes/generator/class-wpcode-generator-style.php:126
+msgid "Admin (%s)"
+msgstr "Admin (%s)"
+
+#. Translators: placeholder adds the hook name.
+#: includes/generator/class-wpcode-generator-script.php:124
+#: includes/generator/class-wpcode-generator-style.php:124
+msgid "Frontend (%s)"
+msgstr "Front-end (%s)"
+
+#: includes/generator/class-wpcode-generator-script.php:107
+#: includes/generator/class-wpcode-generator-style.php:107
+msgid "Action (hook)"
+msgstr "Åtgärd (åtgärds-hook)"
+
+#: includes/generator/class-wpcode-generator-query.php:575
+msgid "Relation"
+msgstr "Relation"
+
+#: includes/generator/class-wpcode-generator-query.php:570
+msgid "Add Meta"
+msgstr "Lägg till meta"
+
+#: includes/generator/class-wpcode-generator-query.php:542
+msgid "Type"
+msgstr "Typ"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1307
+#: includes/generator/class-wpcode-generator-query.php:514
+msgid "Compare"
+msgstr "Jämför"
+
+#: includes/generator/class-wpcode-generator-query.php:502
+msgid "Meta Value"
+msgstr "Meta-värde"
+
+#: includes/generator/class-wpcode-generator-query.php:470
+msgid "Add Taxonomy"
+msgstr "Lägg till ny taxonomi"
+
+#: includes/generator/class-wpcode-generator-query.php:417
+msgid "Terms"
+msgstr "Termer"
+
+#: includes/generator/class-wpcode-generator-query.php:402
+msgid "Field"
+msgstr "Fält"
+
+#: includes/generator/class-wpcode-generator-query.php:387
+#: includes/generator/class-wpcode-generator-query.php:393
+#: includes/generator/class-wpcode-generator-taxonomy.php:35
+#: includes/generator/class-wpcode-generator-taxonomy.php:112
+msgid "Taxonomy"
+msgstr "Taxonomi"
+
+#: includes/generator/class-wpcode-generator-query.php:380
+msgid "No (default)"
+msgstr "Nej (standard)"
+
+#: includes/generator/class-wpcode-generator-query.php:375
+msgid "Ignore sticky posts"
+msgstr "Ignorera klistrade inlägg"
+
+#: includes/generator/class-wpcode-generator-query.php:366
+msgid "Number of posts to skip."
+msgstr "Antal inlägg att hoppa över."
+
+#: includes/generator/class-wpcode-generator-query.php:365
+msgid "Offset"
+msgstr "Förskjutning"
+
+#: includes/generator/class-wpcode-generator-query.php:358
+msgid "Posts per page"
+msgstr "Inlägg per sida"
+
+#: includes/generator/class-wpcode-generator-query.php:348
+msgid "Page number"
+msgstr "Sidnummer"
+
+#: includes/generator/class-wpcode-generator-query.php:343
+msgid "Yes (default)"
+msgstr "Ja (standard)"
+
+#: includes/generator/class-wpcode-generator-query.php:337
+msgid "Use Pagination"
+msgstr "Använd sidonumrering"
+
+#: includes/generator/class-wpcode-generator-query.php:331
+msgid "Pagination"
+msgstr "Sidonumrering"
+
+#: includes/generator/class-wpcode-generator-query.php:307
+msgid "Comment count"
+msgstr "Antal kommentarer"
+
+#: includes/generator/class-wpcode-generator-query.php:306
+msgid "Random"
+msgstr "Slumpmässig"
+
+#: includes/generator/class-wpcode-generator-query.php:305
+msgid "Parent id"
+msgstr "Överordnat ID"
+
+#: includes/generator/class-wpcode-generator-query.php:304
+msgid "Modified date"
+msgstr "Ändringsdatum"
+
+#: includes/generator/class-wpcode-generator-query.php:303
+msgid "Date (default)"
+msgstr "Datum (standard)"
+
+#: includes/generator/class-wpcode-generator-query.php:302
+msgid "Post type (type)"
+msgstr "Inläggstyp (typ)"
+
+#: includes/generator/class-wpcode-generator-query.php:301
+msgid "Slug (name)"
+msgstr "Slug (namn)"
+
+#: includes/generator/class-wpcode-generator-query.php:298
+msgid "ID"
+msgstr "ID"
+
+#: includes/generator/class-wpcode-generator-query.php:297
+msgid "No order (none)"
+msgstr "Ingen sortering (ingen)"
+
+#: includes/generator/class-wpcode-generator-query.php:293
+msgid "Order by"
+msgstr "Sortera efter"
+
+#: includes/generator/class-wpcode-generator-query.php:259
+msgid "Search"
+msgstr "Sök"
+
+#: includes/generator/class-wpcode-generator-query.php:250
+msgid "Author name"
+msgstr "Författarnamn"
+
+#: includes/generator/class-wpcode-generator-query.php:215
+msgid "Post status"
+msgstr "Inläggsstatus"
+
+#: includes/generator/class-wpcode-generator-post-type.php:736
+msgid "Edit Others Posts"
+msgstr "Redigera andras inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:729
+msgid "Edit Posts"
+msgstr "Redigera inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:722
+msgid "Edit Post"
+msgstr "Redigera inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:715
+msgid "Delete Posts"
+msgstr "Ta bort inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:705
+msgid "Publish Posts"
+msgstr "Publicera inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:678
+msgid "Pages"
+msgstr "Sidor"
+
+#: includes/generator/class-wpcode-generator-post-type.php:677
+msgid "Posts"
+msgstr "Inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:667
+#: includes/generator/class-wpcode-generator-post-type.php:686
+#: includes/generator/class-wpcode-generator-taxonomy.php:448
+#: includes/generator/class-wpcode-generator-taxonomy.php:453
+msgid "Custom Capabilities"
+msgstr "Anpassade behörigheter"
+
+#: includes/generator/class-wpcode-generator-post-type.php:654
+#: includes/generator/class-wpcode-generator-post-type.php:660
+#: includes/generator/class-wpcode-generator-taxonomy.php:435
+#: includes/generator/class-wpcode-generator-taxonomy.php:441
+msgid "Capabilities"
+msgstr "Behörigheter"
+
+#: includes/generator/class-wpcode-generator-post-type.php:586
+#: includes/generator/class-wpcode-generator-taxonomy.php:379
+msgid "Permalinks"
+msgstr "Permalänkar"
+
+#: includes/generator/class-wpcode-generator-post-type.php:567
+msgid "Custom variable"
+msgstr "Anpassad variabel"
+
+#: includes/generator/class-wpcode-generator-post-type.php:503
+msgid "Menu Icon"
+msgstr "Menyikon"
+
+#: includes/generator/class-wpcode-generator-post-type.php:497
+msgid "Below Settings (80)"
+msgstr "Under inställningar (80)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:496
+msgid "Below Tools (75)"
+msgstr "Under verktyg (75)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:495
+msgid "Below Users (70)"
+msgstr "Under användare (70)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:494
+msgid "Below Plugins (65)"
+msgstr "Under tillägg (65)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:492
+msgid "Below Comments (30)"
+msgstr "Under kommentarer (30)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:491
+msgid "Below Pages (20)"
+msgstr "Under sidor (20)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:490
+msgid "Below Media (10)"
+msgstr "Under media (10)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:489
+msgid "Below Posts (5)"
+msgstr "Under inlägg (5)"
+
+#: includes/generator/class-wpcode-generator-post-type.php:484
+msgid "Menu position"
+msgstr "Menyposition"
+
+#: includes/generator/class-wpcode-generator-post-type.php:473
+msgid "Show in Menu?"
+msgstr "Visa i meny?"
+
+#: includes/generator/class-wpcode-generator-post-type.php:410
+#: includes/generator/class-wpcode-generator-post-type.php:424
+#: includes/generator/class-wpcode-generator-post-type.php:453
+#: includes/generator/class-wpcode-generator-post-type.php:464
+#: includes/generator/class-wpcode-generator-post-type.php:478
+#: includes/generator/class-wpcode-generator-post-type.php:520
+#: includes/generator/class-wpcode-generator-post-type.php:531
+#: includes/generator/class-wpcode-generator-post-type.php:621
+#: includes/generator/class-wpcode-generator-post-type.php:635
+#: includes/generator/class-wpcode-generator-post-type.php:646
+#: includes/generator/class-wpcode-generator-taxonomy.php:321
+#: includes/generator/class-wpcode-generator-taxonomy.php:335
+#: includes/generator/class-wpcode-generator-taxonomy.php:346
+#: includes/generator/class-wpcode-generator-taxonomy.php:360
+#: includes/generator/class-wpcode-generator-taxonomy.php:371
+#: includes/generator/class-wpcode-generator-taxonomy.php:416
+msgid "Yes - default"
+msgstr "Ja – standard"
+
+#: includes/generator/class-wpcode-generator-post-type.php:405
+msgid "Enable Export"
+msgstr "Aktivera export"
+
+#: includes/generator/class-wpcode-generator-post-type.php:400
+#: includes/generator/class-wpcode-generator-post-type.php:758
+#: includes/generator/class-wpcode-generator-taxonomy.php:427
+#: includes/generator/class-wpcode-generator-taxonomy.php:506
+msgid "No - default"
+msgstr "Nej – standard"
+
+#: includes/generator/class-wpcode-generator-post-type.php:385
+msgid "Page Attributes"
+msgstr "Sidattribut"
+
+#: includes/generator/class-wpcode-generator-post-type.php:384
+msgid "Revisions"
+msgstr "Versioner"
+
+#: includes/generator/class-wpcode-generator-post-type.php:383
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: includes/generator/class-wpcode-generator-post-type.php:382
+#: includes/generator/class-wpcode-generator-query.php:487
+msgid "Custom Fields"
+msgstr "Anpassade fält"
+
+#: includes/generator/class-wpcode-generator-post-type.php:381
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: includes/generator/class-wpcode-generator-post-type.php:380
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: includes/generator/class-wpcode-generator-post-type.php:379
+msgid "Featured image"
+msgstr "Utvald bild"
+
+#: includes/generator/class-wpcode-generator-post-type.php:376
+#: includes/generator/class-wpcode-generator-query.php:300
+msgid "Title"
+msgstr "Rubrik"
+
+#: includes/generator/class-wpcode-generator-post-type.php:365
+#: includes/generator/class-wpcode-generator-widget.php:239
+msgid "Options"
+msgstr "Alternativ"
+
+#: includes/generator/class-wpcode-generator-post-type.php:321
+msgid "Use as featured image"
+msgstr "Använd som utvald bild"
+
+#: includes/generator/class-wpcode-generator-post-type.php:314
+msgid "Remove featured image"
+msgstr "Ta bort utvald bild"
+
+#: includes/generator/class-wpcode-generator-post-type.php:304
+msgid "Set featured image"
+msgstr "Ställ in utvald bild"
+
+#: includes/generator/class-wpcode-generator-post-type.php:297
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: includes/generator/class-wpcode-generator-post-type.php:290
+msgid "Not Found in Trash"
+msgstr "Hittades inte i papperskorgen"
+
+#: includes/generator/class-wpcode-generator-post-type.php:283
+#: includes/generator/class-wpcode-generator-taxonomy.php:279
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: includes/generator/class-wpcode-generator-post-type.php:182
+#: includes/generator/class-wpcode-generator-taxonomy.php:175
+msgid "Menu Name"
+msgstr "Menynamn"
+
+#: includes/generator/class-wpcode-generator-post-type.php:176
+#: includes/generator/class-wpcode-generator-taxonomy.php:169
+msgid "Labels"
+msgstr "Etiketter"
+
+#: includes/generator/class-wpcode-generator-post-status.php:171
+#: includes/generator/class-wpcode-generator-post-status.php:196
+msgid "No - Default"
+msgstr "Nej – standard"
+
+#: includes/generator/class-wpcode-generator-post-status.php:166
+msgid "Exclude from search results"
+msgstr "Exkludera från sökresultaten"
+
+#: includes/generator/class-wpcode-generator-post-status.php:156
+#: includes/generator/class-wpcode-generator-post-status.php:184
+msgid "Yes - Default"
+msgstr "Ja – standard"
+
+#: includes/admin/class-wpcode-review.php:120
+#: includes/generator/class-wpcode-generator-post-status.php:170
+#: includes/generator/class-wpcode-generator-post-status.php:195
+#: includes/generator/class-wpcode-generator-post-type.php:399
+#: includes/generator/class-wpcode-generator-post-type.php:551
+#: includes/generator/class-wpcode-generator-post-type.php:757
+#: includes/generator/class-wpcode-generator-query.php:136
+#: includes/generator/class-wpcode-generator-query.php:379
+#: includes/generator/class-wpcode-generator-query.php:436
+#: includes/generator/class-wpcode-generator-script.php:211
+#: includes/generator/class-wpcode-generator-script.php:228
+#: includes/generator/class-wpcode-generator-style.php:212
+#: includes/generator/class-wpcode-generator-style.php:229
+#: includes/generator/class-wpcode-generator-taxonomy.php:428
+#: includes/generator/class-wpcode-generator-taxonomy.php:505
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/generator/class-wpcode-generator-post-status.php:157
+#: includes/generator/class-wpcode-generator-post-status.php:185
+#: includes/generator/class-wpcode-generator-post-type.php:411
+#: includes/generator/class-wpcode-generator-post-type.php:426
+#: includes/generator/class-wpcode-generator-post-type.php:454
+#: includes/generator/class-wpcode-generator-post-type.php:465
+#: includes/generator/class-wpcode-generator-post-type.php:479
+#: includes/generator/class-wpcode-generator-post-type.php:521
+#: includes/generator/class-wpcode-generator-post-type.php:532
+#: includes/generator/class-wpcode-generator-post-type.php:552
+#: includes/generator/class-wpcode-generator-post-type.php:622
+#: includes/generator/class-wpcode-generator-post-type.php:636
+#: includes/generator/class-wpcode-generator-post-type.php:647
+#: includes/generator/class-wpcode-generator-query.php:137
+#: includes/generator/class-wpcode-generator-query.php:342
+#: includes/generator/class-wpcode-generator-query.php:437
+#: includes/generator/class-wpcode-generator-script.php:210
+#: includes/generator/class-wpcode-generator-script.php:229
+#: includes/generator/class-wpcode-generator-style.php:211
+#: includes/generator/class-wpcode-generator-style.php:230
+#: includes/generator/class-wpcode-generator-taxonomy.php:322
+#: includes/generator/class-wpcode-generator-taxonomy.php:336
+#: includes/generator/class-wpcode-generator-taxonomy.php:347
+#: includes/generator/class-wpcode-generator-taxonomy.php:361
+#: includes/generator/class-wpcode-generator-taxonomy.php:372
+#: includes/generator/class-wpcode-generator-taxonomy.php:417
+msgid "No"
+msgstr "Nej"
+
+#: includes/generator/class-wpcode-generator-post-status.php:152
+#: includes/generator/class-wpcode-generator-post-type.php:447
+#: includes/generator/class-wpcode-generator-taxonomy.php:315
+msgid "Public"
+msgstr "Offentlig"
+
+#: includes/generator/class-wpcode-generator-post-status.php:146
+#: includes/generator/class-wpcode-generator-post-type.php:441
+#: includes/generator/class-wpcode-generator-taxonomy.php:309
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: includes/generator/class-wpcode-generator-post-status.php:35
+#: includes/generator/class-wpcode-generator-post-status.php:117
+msgid "Post Status"
+msgstr "Inläggsstatus"
+
+#: includes/generator/class-wpcode-generator-menu.php:146
+msgid "Add Menu"
+msgstr "Lägg till meny"
+
+#: includes/generator/class-wpcode-generator-menu.php:130
+msgid "Menu label"
+msgstr "Menyetikett"
+
+#: includes/generator/class-wpcode-generator-menu.php:122
+msgid "Menu name"
+msgstr "Menynamn"
+
+#: includes/generator/class-wpcode-generator-menu.php:116
+msgid "Menus"
+msgstr "Menyer"
+
+#: includes/generator/class-wpcode-generator-hooks.php:1336
+msgid "Action"
+msgstr "Åtgärd"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:177
+#: includes/generator/class-wpcode-generator-hooks.php:1385
+msgid "PHP Code"
+msgstr "PHP-kod"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:130
+msgid "Custom"
+msgstr "Anpassad"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:129
+msgid "Daily"
+msgstr "En gång om dagen"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:128
+msgid "Twice Daily"
+msgstr "Två gånger per dag"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:116
+msgid "Schedule"
+msgstr "Schemalägg"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:131
+msgid "Menu Title"
+msgstr "Menyrubrik"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:123
+msgid "Menu ID"
+msgstr "Meny-ID"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:117
+msgid "Menu Structure"
+msgstr "Menystruktur"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:101
+msgid "Position"
+msgstr "Position"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:90
+#: includes/generator/class-wpcode-generator-contact-methods.php:90
+#: includes/generator/class-wpcode-generator-cronjob.php:95
+#: includes/generator/class-wpcode-generator-menu.php:95
+#: includes/generator/class-wpcode-generator-post-status.php:90
+#: includes/generator/class-wpcode-generator-post-type.php:90
+#: includes/generator/class-wpcode-generator-script.php:95
+#: includes/generator/class-wpcode-generator-sidebar.php:95
+#: includes/generator/class-wpcode-generator-style.php:95
+#: includes/generator/class-wpcode-generator-taxonomy.php:90
+msgid "Function name"
+msgstr "Funktionsnamn"
+
+#: includes/conditional-logic/class-wpcode-conditional-user.php:52
+msgid "User Role"
+msgstr "Användarroll"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:84
+#: includes/generator/class-wpcode-generator-contact-methods.php:84
+#: includes/generator/class-wpcode-generator-cronjob.php:89
+#: includes/generator/class-wpcode-generator-menu.php:89
+#: includes/generator/class-wpcode-generator-post-status.php:84
+#: includes/generator/class-wpcode-generator-post-type.php:84
+#: includes/generator/class-wpcode-generator-query.php:114
+#: includes/generator/class-wpcode-generator-script.php:89
+#: includes/generator/class-wpcode-generator-sidebar.php:89
+#: includes/generator/class-wpcode-generator-style.php:89
+#: includes/generator/class-wpcode-generator-taxonomy.php:84
+#: includes/generator/class-wpcode-generator-widget.php:84
+msgid "General"
+msgstr "Allmänt"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:77
+#: includes/generator/class-wpcode-generator-contact-methods.php:77
+#: includes/generator/class-wpcode-generator-cronjob.php:82
+#: includes/generator/class-wpcode-generator-hooks.php:1318
+#: includes/generator/class-wpcode-generator-menu.php:82
+#: includes/generator/class-wpcode-generator-post-status.php:77
+#: includes/generator/class-wpcode-generator-post-type.php:77
+#: includes/generator/class-wpcode-generator-query.php:107
+#: includes/generator/class-wpcode-generator-script.php:77
+#: includes/generator/class-wpcode-generator-sidebar.php:82
+#: includes/generator/class-wpcode-generator-style.php:77
+#: includes/generator/class-wpcode-generator-taxonomy.php:77
+#: includes/generator/class-wpcode-generator-widget.php:77
+msgid "Examples"
+msgstr "Exempel"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:63
+#: includes/generator/class-wpcode-generator-contact-methods.php:63
+#: includes/generator/class-wpcode-generator-cronjob.php:68
+#: includes/generator/class-wpcode-generator-hooks.php:1304
+#: includes/generator/class-wpcode-generator-menu.php:68
+#: includes/generator/class-wpcode-generator-post-status.php:63
+#: includes/generator/class-wpcode-generator-post-type.php:63
+#: includes/generator/class-wpcode-generator-query.php:93
+#: includes/generator/class-wpcode-generator-script.php:63
+#: includes/generator/class-wpcode-generator-sidebar.php:68
+#: includes/generator/class-wpcode-generator-style.php:63
+#: includes/generator/class-wpcode-generator-taxonomy.php:63
+#: includes/generator/class-wpcode-generator-widget.php:63
+msgid "Usage"
+msgstr "Användning"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:54
+#: includes/generator/class-wpcode-generator-contact-methods.php:54
+#: includes/generator/class-wpcode-generator-cronjob.php:54
+#: includes/generator/class-wpcode-generator-hooks.php:1286
+#: includes/generator/class-wpcode-generator-menu.php:54
+#: includes/generator/class-wpcode-generator-post-status.php:54
+#: includes/generator/class-wpcode-generator-post-type.php:54
+#: includes/generator/class-wpcode-generator-query.php:79
+#: includes/generator/class-wpcode-generator-script.php:54
+#: includes/generator/class-wpcode-generator-sidebar.php:54
+#: includes/generator/class-wpcode-generator-style.php:54
+#: includes/generator/class-wpcode-generator-taxonomy.php:54
+#: includes/generator/class-wpcode-generator-widget.php:54
+msgid "Overview"
+msgstr "Översikt"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:47
+#: includes/generator/class-wpcode-generator-contact-methods.php:47
+#: includes/generator/class-wpcode-generator-cronjob.php:47
+#: includes/generator/class-wpcode-generator-hooks.php:1279
+#: includes/generator/class-wpcode-generator-menu.php:47
+#: includes/generator/class-wpcode-generator-post-status.php:47
+#: includes/generator/class-wpcode-generator-post-type.php:47
+#: includes/generator/class-wpcode-generator-query.php:72
+#: includes/generator/class-wpcode-generator-script.php:47
+#: includes/generator/class-wpcode-generator-sidebar.php:47
+#: includes/generator/class-wpcode-generator-style.php:47
+#: includes/generator/class-wpcode-generator-taxonomy.php:47
+#: includes/generator/class-wpcode-generator-widget.php:47
+msgid "Info"
+msgstr "Info"
+
+#: includes/conditional-logic/class-wpcode-conditional-user.php:37
+msgid "Logged-in"
+msgstr "Inloggad"
+
+#: includes/conditional-logic/class-wpcode-conditional-user.php:26
+msgid "User"
+msgstr "Användare"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:92
+msgid "Page URL"
+msgstr "Sid-URL"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:85
+msgid "Taxonomy term"
+msgstr "Taxonomiterm"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:68
+#: includes/generator/class-wpcode-generator-query.php:204
+msgid "Post type"
+msgstr "Inläggstyp"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:61
+msgid "Author page"
+msgstr "Författarsida"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:57
+msgid "404 page"
+msgstr "404-sida"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:45
+msgid "Archive"
+msgstr "Arkiv"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:41
+msgid "Homepage"
+msgstr "Startsida"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:26
+msgid "Page"
+msgstr "Sida"
+
+#: includes/class-wpcode-snippet-execute.php:385
+msgid "Error message:"
+msgstr "Felmeddelande: "
+
+#: includes/class-wpcode-generator.php:97
+msgid "Design"
+msgstr "Design"
+
+#: includes/class-wpcode-generator.php:96
+msgid "Core"
+msgstr "Kärna"
+
+#: includes/class-wpcode-generator.php:95
+msgid "Content"
+msgstr "Innehåll"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:745
+msgid "All locations"
+msgstr "Alla platser"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:743
+msgid "Filter by location"
+msgstr "Filtrera efter plats"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:703
+msgid "All types"
+msgstr "Alla typer"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:469
+msgid "Created"
+msgstr "Skapad"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:467
+#: includes/generator/class-wpcode-generator-post-type.php:378
+#: includes/generator/class-wpcode-generator-query.php:225
+#: includes/generator/class-wpcode-generator-query.php:299
+msgid "Author"
+msgstr "Författare"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:466
+#: includes/generator/class-wpcode-generator-post-status.php:128
+#: includes/generator/class-wpcode-generator-post-type.php:136
+#: includes/generator/class-wpcode-generator-sidebar.php:130
+msgid "Name"
+msgstr "Namn"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:274
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:321
+msgid "Delete Permanently"
+msgstr "Ta bort permanent"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:257
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:320
+msgid "Restore"
+msgstr "Återställ"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:723
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:427
+msgid "Help"
+msgstr "Hjälp"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:369
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:327
+msgid "Dismiss all"
+msgstr "Avfärda alla"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:304
+msgid "Active Notifications"
+msgstr "Aktiva aviseringar"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:301
+msgid "Dismissed Notifications"
+msgstr "Avfärdade aviseringar"
+
+#. Translators: Placeholder for the number of dismissed notifications.
+#: includes/admin/pages/class-wpcode-admin-page.php:294
+msgid "Notifications (%s)"
+msgstr "Aviseringar (%s)"
+
+#. Translators: Placeholder for the number of active notifications.
+#: includes/admin/pages/class-wpcode-admin-page.php:283
+msgid "New Notifications (%s)"
+msgstr "Nya aviseringar (%s)"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:271
+msgid "Submit a Support Ticket"
+msgstr "Skicka ett supportärende"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:269
+msgid "Get Support"
+msgstr "Skaffa support"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:265
+msgid "View All Documentation"
+msgstr "Visa all dokumentation"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:263
+msgid "View Documentation"
+msgstr "Visa dokumentation"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:248
+msgid "No docs found"
+msgstr "Inga dokument hittades"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:241
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:671
+msgid "Clear"
+msgstr "Rensa"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:680
+msgid "Testing"
+msgstr "Testning"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:664
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:284
+msgid "Edit"
+msgstr "Redigera"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:594
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:607
+msgid "Error"
+msgstr "Fel"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:482
+msgid "System Info"
+msgstr "Systeminformation"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:481
+msgid "Export"
+msgstr "Exportera"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:357
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:765
+msgid "All"
+msgstr "Alla"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:201
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:473
+#: includes/generator/class-wpcode-generator-post-status.php:111
+msgid "Status"
+msgstr "Status"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:167
+msgid "Not Active"
+msgstr "Inte aktiv"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:165
+msgid "Not Installed"
+msgstr "Inte installerat"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:149
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:182
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:304
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:480
+msgid "Import"
+msgstr "Importera"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:140
+msgid "Choose a file&hellip;"
+msgstr "Välj en fil …"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:136
+msgid "No file chosen"
+msgstr "Ingen fil vald"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:52
+msgid "Tools"
+msgstr "Verktyg"
+
+#: includes/helpers.php:176
+msgid "Contains"
+msgstr "Innehåller"
+
+#: includes/helpers.php:175
+msgid "Is not"
+msgstr "Är inte"
+
+#: includes/helpers.php:174
+msgid "Is"
+msgstr "Är"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:901
+msgid "Hide"
+msgstr "Dölj"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:900
+msgid "Show"
+msgstr "Visa"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:717
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:359
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:771
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:714
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:358
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:768
+msgid "Active"
+msgstr "Aktiv"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:578
+msgid "Basic info"
+msgstr "Grundläggande information"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:570
+#: includes/generator/class-wpcode-generator-hooks.php:1360
+msgid "Priority"
+msgstr "Prioritet"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:569
+msgid "Tag"
+msgstr "Etikett"
+
+#: includes/helpers.php:160
+msgctxt "Copy to clipboard"
+msgid "Copy"
+msgstr "Kopiera"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:386
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:436
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:369
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:468
+msgid "Location"
+msgstr "Plats"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:96
+msgid "Update"
+msgstr "Uppdatera"
+
+#: includes/admin/pages/class-wpcode-admin-page-library.php:44
+msgid "Library"
+msgstr "Bibliotek"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:204
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:157
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:230
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:291
+#: includes/admin/pages/class-wpcode-admin-page-pixel.php:339
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:142
+msgid "Save Changes"
+msgstr "Spara ändringarna"
+
+#: includes/admin/class-wpcode-metabox-snippets.php:51
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:154
+#: includes/generator/class-wpcode-generator-script.php:192
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:35
+msgid "Footer"
+msgstr "Sidfot"
+
+#: includes/admin/class-wpcode-metabox-snippets.php:50
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:150
+#: includes/generator/class-wpcode-generator-script.php:193
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:22
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:48
+msgid "Header & Footer"
+msgstr "Sidhuvud och sidfot"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:243
+#: includes/generator/class-wpcode-generator-type.php:212
+msgid "Remove Row"
+msgstr "Ta bort rad"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:211
+msgctxt "Copy to clipboard"
+msgid "Copy Code"
+msgstr "Kopiera kod"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:140
+msgid "Generate"
+msgstr "Generera"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:59
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:574
+msgid "Generator"
+msgstr "Generator"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:118
+msgid "Taxonomy Key"
+msgstr "Taxonominyckel"
+
+#: includes/generator/class-wpcode-generator-style.php:137
+msgid "Styles"
+msgstr "Stilar"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:199
+msgid "Add another sidebar"
+msgstr "Lägg till en annan sidopanel "
+
+#: includes/generator/class-wpcode-generator-sidebar.php:122
+msgid "Sidebar Id"
+msgstr "Sidopanels-ID"
+
+#: includes/generator/class-wpcode-generator-script.php:246
+msgid "Add script"
+msgstr "Lägg till skript"
+
+#: includes/generator/class-wpcode-generator-script.php:241
+msgid "Add more scripts"
+msgstr "Lägg till fler skript"
+
+#: includes/generator/class-wpcode-generator-script.php:137
+msgid "Scripts"
+msgstr "Skript"
+
+#: includes/generator/class-wpcode-generator-query.php:465
+msgid "Add another taxonomy"
+msgstr "Lägg till en annan taxonomi"
+
+#: includes/generator/class-wpcode-generator-query.php:443
+msgid "Operator"
+msgstr "Operatör"
+
+#: includes/generator/class-wpcode-generator-query.php:410
+msgid "Term Name"
+msgstr "Termnamn"
+
+#: includes/generator/class-wpcode-generator-query.php:409
+msgid "Term ID (default"
+msgstr "Term-ID (standard)"
+
+#: includes/generator/class-wpcode-generator-query.php:349
+msgid "Which page to show."
+msgstr "Vilken sida som ska visas."
+
+#: includes/generator/class-wpcode-generator-query.php:320
+#: includes/generator/class-wpcode-generator-query.php:493
+msgid "Meta Key"
+msgstr "Metanyckel"
+
+#: includes/generator/class-wpcode-generator-query.php:311
+msgid "Meta value"
+msgstr "Meta-värde"
+
+#: includes/generator/class-wpcode-generator-query.php:238
+msgid "Author not in"
+msgstr "Författare inte i"
+
+#: includes/generator/class-wpcode-generator-query.php:198
+msgid "Type & Status"
+msgstr "Typ och status"
+
+#: includes/generator/class-wpcode-generator-query.php:188
+msgid "Post slugs"
+msgstr "Inläggs-slug"
+
+#: includes/generator/class-wpcode-generator-query.php:131
+msgid "Include loop"
+msgstr "Inkludera loop"
+
+#: includes/generator/class-wpcode-generator-post-type.php:751
+#: includes/generator/class-wpcode-generator-taxonomy.php:500
+msgid "Show in Rest API?"
+msgstr "Visa i REST API?"
+
+#: includes/generator/class-wpcode-generator-post-type.php:745
+#: includes/generator/class-wpcode-generator-taxonomy.php:494
+msgid "Rest API"
+msgstr "REST API"
+
+#: includes/generator/class-wpcode-generator-post-type.php:698
+msgid "Read Private Posts"
+msgstr "Läsa privata inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:691
+msgid "Read Post"
+msgstr "Läs inlägg"
+
+#: includes/generator/class-wpcode-generator-post-type.php:641
+msgid "Use feeds?"
+msgstr "Använd webbflöden?"
+
+#: includes/generator/class-wpcode-generator-post-type.php:630
+msgid "Use pagination?"
+msgstr "Använd sidonumrering?"
+
+#: includes/generator/class-wpcode-generator-post-type.php:616
+msgid "Use URL Slug?"
+msgstr "Använd URL-slug?"
+
+#: includes/generator/class-wpcode-generator-post-type.php:608
+#: includes/generator/class-wpcode-generator-taxonomy.php:400
+msgid "URL Slug"
+msgstr "URL-slug"
+
+#: includes/generator/class-wpcode-generator-post-type.php:600
+#: includes/generator/class-wpcode-generator-taxonomy.php:392
+msgid "Custom permalink structure"
+msgstr "Anpassad permalänkstruktur"
+
+#: includes/generator/class-wpcode-generator-post-type.php:459
+#: includes/generator/class-wpcode-generator-taxonomy.php:330
+msgid "Show UI"
+msgstr "Visa UI"
+
+#: includes/generator/class-wpcode-generator-post-type.php:431
+msgid "Custom Archive Slug"
+msgstr "Anpassad arkiv-slug"
+
+#: includes/generator/class-wpcode-generator-post-type.php:419
+msgid "Enable Archives"
+msgstr "Aktivera arkiv"
+
+#: includes/generator/class-wpcode-generator-post-type.php:394
+msgid "Exclude From Search"
+msgstr "Exkludera från sök"
+
+#: includes/generator/class-wpcode-generator-post-type.php:386
+msgid "Post Formats"
+msgstr "Inläggsformat"
+
+#: includes/generator/class-wpcode-generator-post-type.php:377
+msgid "Content Editor"
+msgstr "Innehållsredaktör"
+
+#: includes/generator/class-wpcode-generator-post-type.php:371
+msgid "Supports"
+msgstr "Stöder"
+
+#: includes/generator/class-wpcode-generator-post-type.php:203
+msgid "Attributes"
+msgstr "Attribut"
+
+#: includes/generator/class-wpcode-generator-post-type.php:196
+msgid "Archives"
+msgstr "Arkiv"
+
+#: includes/generator/class-wpcode-generator-post-type.php:163
+#: includes/generator/class-wpcode-generator-taxonomy.php:156
+msgid "Hierarchical"
+msgstr "Hierarkisk"
+
+#: includes/generator/class-wpcode-generator-post-type.php:155
+msgid "Link To Taxonomies"
+msgstr "Länk till taxonomier"
+
+#: includes/generator/class-wpcode-generator-post-type.php:126
+msgid "A short description of the post type."
+msgstr "En kort beskrivning av inläggstypen."
+
+#: includes/generator/class-wpcode-generator-post-type.php:125
+#: includes/generator/class-wpcode-generator-sidebar.php:138
+#: includes/generator/class-wpcode-generator-widget.php:150
+#: includes/generator/class-wpcode-generator-widget.php:223
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/generator/class-wpcode-generator-post-type.php:35
+#: includes/generator/class-wpcode-generator-post-type.php:111
+msgid "Post Type"
+msgstr "Inläggstyp"
+
+#: includes/generator/class-wpcode-generator-post-status.php:153
+#: includes/generator/class-wpcode-generator-post-status.php:167
+msgid "Should the posts with this status be visible in the frontend?"
+msgstr "Ska inlägg med denna status vara synlig på front-end?"
+
+#: includes/generator/class-wpcode-generator-post-status.php:36
+msgid "Use this tool to generate a custom post status for your posts."
+msgstr "Använd detta verktyg för att skapa en anpassad inläggsstatus för dina inlägg."
+
+#: includes/generator/class-wpcode-generator-menu.php:141
+msgid "Add another menu"
+msgstr "Lägg till en annan meny"
+
+#: includes/generator/class-wpcode-generator-menu.php:35
+msgid "Navigation Menu"
+msgstr "Navigeringsmeny"
+
+#: includes/generator/class-wpcode-generator-hooks.php:35
+msgid "Hooks"
+msgstr "Åtgärds-hook"
+
+#: includes/generator/class-wpcode-generator-cronjob.php:161
+#: includes/generator/class-wpcode-generator-hooks.php:1379
+msgid "Code"
+msgstr "Kod"
+
+#: includes/generator/class-wpcode-generator-contact-methods.php:143
+msgid "Add contact method"
+msgstr "Lägg till kontaktmetod"
+
+#: includes/generator/class-wpcode-generator-contact-methods.php:138
+msgid "Add more contact methods"
+msgstr "Lägg till fler kontaktmetoder"
+
+#: includes/generator/class-wpcode-generator-contact-methods.php:101
+#: includes/generator/class-wpcode-generator-cronjob.php:106
+#: includes/generator/class-wpcode-generator-menu.php:106
+#: includes/generator/class-wpcode-generator-post-status.php:101
+#: includes/generator/class-wpcode-generator-post-type.php:101
+#: includes/generator/class-wpcode-generator-sidebar.php:106
+#: includes/generator/class-wpcode-generator-taxonomy.php:102
+#: includes/generator/class-wpcode-generator-widget.php:113
+msgid "Text Domain"
+msgstr "Textdomän"
+
+#: includes/generator/class-wpcode-generator-contact-methods.php:35
+#: includes/generator/class-wpcode-generator-contact-methods.php:111
+msgid "Contact Methods"
+msgstr "Kontaktmetoder"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:110
+msgid "After \"New\" Button"
+msgstr "Efter ”Ny” knapp"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:109
+msgid "Before \"New\" Button"
+msgstr "Före ”Ny” knapp"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:108
+msgid "After Site Name"
+msgstr "Efter webbplatsnamn"
+
+#: includes/generator/class-wpcode-generator-admin-bar.php:107
+msgid "Before Site Name"
+msgstr "Före webbplatnamn"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:49
+msgid "Single post/page"
+msgstr "Enskilt inlägg/sida"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:37
+msgid "Type of page"
+msgstr "Typ av sida"
+
+#: includes/class-wpcode-snippet-execute.php:95
+msgid "Universal Snippet"
+msgstr "Universal förhandsvisningstext"
+
+#: includes/class-wpcode-generator.php:94
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/auto-insert/class-wpcode-auto-insert-single.php:33
+msgid "Insert After Paragraph"
+msgstr "Infoga efter stycke"
+
+#: includes/auto-insert/class-wpcode-auto-insert-single.php:32
+msgid "Insert Before Paragraph"
+msgstr "Infoga före stycke"
+
+#: includes/auto-insert/class-wpcode-auto-insert-single.php:31
+msgid "Insert After Content"
+msgstr "Infoga efter innehåll"
+
+#: includes/auto-insert/class-wpcode-auto-insert-single.php:30
+msgid "Insert Before Content"
+msgstr "Infoga före innehåll"
+
+#: includes/auto-insert/class-wpcode-auto-insert-single.php:29
+msgid "Insert After Post"
+msgstr "Infoga efter inlägg"
+
+#: includes/auto-insert/class-wpcode-auto-insert-single.php:28
+msgid "Insert Before Post"
+msgstr "Infoga före inlägg"
+
+#: includes/auto-insert/class-wpcode-auto-insert-single.php:26
+msgid "Page, Post, Custom Post Type"
+msgstr "Sida, inlägg, anpassad inläggstyp"
+
+#: includes/auto-insert/class-wpcode-auto-insert-everywhere.php:30
+msgid "Admin Only"
+msgstr "Endast admin"
+
+#: includes/auto-insert/class-wpcode-auto-insert-everywhere.php:29
+msgid "Frontend Only"
+msgstr "Endast front-end"
+
+#: includes/auto-insert/class-wpcode-auto-insert-archive.php:25
+msgid "After Post"
+msgstr "Efter inlägg"
+
+#: includes/auto-insert/class-wpcode-auto-insert-archive.php:24
+msgid "Before Post"
+msgstr "Före inlägg"
+
+#: includes/auto-insert/class-wpcode-auto-insert-archive.php:23
+msgid "Between Posts"
+msgstr "Mellan inlägg"
+
+#: includes/auto-insert/class-wpcode-auto-insert-archive.php:22
+msgid "Insert After Excerpt"
+msgstr "Infoga efter utdrag"
+
+#: includes/auto-insert/class-wpcode-auto-insert-archive.php:21
+msgid "Insert Before Excerpt"
+msgstr "Infoga före utdrag"
+
+#: includes/auto-insert/class-wpcode-auto-insert-archive.php:19
+msgid "Categories, Archives, Tags, Taxonomies"
+msgstr "Kategorier, arkiv, etiketter, taxonomier"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:701
+msgid "Filter by code type"
+msgstr "Filtrera efter kodtyp"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:667
+#: includes/generator/class-wpcode-generator-hooks.php:1337
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:273
+msgid "Delete this snippet permanently"
+msgstr "Ta bort denna förhandsvisningstext permanent"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:256
+msgid "Restore this snippet"
+msgstr "Återställ denna förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:216
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:283
+msgid "Edit This Snippet"
+msgstr "Redigera denna förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:1064
+msgid "Preview Snippet"
+msgstr "Förhandsgranska förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:702
+msgid "Edit snippet"
+msgstr "Redigera förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:682
+msgid "Use snippet"
+msgstr "Använd förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page.php:237
+msgid "Search docs"
+msgstr "Sök dokument"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:416
+msgid "No tags available."
+msgstr "Inga etiketter tillgängliga."
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:290
+msgid "Select All"
+msgstr "Välj alla"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:276
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:339
+msgid "No snippets found."
+msgstr "Inga förhandsvisningstexter hittades."
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:271
+#: includes/admin/pages/class-wpcode-admin-page.php:976
+msgid "Available Snippets"
+msgstr "Tillgängliga förhandsvisningstexter"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:240
+msgid "Test Connection"
+msgstr "Testa anslutning"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:218
+msgid "Export Snippets"
+msgstr "Exportera förhandsvisningstexter"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:211
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:470
+msgid "Tags"
+msgstr "Etiketter"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:232
+msgid "System Information"
+msgstr "Systeminformation"
+
+#: includes/admin/pages/class-wpcode-admin-page-tools.php:237
+msgid "Test SSL Connections"
+msgstr "Testa SSL-anslutningar"
+
+#: includes/helpers.php:177
+msgid "Doesn't Contain"
+msgstr "Innehåller inte"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:883
+msgid "+ Add new group"
+msgstr "+ Lägg till ny grupp"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:500
+msgid "Please save the snippet first"
+msgstr "Spara förhandsvisningstexten först"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:371
+msgid "Insert Number"
+msgstr "Infoga nummer"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:356
+msgid "Insertion"
+msgstr "Infogning"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:95
+msgid "Edit Snippet"
+msgstr "Redigera förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:93
+msgid "Create Custom Snippet"
+msgstr "Skapa anpassad förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:92
+msgid "Save Snippet"
+msgstr "Spara förhandsvisningstext"
+
+#. Translators: This adds the name of the plugin "WPCode".
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:69
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:99
+msgid "Add Snippet"
+msgstr "Lägg till förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:222
+msgid "Simple mode"
+msgstr "Enkelt läge"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:199
+msgid "Global Header and Footer"
+msgstr "Globalt sidhuvud och sidfot"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:208
+#: includes/admin/pages/class-wpcode-admin-page.php:1073
+msgid "Use Snippet"
+msgstr "Använd förhandsvisningstext"
+
+#: includes/admin/pages/class-wpcode-admin-page-generator.php:192
+msgid "Update code"
+msgstr "Uppdatera kod"
+
+#: includes/admin/pages/class-wpcode-admin-page-code-snippets.php:214
+#: includes/generator/class-wpcode-generator-post-type.php:231
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: includes/admin/pages/class-wpcode-admin-page-code-snippets.php:212
+#: includes/admin/pages/class-wpcode-admin-page.php:894
+msgid "All Snippets"
+msgstr "Alla förhandsvisningstexter"
+
+#: includes/admin/pages/class-wpcode-admin-page-code-snippets.php:194
+#: includes/admin/pages/class-wpcode-admin-page.php:894
+msgid "Search Snippets"
+msgstr "Sök förhandsvisningstexter"
+
+#: includes/admin/importers/class-wpcode-importer-code-snippets.php:92
+#: includes/admin/importers/class-wpcode-importer-woody.php:89
+msgid "Unknown Snippet"
+msgstr "Okänd förhandsvisningstext"
+
+#: includes/admin/class-wpcode-upgrade-welcome.php:326
+msgid "Add Your First Snippet"
+msgstr "Lägg till din första förhandsvisningstext"
+
+#. Translators: Placeholder for "WPBeginner".
+#: includes/admin/class-wpcode-upgrade-welcome.php:215
+msgid "Founder of %s"
+msgstr "Grundare av %s"
+
+#: includes/admin/class-wpcode-upgrade-welcome.php:30
+#: includes/admin/class-wpcode-upgrade-welcome.php:31
+msgid "Welcome to WPCode"
+msgstr "Välkommen till WPCode"
+
+#. Translators: Human-Readable time to display.
+#: includes/admin/class-wpcode-notifications.php:282
+msgid "%1$s ago"
+msgstr "%1$s sedan"
+
+#: includes/admin/admin-ajax-handlers.php:40
+msgctxt "Snippet status change"
+msgid "deactivated"
+msgstr "inaktiverad"
+
+#: includes/admin/admin-ajax-handlers.php:40
+msgctxt "Snippet status change"
+msgid "activated"
+msgstr "aktiverad"
+
+#. Author of the plugin
+msgid "WPCode"
+msgstr "WPCode"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpcode.com/"
+msgstr "https://www.wpcode.com/"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:366
+msgid "Show in Navigation Menus"
+msgstr "Visa i navigeringsmenyer"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:255
+msgid "Choose From Most Used"
+msgstr "Välj från mest använda"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:248
+msgid "Add or Remove Items"
+msgstr "Lägg till eller ta bort objekt"
+
+#: includes/generator/class-wpcode-generator-taxonomy.php:241
+msgid "Separate Items with commas"
+msgstr "Separera objekt med kommatecken"
+
+#: includes/generator/class-wpcode-generator-style.php:153
+msgid "Stylesheet URL"
+msgstr "URL till stilmall"
+
+#: includes/generator/class-wpcode-generator-style.php:143
+msgid "Style name"
+msgstr "Stilnamn"
+
+#: includes/generator/class-wpcode-generator-sidebar.php:185
+msgid "HTML code to add after each widget."
+msgstr "HTML-kod att lägga till efter varje widget."
+
+#: includes/generator/class-wpcode-generator-sidebar.php:176
+msgid "HTML code to add before each widget."
+msgstr "HTML-kod att lägga till före varje widget."
+
+#: includes/generator/class-wpcode-generator-query.php:543
+msgid "Type of custom field."
+msgstr "Typ av anpassat fält."
+
+#: includes/generator/class-wpcode-generator-query.php:340
+msgid "Choose no to display all posts (not recommended)."
+msgstr "Välj nej för att visa alla inlägg (rekommenderas inte)."
+
+#: includes/generator/class-wpcode-generator-query.php:144
+msgid "IDs & Parents"
+msgstr "ID:n och överordnade"
+
+#: includes/generator/class-wpcode-generator-post-type.php:592
+msgid "Rewrite Permalinks"
+msgstr "Skriv om permalänkar"
+
+#: includes/generator/class-wpcode-generator-post-type.php:515
+msgid "Show in Admin Bar?"
+msgstr "Visa i adminmeny?"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:366
+msgid "Insert Method"
+msgstr "Infoga metod"
+
+#: includes/generator/class-wpcode-generator-query.php:42
+msgid "WP_Query"
+msgstr "WP_Query"
+
+#: includes/conditional-logic/class-wpcode-conditional-user.php:45
+msgid "False"
+msgstr "Falskt"
+
+#: includes/conditional-logic/class-wpcode-conditional-user.php:41
+msgid "True"
+msgstr "Sant"
+
+#: includes/conditional-logic/class-wpcode-conditional-page.php:53
+msgid "Search page"
+msgstr "Söksida"
+
+#. Translators: This is the format for displaying the date in the admin list,
+#. [date] at [time].
+#: includes/admin/pages/class-wpcode-code-snippets-table.php:106
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:137
+msgid "These scripts will be printed in the %s section."
+msgstr "Dessa skript kommer skrivas i sektionen %s."
+
+#. translators: %s: The `</body>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:147
+msgid "These scripts will be printed above the closing %s tag."
+msgstr "Dessa skript kommer att skrivas ut innan taggen %s avslutas."
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:142
+msgid "These scripts will be printed just below the opening %s tag."
+msgstr "Dessa skript kommer att skrivas ut direkt efter att taggen %s öppnats."
+
+#: includes/admin/class-wpcode-admin-page-loader.php:193
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:38
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:138
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:276
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:180
+msgid "Settings Saved."
+msgstr "Inställningar sparade."

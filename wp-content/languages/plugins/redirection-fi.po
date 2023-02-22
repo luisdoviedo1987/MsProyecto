@@ -1,0 +1,316 @@
+# Translation of Plugins - Redirection - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Redirection - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-13 10:15:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Redirection - Stable (latest release)\n"
+
+#: redirection-strings.php:519 redirection-strings.php:574
+msgid "Update"
+msgstr "Päivitä"
+
+#: redirection-strings.php:237 redirection-strings.php:568
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: redirection-strings.php:229 redirection-strings.php:238
+#: redirection-strings.php:341 redirection-strings.php:377
+#: redirection-strings.php:393 redirection-strings.php:433
+#: redirection-strings.php:445 redirection-strings.php:529
+#: redirection-strings.php:569
+msgid "Delete"
+msgstr "Poista"
+
+#: redirection-strings.php:307
+msgid "Import"
+msgstr "Tuonti"
+
+#: redirection-strings.php:374
+msgid "WordPress"
+msgstr "WordPress"
+
+#: redirection-admin.php:150
+msgid "Settings"
+msgstr "Asetukset"
+
+#: redirection-strings.php:279 redirection-strings.php:287
+msgid "Support"
+msgstr "Tuki"
+
+#: redirection-strings.php:331 redirection-strings.php:352
+#: redirection-strings.php:385 redirection-strings.php:412
+msgid "Date"
+msgstr "Päiväys"
+
+#: redirection-strings.php:215 redirection-strings.php:224
+#: redirection-strings.php:228 redirection-strings.php:673
+msgid "Module"
+msgstr "Moduuli"
+
+#: redirection-strings.php:232
+msgid "Search"
+msgstr "Haku"
+
+#: redirection-strings.php:230 redirection-strings.php:241
+#: redirection-strings.php:530 redirection-strings.php:571
+msgid "Enable"
+msgstr "Käytä"
+
+#: redirection-strings.php:322
+msgid "Download"
+msgstr "Lataa"
+
+#: redirection-strings.php:346 redirection-strings.php:355
+#: redirection-strings.php:406 redirection-strings.php:415
+#: redirection-strings.php:496 redirection-strings.php:521
+#: redirection-strings.php:592
+msgid "URL"
+msgstr "URL"
+
+#: redirection-strings.php:100 redirection-strings.php:297
+#: redirection-strings.php:613 redirection-strings.php:675
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: redirection-strings.php:278 redirection-strings.php:286
+msgid "Options"
+msgstr "Asetukset"
+
+#. Plugin Name of the plugin
+#: redirection-strings.php:209 redirection-strings.php:375
+#: redirection-strings.php:618
+msgid "Redirection"
+msgstr "Uudelleenohjaus"
+
+#: redirection-strings.php:214 redirection-strings.php:226
+#: redirection-strings.php:235 redirection-strings.php:672
+msgid "Name"
+msgstr "Nimi"
+
+#: redirection-strings.php:329 redirection-strings.php:339
+#: redirection-strings.php:348 redirection-strings.php:359
+#: redirection-strings.php:381 redirection-strings.php:391
+#: redirection-strings.php:408 redirection-strings.php:418
+#: redirection-strings.php:628
+msgid "User Agent"
+msgstr "Selain"
+
+#: redirection-strings.php:99 redirection-strings.php:577
+#: redirection-strings.php:674
+msgid "Save"
+msgstr "Tallenna"
+
+#: redirection-strings.php:233
+msgid "Add Group"
+msgstr "Lisää Ryhmä"
+
+#: redirection-strings.php:296 redirection-strings.php:612
+msgid "Upload"
+msgstr "Siirrä palvelimelle"
+
+#. Author of the plugin
+msgid "John Godley"
+msgstr "John Godley"
+
+#: redirection-strings.php:284
+msgid "404s"
+msgstr "404:t"
+
+#: redirection-admin.php:341
+msgid "Redirection Support"
+msgstr "Redirection-tuki"
+
+#: redirection-strings.php:283
+msgid "Log"
+msgstr "Loki"
+
+#: redirection-strings.php:507
+msgid "Auto-generate URL"
+msgstr "Luo URL automaattisesti"
+
+#: redirection-strings.php:487
+msgid "404 Logs"
+msgstr "404-lokit"
+
+#: redirection-strings.php:486 redirection-strings.php:488
+msgid "(time to keep logs for)"
+msgstr "(aika lokien säilyttämiseen)"
+
+#: redirection-strings.php:462
+msgid "Two months"
+msgstr "Kaksi kuukautta"
+
+#: redirection-strings.php:461
+msgid "A month"
+msgstr "Kuukausi"
+
+#: redirection-strings.php:460 redirection-strings.php:467
+msgid "A week"
+msgstr "Viikko"
+
+#: redirection-strings.php:459 redirection-strings.php:466
+msgid "A day"
+msgstr "Päivä"
+
+#: redirection-strings.php:458
+msgid "No logs"
+msgstr "Ei lokeja"
+
+#: redirection-strings.php:485
+msgid "Redirect Logs"
+msgstr "Uudelleenohjausloki"
+
+#: redirection-strings.php:483
+msgid "I'm a nice person and I have helped support the author of this plugin"
+msgstr "Olen kiva typpi ja olen auttanut tukemalla lisäosan kehittäjää"
+
+#: redirection-strings.php:90 redirection-strings.php:634
+#: redirection-strings.php:638 redirection-strings.php:646
+#: redirection-strings.php:657
+msgid "Regex"
+msgstr "Regex"
+
+#: redirection-strings.php:67
+msgid "Redirect to URL"
+msgstr "Uudelleenohjaa osoitteeseen"
+
+#: database/schema/latest.php:144
+msgid "Modified Posts"
+msgstr "Muokatut artikkelit"
+
+#: redirection-strings.php:217 redirection-strings.php:227
+#: redirection-strings.php:280
+msgid "Redirects"
+msgstr "Uudelleenohjaukset"
+
+#: redirection-strings.php:527 redirection-strings.php:541
+msgid "Hits"
+msgstr "Osumat"
+
+#: redirection-strings.php:327 redirection-strings.php:340
+#: redirection-strings.php:350 redirection-strings.php:361
+#: redirection-strings.php:383 redirection-strings.php:392
+#: redirection-strings.php:410 redirection-strings.php:419
+#: redirection-strings.php:648
+msgid "IP"
+msgstr "IP"
+
+#: redirection-strings.php:274 redirection-strings.php:281
+msgid "Groups"
+msgstr "Ryhmät"
+
+#: redirection-strings.php:98 redirection-strings.php:342
+#: redirection-strings.php:402 redirection-strings.php:525
+#: redirection-strings.php:545
+msgid "Group"
+msgstr "Ryhmä"
+
+#: redirection-strings.php:70
+msgid "Error (404)"
+msgstr "Virhe (404)"
+
+#: redirection-strings.php:55 matches/url.php:7
+msgid "URL only"
+msgstr "Vain URL"
+
+#: redirection-strings.php:106 redirection-strings.php:107
+#: redirection-strings.php:162 redirection-strings.php:325
+#: redirection-strings.php:334 redirection-strings.php:379
+#: redirection-strings.php:388
+msgid "Source URL"
+msgstr "Lähde-URL"
+
+#: redirection-strings.php:239
+msgid "View Redirects"
+msgstr "Näytä uudelleenohjaukset"
+
+#: redirection-strings.php:68
+msgid "Redirect to random post"
+msgstr "Uudelleenohjaus satunnaiseen artikkeliin"
+
+#: redirection-strings.php:565
+msgid "Add new redirection"
+msgstr "Lisää uusi uudelleenohjaus"
+
+#: redirection-strings.php:164 redirection-strings.php:335
+#: redirection-strings.php:627
+msgid "Target URL"
+msgstr "Kohde-URL"
+
+#: models/group.php:227 redirection-strings.php:272
+#: database/schema/latest.php:139
+msgid "Redirections"
+msgstr "Uudelleenohjaukset"
+
+#: redirection-strings.php:528 redirection-strings.php:542
+msgid "Last Access"
+msgstr "Käytetty viimeksi"
+
+#: redirection-strings.php:444
+msgid "Selecting this option will delete all redirections, all logs, and any options associated with the Redirection plugin.  Make sure this is what you want to do."
+msgstr "Valitsemalla tämän poistat kaikki uudelleenohjaukset, lokit ja kaikki asetukset, jotka liittyvät Redirection-lisäosaan. Varmista, haluatko varmasti tehdä sen."
+
+#. Description of the plugin
+msgid "Manage all your 301 redirects and monitor 404 errors"
+msgstr "Hallitse 301-uudelleenohjauksia ja seuraa 404-virheitä"
+
+#: redirection-strings.php:443
+msgid "Delete Redirection"
+msgstr "Poista Redirection-lisäosa"
+
+#: redirection-strings.php:58 matches/referrer.php:10
+msgid "URL and referrer"
+msgstr "URL ja referrer"
+
+#: redirection-strings.php:338 redirection-strings.php:358
+#: redirection-strings.php:390 redirection-strings.php:417
+#: redirection-strings.php:655
+msgid "Referrer"
+msgstr "Referrer"
+
+#: redirection-strings.php:512
+msgid "RSS Token"
+msgstr "RSS Token"
+
+#: redirection-strings.php:513
+msgid "A unique token allowing feed readers access to Redirection log RSS (leave blank to auto-generate)"
+msgstr "Uniikki merkkijono (token), jonka avulla RSS-lukijat pääsevät Redirection-lokiin (jätä tyhjäksi, jos haluat että se luodaan automaattisesti)"
+
+#: redirection-strings.php:231 redirection-strings.php:240
+#: redirection-strings.php:531 redirection-strings.php:570
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: redirection-strings.php:56 matches/login.php:8
+msgid "URL and login status"
+msgstr "URL ja kirjautumistila"
+
+#: redirection-strings.php:619
+msgid "Logged In"
+msgstr "Kirjautunut"
+
+#: redirection-strings.php:621
+msgid "Logged Out"
+msgstr "Kirjautumaton"
+
+#: redirection-strings.php:103
+msgid "Match"
+msgstr "Vertaa"
+
+#: redirection-strings.php:234
+msgid "Use groups to organise your redirects. Groups are assigned to a module, which affects how the redirects in that group work. If you are unsure then stick to the WordPress module."
+msgstr "Käytä ryhmiä uudelleenohjauksiesi organisoimiseen. Ryhmät on asetettu moduuleille, mikä vaikuttaa kuinka sen ryhmän uudelleenohjaukset toimivat. Jos olet epävarma, pysyttele WordPress-moduulissa."
+
+#: redirection-strings.php:69
+msgid "Pass-through"
+msgstr "Läpikulku"
+
+#: redirection-strings.php:59 matches/user-agent.php:10
+msgid "URL and user agent"
+msgstr "URL ja user agent"

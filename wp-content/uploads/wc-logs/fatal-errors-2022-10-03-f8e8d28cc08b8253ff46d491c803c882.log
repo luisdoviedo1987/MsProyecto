@@ -1,0 +1,54 @@
+2022-10-03T19:48:22+00:00 CRITICAL Out of memory (allocated 15728640) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/plugins/woocommerce/src/Admin/API/Reports/Taxes/DataStore.php en la línea 311
+
+2022-10-03T19:48:24+00:00 CRITICAL Out of memory (allocated 40894464) (tried to allocate 8192 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/class-dynamic-assets.php en la línea 1039
+
+2022-10-03T19:48:35+00:00 CRITICAL Out of memory (allocated 34603008) (tried to allocate 512000 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 134
+
+2022-10-03T19:48:35+00:00 CRITICAL Out of memory (allocated 15728640) (tried to allocate 512000 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 134
+
+2022-10-03T19:48:35+00:00 CRITICAL Out of memory (allocated 38797312) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/plugins/wp-rocket/inc/Dependencies/Database/Table.php en la línea 1
+
+2022-10-03T19:48:41+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/plugins/woocommerce/src/Admin/API/Reports/Products/DataStore.php en la línea 327
+
+2022-10-03T19:48:51+00:00 CRITICAL Out of memory (allocated 24117248) (tried to allocate 913408 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 136
+
+2022-10-03T19:48:51+00:00 CRITICAL Out of memory (allocated 59768832) (tried to allocate 65536 bytes) en /var/www/html/medismart.net/public_html/wp-includes/pomo/streams.php en la línea 220
+
+2022-10-03T19:48:51+00:00 CRITICAL Out of memory (allocated 122683392) (tried to allocate 8192 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/functions.php en la línea 2846
+
+2022-10-03T19:48:51+00:00 CRITICAL Out of memory (allocated 80740352) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/plugins/woocommerce/src/Admin/API/Reports/Taxes/DataStore.php en la línea 311
+
+2022-10-03T19:48:51+00:00 CRITICAL Out of memory (allocated 63963136) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/plugins/woocommerce/src/Admin/API/Reports/Taxes/DataStore.php en la línea 311
+
+2022-10-03T19:49:01+00:00 CRITICAL Out of memory (allocated 128974848) (tried to allocate 131072 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 7033
+
+2022-10-03T19:49:02+00:00 CRITICAL Out of memory (allocated 80740352) (tried to allocate 163840 bytes) en /var/www/html/medismart.net/public_html/wp-includes/pomo/mo.php en la línea 297
+
+2022-10-03T19:49:02+00:00 CRITICAL Out of memory (allocated 68157440) (tried to allocate 20480 bytes) en /var/www/html/medismart.net/public_html/wp-includes/pomo/mo.php en la línea 323
+
+2022-10-03T19:49:02+00:00 CRITICAL Out of memory (allocated 84934656) (tried to allocate 20480 bytes) en /var/www/html/medismart.net/public_html/wp-includes/pomo/mo.php en la línea 323
+
+2022-10-03T19:49:08+00:00 CRITICAL Out of memory (allocated 103809024) (tried to allocate 245760 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/framework.php en la línea 136
+
+2022-10-03T19:49:10+00:00 CRITICAL Out of memory (allocated 47185920) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php en la línea 711
+
+2022-10-03T19:49:10+00:00 CRITICAL Out of memory (allocated 128974848) (tried to allocate 131072 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 7033
+
+2022-10-03T19:49:14+00:00 CRITICAL Out of memory (allocated 112197632) (tried to allocate 20480 bytes) en /var/www/html/medismart.net/public_html/wp-includes/pomo/translations.php en la línea 100
+
+2022-10-03T19:49:14+00:00 CRITICAL Out of memory (allocated 49283072) (tried to allocate 20480 bytes) en /var/www/html/medismart.net/public_html/wp-includes/capabilities.php en la línea 1042
+
+2022-10-03T19:50:17+00:00 CRITICAL Out of memory (allocated 131072000) (tried to allocate 20480 bytes) en /var/www/html/medismart.net/public_html/wp-includes/pomo/mo.php en la línea 323
+
+2022-10-03T20:41:58+00:00 CRITICAL Uncaught Error: Call to undefined function et_builder_get_fonts() in /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php:207
+Stack trace:
+#0 /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php(229): et_divi_fonts_url()
+#1 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(307): et_divi_load_fonts()
+#2 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /var/www/html/medismart.net/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#4 /var/www/html/medismart.net/public_html/wp-includes/script-loader.php(2156): do_action()
+#5 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts()
+#6 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#7 /var/www/html/medismart.net/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#8 /var/www/html/medismart.net/public_html/wp-includes/general-templa en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php en la línea 207
+

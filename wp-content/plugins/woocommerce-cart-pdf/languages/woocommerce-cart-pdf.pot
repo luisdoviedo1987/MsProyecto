@@ -1,0 +1,1017 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Cart PDF\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-20 16:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0"
+
+#: public/class-woocommerce-cart-pdf-public.php:285
+msgid " PDF"
+msgstr ""
+
+#: admin/options-init.php:513 admin/options-init.php:1175
+msgid "1/1"
+msgstr ""
+
+#: admin/options-init.php:514 admin/options-init.php:1176
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: admin/options-init.php:515 admin/options-init.php:1177
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:1271
+#, php-format
+msgid "<br><br>This mail was sent to %s"
+msgstr ""
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr ""
+
+#: admin/options-init.php:308
+msgid "A0"
+msgstr ""
+
+#: admin/options-init.php:309
+msgid "A0 Landscape"
+msgstr ""
+
+#: admin/options-init.php:310
+msgid "A1"
+msgstr ""
+
+#: admin/options-init.php:311
+msgid "A1 Landscape"
+msgstr ""
+
+#: admin/options-init.php:324
+msgid "A10"
+msgstr ""
+
+#: admin/options-init.php:325
+msgid "A10 Landscape"
+msgstr ""
+
+#: admin/options-init.php:312
+msgid "A3"
+msgstr ""
+
+#: admin/options-init.php:313
+msgid "A3 Landscape"
+msgstr ""
+
+#: admin/options-init.php:306
+msgid "A4"
+msgstr ""
+
+#: admin/options-init.php:307
+msgid "A4 Landscape"
+msgstr ""
+
+#: admin/options-init.php:314
+msgid "A5"
+msgstr ""
+
+#: admin/options-init.php:315
+msgid "A5 Landscape"
+msgstr ""
+
+#: admin/options-init.php:316
+msgid "A6"
+msgstr ""
+
+#: admin/options-init.php:317
+msgid "A6 Landscape"
+msgstr ""
+
+#: admin/options-init.php:318
+msgid "A7"
+msgstr ""
+
+#: admin/options-init.php:319
+msgid "A7 Landscape"
+msgstr ""
+
+#: admin/options-init.php:320
+msgid "A8"
+msgstr ""
+
+#: admin/options-init.php:321
+msgid "A8 Landscape"
+msgstr ""
+
+#: admin/options-init.php:322
+msgid "A9"
+msgstr ""
+
+#: admin/options-init.php:323
+msgid "A9 Landscape"
+msgstr ""
+
+#: admin/options-init.php:1401
+msgid "Add some stylesheet if you want."
+msgstr ""
+
+#: admin/options-init.php:1370
+msgid "Advanced settings"
+msgstr ""
+
+#: admin/options-init.php:154
+msgid "after_cart"
+msgstr ""
+
+#: admin/options-init.php:151
+msgid "after_cart_contents"
+msgstr ""
+
+#: admin/options-init.php:152
+msgid "after_cart_table"
+msgstr ""
+
+#: admin/options-init.php:146
+msgid "before_cart"
+msgstr ""
+
+#: admin/options-init.php:148
+msgid "before_cart_contents"
+msgstr ""
+
+#: admin/options-init.php:147
+msgid "before_cart_table"
+msgstr ""
+
+#: admin/options-init.php:560 admin/options-init.php:594
+#: admin/options-init.php:628 admin/options-init.php:1222
+#: admin/options-init.php:1257 admin/options-init.php:1290
+msgid "Blog information"
+msgstr ""
+
+#: admin/options-init.php:161
+msgid "Cart Button text"
+msgstr ""
+
+#: admin/options-init.php:142
+msgid "Cart Link position"
+msgstr ""
+
+#: admin/options-init.php:113
+msgid "Cart PDF"
+msgstr ""
+
+#: admin/options-init.php:135
+msgid "Cart PDF Export Link"
+msgstr ""
+
+#: admin/options-init.php:150
+msgid "cart_actions"
+msgstr ""
+
+#: admin/options-init.php:153
+msgid "cart_collaterals"
+msgstr ""
+
+#: admin/options-init.php:149
+msgid "cart_contents"
+msgstr ""
+
+#: admin/options-init.php:1064 admin/options-init.php:1109
+msgid "Center"
+msgstr ""
+
+#: admin/options-init.php:304
+msgid "Choose a pre-defined page size. A4 is recommended!"
+msgstr ""
+
+#: admin/options-init.php:143
+msgid "Choose the position of the button on the cart page."
+msgstr ""
+
+#: admin/options-init.php:544 admin/options-init.php:1206
+msgid "Choose the spacing or padding you want."
+msgstr ""
+
+#: admin/options-init.php:976
+msgid "Column Coupon Total"
+msgstr ""
+
+#: admin/options-init.php:907
+msgid "Column Description"
+msgstr ""
+
+#: admin/options-init.php:814
+msgid "Column Dimensions Name"
+msgstr ""
+
+#: admin/options-init.php:715
+msgid "Column Image Name"
+msgstr ""
+
+#: admin/options-init.php:682
+msgid "Column Pos Name"
+msgstr ""
+
+#: admin/options-init.php:860
+msgid "Column Price Name"
+msgstr ""
+
+#: admin/options-init.php:738
+msgid "Column Product Name"
+msgstr ""
+
+#: admin/options-init.php:837
+msgid "Column Qty Name"
+msgstr ""
+
+#: admin/options-init.php:883
+msgid "Column Short Description"
+msgstr ""
+
+#: admin/options-init.php:728 admin/options-init.php:758
+#: admin/options-init.php:781 admin/options-init.php:804
+#: admin/options-init.php:827 admin/options-init.php:850
+#: admin/options-init.php:873 admin/options-init.php:897
+#: admin/options-init.php:920 admin/options-init.php:966
+#: admin/options-init.php:989
+msgid "Column Size (%)"
+msgstr ""
+
+#: admin/options-init.php:768
+msgid "Column SKU Name"
+msgstr ""
+
+#: admin/options-init.php:999
+msgid "Column Total Name"
+msgstr ""
+
+#: admin/options-init.php:930
+msgid "Column User Name"
+msgstr ""
+
+#: admin/options-init.php:791
+msgid "Column Weight Name"
+msgstr ""
+
+#: admin/options-init.php:449
+msgid "Cover image"
+msgstr ""
+
+#: admin/options-init.php:434
+msgid "Cover Page"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create a PDF-Catalog of your WooCommerce Cart"
+msgstr ""
+
+#: admin/options-init.php:1400
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:1371
+msgid "Custom stylesheet / javascript."
+msgstr ""
+
+#: admin/options-init.php:561 admin/options-init.php:595
+#: admin/options-init.php:629 admin/options-init.php:1223
+#: admin/options-init.php:1258 admin/options-init.php:1291
+msgid "Custom text"
+msgstr ""
+
+#: admin/options-init.php:659
+msgid "Data to show"
+msgstr ""
+
+#: admin/options-init.php:233
+msgid "Default BCC Address  (split by comma if multiple)."
+msgstr ""
+
+#: admin/options-init.php:225
+msgid "Default CC Address (split by comma if multiple)."
+msgstr ""
+
+#: admin/options-init.php:359
+msgid "Default Font"
+msgstr ""
+
+#: admin/options-init.php:383
+msgid "Default font size"
+msgstr ""
+
+#: admin/options-init.php:392
+msgid "Default line height"
+msgstr ""
+
+#: admin/options-init.php:245
+msgid "Default Text."
+msgstr ""
+
+#: admin/options-init.php:193
+msgid "Default to address (split by comma if multiple)."
+msgstr ""
+
+#: admin/options-init.php:908
+msgid "Description"
+msgstr ""
+
+#: admin/options-init.php:815
+msgid "Dimensions"
+msgstr ""
+
+#: admin/options-init.php:977
+msgid "Discount"
+msgstr ""
+
+#: admin/options-init.php:364
+msgid "Droid Sans"
+msgstr ""
+
+#: admin/options-init.php:365
+msgid "Droid Serif"
+msgstr ""
+
+#: admin/options-init.php:232
+msgid "Email Cart BCC"
+msgstr ""
+
+#: admin/options-init.php:184
+msgid "Email Cart Button Text"
+msgstr ""
+
+#: admin/options-init.php:224
+msgid "Email Cart Default CC"
+msgstr ""
+
+#: admin/options-init.php:244
+msgid "Email Cart Default Text"
+msgstr ""
+
+#: admin/options-init.php:192
+msgid "Email Cart Default To"
+msgstr ""
+
+#: admin/options-init.php:277
+msgid "Email Cart Send Button Text"
+msgstr ""
+
+#: admin/options-init.php:216
+msgid "Email Cart Subject"
+msgstr ""
+
+#: admin/options-init.php:285
+msgid "Email Cart Success Text"
+msgstr ""
+
+#: admin/options-init.php:252
+msgid "Email Cart Text Label"
+msgstr ""
+
+#: admin/options-init.php:260
+msgid "Email Cart Text Placeholder"
+msgstr ""
+
+#: admin/options-init.php:268
+msgid "Email Cart Text Show in Frontend"
+msgstr ""
+
+#: admin/options-init.php:200
+msgid "Email Cart To Label"
+msgstr ""
+
+#: admin/options-init.php:208
+msgid "Email Cart To Placeholder"
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:1293
+msgid "Email not sent."
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:1291
+msgid "Email sent."
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:1266
+msgid "Empty to or text."
+msgstr ""
+
+#: admin/options-init.php:128 admin/options-init.php:441
+#: admin/options-init.php:467 admin/options-init.php:1127
+#: admin/options-init.php:1354
+msgid "Enable"
+msgstr ""
+
+#: admin/options-init.php:129
+msgid "Enable Cart PDF to use the options below"
+msgstr ""
+
+#: admin/options-init.php:1378
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: admin/options-init.php:177
+msgid "Enable Email Cart Sending"
+msgstr ""
+
+#: admin/options-init.php:1128
+msgid "Enable footer"
+msgstr ""
+
+#: admin/options-init.php:468
+msgid "Enable header"
+msgstr ""
+
+#: admin/options-init.php:1073
+msgid "Enable Text After Products"
+msgstr ""
+
+#: admin/options-init.php:1028
+msgid "Enable Text Before Products"
+msgstr ""
+
+#: admin/options-init.php:442
+msgid "Enable the Cover Page"
+msgstr ""
+
+#: admin/options-init.php:1355
+msgid "Enable the limit access. This will activate the below settings."
+msgstr ""
+
+#: admin/options-init.php:402
+msgid "Even Items Background Color"
+msgstr ""
+
+#: admin/options-init.php:410
+msgid "Even Items Text Color"
+msgstr ""
+
+#: admin/options-init.php:328
+msgid "Executive"
+msgstr ""
+
+#: admin/options-init.php:564 admin/options-init.php:598
+#: admin/options-init.php:632 admin/options-init.php:1226
+#: admin/options-init.php:1261 admin/options-init.php:1294
+msgid "Export Information"
+msgstr ""
+
+#: admin/options-init.php:1021
+msgid "Extra Texts"
+msgstr ""
+
+#: admin/options-init.php:329
+msgid "Folio"
+msgstr ""
+
+#: admin/options-init.php:1119
+msgid "Footer"
+msgstr ""
+
+#: admin/options-init.php:1135
+msgid "Footer background color"
+msgstr ""
+
+#: admin/options-init.php:1193
+msgid "Footer Height"
+msgstr ""
+
+#: admin/options-init.php:1172
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/options-init.php:1184
+msgid "Footer Margin"
+msgstr ""
+
+#: admin/options-init.php:1205
+msgid "Footer Padding"
+msgstr ""
+
+#: admin/options-init.php:1144
+msgid "Footer text color"
+msgstr ""
+
+#: admin/options-init.php:303
+msgid "Format"
+msgstr ""
+
+#: admin/options-init.php:120
+msgid "General"
+msgstr ""
+
+#: admin/options-init.php:460
+msgid "Header"
+msgstr ""
+
+#: admin/options-init.php:474
+msgid "Header background color"
+msgstr ""
+
+#: admin/options-init.php:531
+msgid "Header Height"
+msgstr ""
+
+#: admin/options-init.php:510
+msgid "Header Layout"
+msgstr ""
+
+#: admin/options-init.php:522
+msgid "Header Margin"
+msgstr ""
+
+#: admin/options-init.php:543
+msgid "Header Padding"
+msgstr ""
+
+#: admin/options-init.php:482
+msgid "Header text color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/woocommerce-cart-pdf/"
+msgstr ""
+
+#: admin/options-init.php:563 admin/options-init.php:597
+#: admin/options-init.php:631 admin/options-init.php:716
+#: admin/options-init.php:1225 admin/options-init.php:1260
+#: admin/options-init.php:1293
+msgid "Image"
+msgstr ""
+
+#: admin/options-init.php:695
+msgid "Image Column Size (%)"
+msgstr ""
+
+#: admin/options-init.php:705
+msgid "Image size (px)"
+msgstr ""
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr ""
+
+#: admin/options-init.php:253
+msgid "Label for text field."
+msgstr ""
+
+#: admin/options-init.php:201
+msgid "Label for to field."
+msgstr ""
+
+#: admin/options-init.php:366
+msgid "Lato"
+msgstr ""
+
+#: admin/options-init.php:296
+msgid "Layout"
+msgstr ""
+
+#: admin/options-init.php:1063 admin/options-init.php:1108
+msgid "Left"
+msgstr ""
+
+#: admin/options-init.php:327
+msgid "Legal"
+msgstr ""
+
+#: admin/options-init.php:326
+msgid "Letter"
+msgstr ""
+
+#: admin/options-init.php:1346
+msgid "Limit Access"
+msgstr ""
+
+#: admin/options-init.php:367
+msgid "Lora"
+msgstr ""
+
+#: admin/options-init.php:368
+msgid "Merriweather"
+msgstr ""
+
+#: admin/options-init.php:363
+msgid "Mono"
+msgstr ""
+
+#: admin/options-init.php:369
+msgid "Montserrat"
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:952
+#: public/class-woocommerce-cart-pdf-public.php:960
+#: public/class-woocommerce-cart-pdf-public.php:998
+#: public/class-woocommerce-cart-pdf-public.php:1000
+#: public/class-woocommerce-cart-pdf-public.php:1006
+#: public/class-woocommerce-cart-pdf-public.php:1008
+#: public/class-woocommerce-cart-pdf-public.php:1015
+#: public/class-woocommerce-cart-pdf-public.php:1023
+#: public/class-woocommerce-cart-pdf-public.php:1025
+#: public/class-woocommerce-cart-pdf-public.php:1031
+#: public/class-woocommerce-cart-pdf-public.php:1033
+#: public/class-woocommerce-cart-pdf-public.php:1039
+#: public/class-woocommerce-cart-pdf-public.php:1041
+#: public/class-woocommerce-cart-pdf-public.php:1062
+#: public/class-woocommerce-cart-pdf-public.php:1083
+msgid "N/A"
+msgstr ""
+
+#: admin/options-init.php:115 admin/options-init.php:1409
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:1247
+msgid "No AJAX call"
+msgstr ""
+
+#: admin/options-init.php:559 admin/options-init.php:593
+#: admin/options-init.php:627 admin/options-init.php:1221
+#: admin/options-init.php:1256 admin/options-init.php:1289
+msgid "None"
+msgstr ""
+
+#: admin/options-init.php:418
+msgid "Odd Items Background Color"
+msgstr ""
+
+#: admin/options-init.php:426
+msgid "Odd Items Text Color"
+msgstr ""
+
+#: admin/options-init.php:370
+msgid "Open sans"
+msgstr ""
+
+#: admin/options-init.php:371
+msgid "Open Sans Condensed"
+msgstr ""
+
+#: admin/options-init.php:372
+msgid "Oswald"
+msgstr ""
+
+#: admin/options-init.php:340
+msgid "Padding"
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:781
+msgid "Page:"
+msgstr ""
+
+#: admin/options-init.php:562 admin/options-init.php:596
+#: admin/options-init.php:630 admin/options-init.php:1224
+#: admin/options-init.php:1259 admin/options-init.php:1292
+msgid "Pagenumber"
+msgstr ""
+
+#: admin/options-init.php:261
+msgid "Placeholder for text field."
+msgstr ""
+
+#: admin/options-init.php:209
+msgid "Placeholder for to field."
+msgstr ""
+
+#: admin/options-init.php:672
+msgid "Pos Column Size (%)"
+msgstr ""
+
+#: admin/options-init.php:683
+msgid "Pos."
+msgstr ""
+
+#: admin/options-init.php:1407
+msgid "Preview"
+msgstr ""
+
+#: admin/options-init.php:861
+msgid "Price"
+msgstr ""
+
+#: admin/options-init.php:739
+msgid "Product"
+msgstr ""
+
+#: admin/options-init.php:1013
+msgid "Product Total Saved Price Text"
+msgstr ""
+
+#: admin/options-init.php:373
+msgid "PT Sans"
+msgstr ""
+
+#: admin/options-init.php:838
+msgid "Qty"
+msgstr ""
+
+#: admin/options-init.php:376
+msgid "Raleway"
+msgstr ""
+
+#: admin/options-init.php:450
+msgid "Recommended Image Size: 1240 x 1754 px."
+msgstr ""
+
+#: admin/options-init.php:1065 admin/options-init.php:1110
+msgid "Right"
+msgstr ""
+
+#: admin/options-init.php:361
+msgid "Sans"
+msgstr ""
+
+#: admin/options-init.php:1362
+msgid ""
+"Select a custom user Role (Default is: administrator) who can use this "
+"plugin."
+msgstr ""
+
+#: admin/options-init.php:170
+msgid "Send Cart (Email)"
+msgstr ""
+
+#: admin/options-init.php:362
+msgid "Serif"
+msgstr ""
+
+#: admin/options-init.php:884
+msgid "Short Description"
+msgstr ""
+
+#: admin/options-init.php:178
+msgid "Show a button send the cart via Email."
+msgstr ""
+
+#: admin/options-init.php:136
+msgid "Show Cart Cart PDF Link"
+msgstr ""
+
+#: admin/options-init.php:960
+msgid "Show Coupon Total Discount"
+msgstr ""
+
+#: admin/options-init.php:914
+msgid "Show Current User"
+msgstr ""
+
+#: admin/options-init.php:891
+msgid "Show Description"
+msgstr ""
+
+#: admin/options-init.php:798
+msgid "Show Dimensions"
+msgstr ""
+
+#: admin/options-init.php:689
+msgid "Show Image"
+msgstr ""
+
+#: admin/options-init.php:666
+msgid "Show Position"
+msgstr ""
+
+#: admin/options-init.php:844
+msgid "Show Price"
+msgstr ""
+
+#: admin/options-init.php:745
+msgid "Show Product Link"
+msgstr ""
+
+#: admin/options-init.php:722
+msgid "Show Product Name"
+msgstr ""
+
+#: admin/options-init.php:983
+msgid "Show Product Total"
+msgstr ""
+
+#: admin/options-init.php:1006
+msgid "Show Product Total Saved Price"
+msgstr ""
+
+#: admin/options-init.php:821
+msgid "Show Quantity"
+msgstr ""
+
+#: admin/options-init.php:867
+msgid "Show Short Description"
+msgstr ""
+
+#: admin/options-init.php:752
+msgid "Show SKU"
+msgstr ""
+
+#: admin/options-init.php:269
+msgid ""
+"Show the text field in fronted so users can enter a custom message in the "
+"mail with the attachment. Otherwise the default message above will be used."
+msgstr ""
+
+#: admin/options-init.php:775
+msgid "Show Weight"
+msgstr ""
+
+#: admin/options-init.php:769
+msgid "SKU"
+msgstr ""
+
+#: admin/options-init.php:375
+msgid "Slabo"
+msgstr ""
+
+#: admin/options-init.php:374
+msgid "Source Sans Pro"
+msgstr ""
+
+#: admin/options-init.php:217
+msgid "Subject."
+msgstr ""
+
+#: admin/options-init.php:286
+msgid "Text after button has been sent."
+msgstr ""
+
+#: admin/options-init.php:1079
+msgid "Text After Products"
+msgstr ""
+
+#: admin/options-init.php:1061 admin/options-init.php:1106
+msgid "Text Align"
+msgstr ""
+
+#: admin/options-init.php:1034
+msgid "Text Before Products"
+msgstr ""
+
+#: admin/options-init.php:352
+msgid "Text Color"
+msgstr ""
+
+#: admin/options-init.php:490 admin/options-init.php:1041
+#: admin/options-init.php:1086 admin/options-init.php:1152
+msgid "Text font size"
+msgstr ""
+
+#: admin/options-init.php:278
+msgid "Text for the send button."
+msgstr ""
+
+#: admin/options-init.php:162
+msgid "Text inside the cart button."
+msgstr ""
+
+#: admin/options-init.php:185
+msgid "Text inside the send button."
+msgstr ""
+
+#: admin/options-init.php:500 admin/options-init.php:1051
+#: admin/options-init.php:1096 admin/options-init.php:1162
+msgid "Text line height"
+msgstr ""
+
+#: admin/options-init.php:1379
+msgid "This stops creating the PDF and shows the plain HTML."
+msgstr ""
+
+#: admin/options-init.php:1393
+msgid ""
+"This will get images directly from your server paths rather than requesting "
+"it from a http or https. Only enable it if your images are on the same "
+"server!"
+msgstr ""
+
+#: public/class-woocommerce-cart-pdf-public.php:1253
+msgid "To missing."
+msgstr ""
+
+#: admin/options-init.php:1218
+msgid "Top Left Footer"
+msgstr ""
+
+#: admin/options-init.php:1244
+msgid "Top Left Footer Image"
+msgstr ""
+
+#: admin/options-init.php:1233
+msgid "Top Left Footer Text"
+msgstr ""
+
+#: admin/options-init.php:556
+msgid "Top Left Header"
+msgstr ""
+
+#: admin/options-init.php:581
+msgid "Top Left Header Image"
+msgstr ""
+
+#: admin/options-init.php:571
+msgid "Top Left Header Text"
+msgstr ""
+
+#: admin/options-init.php:1253
+msgid "Top Middle Footer"
+msgstr ""
+
+#: admin/options-init.php:1277
+msgid "Top Middle Footer Image"
+msgstr ""
+
+#: admin/options-init.php:1267
+msgid "Top Middle Footer Text"
+msgstr ""
+
+#: admin/options-init.php:590
+msgid "Top Middle Header"
+msgstr ""
+
+#: admin/options-init.php:615
+msgid "Top Middle Header Image"
+msgstr ""
+
+#: admin/options-init.php:605
+msgid "Top Middle Header Text"
+msgstr ""
+
+#: admin/options-init.php:1286
+msgid "Top Right Footer"
+msgstr ""
+
+#: admin/options-init.php:1310
+msgid "Top Right Footer Image"
+msgstr ""
+
+#: admin/options-init.php:1300
+msgid "Top Right Footer Text"
+msgstr ""
+
+#: admin/options-init.php:624
+msgid "Top Right Header"
+msgstr ""
+
+#: admin/options-init.php:649
+msgid "Top Right Header Image"
+msgstr ""
+
+#: admin/options-init.php:639
+msgid "Top Right Header Text"
+msgstr ""
+
+#: admin/options-init.php:1000
+msgid "Total"
+msgstr ""
+
+#: admin/options-init.php:1392
+msgid "Use Images Locally"
+msgstr ""
+
+#: admin/options-init.php:931
+msgid "User"
+msgstr ""
+
+#: admin/options-init.php:1361
+msgid "User Role"
+msgstr ""
+
+#: admin/options-init.php:792
+msgid "Weight"
+msgstr ""
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr ""
+
+#: admin/options-init.php:1007
+msgid ""
+"When a product is on sale or a coupon is applied it will show the difference "
+"amount that is saved."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Cart PDF"
+msgstr ""
+
+#: woocommerce-cart-pdf.php:89
+msgid ""
+"WooCommerce Cart PDF requires the WooCommerce and Redux Framework plugin. "
+"Please install or activate them before!"
+msgstr ""
+
+#: admin/options-init.php:1014
+#, php-format
+msgid "You saved: %s"
+msgstr ""

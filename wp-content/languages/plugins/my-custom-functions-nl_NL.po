@@ -1,0 +1,677 @@
+# Translation of Plugins - My Custom Functions - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - My Custom Functions - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-24 18:04:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - My Custom Functions - Stable (latest release)\n"
+
+#: inc/php/tabs/faq.php:264
+msgid "Browse to the directory <code>wp-content/plugins/"
+msgstr "Blader door de map <code>wp-content/plugins/"
+
+#: inc/php/tabs/support.php:46
+msgid "We spend a lot of time and effort trying to make sure that the themes, plugins and other things we build are useful, and the ultimate proof of that for us is that you actually want to use them."
+msgstr "We besteden veel tijd en moeite om ervoor te zorgen dat de thema's, plugins en andere dingen die we bouwen nuttig zijn, en het ultieme bewijs daarvan is dat je ze echt wilt gebruiken."
+
+#: inc/php/tabs/support.php:42
+msgid "Our motto is - «Follow your dreams and don’t give up»."
+msgstr "Ons motto is: «Volg je dromen en geef niet op»."
+
+#: inc/php/tabs/support.php:41
+msgid "Our intention is to create projects that will make this world a better place."
+msgstr "Het is onze bedoeling om projecten te maken die van deze wereld een betere plek maken."
+
+#: inc/php/tabs/faq.php:404
+msgid "But please keep in mind that this plugin is free, and there is no a special support team, so we have no way to answer everyone."
+msgstr "Maar houd er rekening mee dat deze plugin gratis is en er geen speciaal ondersteuningsteam is, dus we kunnen niet iedereen antwoorden."
+
+#: inc/php/tabs/faq.php:399
+msgid "You can ask your question on %s this page %s."
+msgstr "Je kunt je vraag stellen op %s deze pagina %s."
+
+#: inc/php/tabs/support.php:43
+msgid "We are really passionate about our work, we like what we are doing and hope that you will be enriched by our projects too."
+msgstr "We zijn echt gepassioneerd over ons werk, we houden van wat we doen en hopen dat je ook verrijkt zult worden door onze projecten."
+
+#: inc/php/tabs/faq.php:381
+msgid "Where can I find information about your affiliate program?"
+msgstr "Waar kan ik informatie vinden over jullie partnerprogramma?"
+
+#: inc/php/tabs/faq.php:373
+msgid "Answers to common questions about our customer support can be found on our %s Common Questions %s page."
+msgstr "Antwoorden op veelgestelde vragen over onze klantenondersteuning vind je op onze %s Veelgestelde vragen %s pagina."
+
+#: inc/php/tabs/faq.php:340
+msgid "Can I help somehow?"
+msgstr "Kan ik op de een of andere manier helpen?"
+
+#: inc/php/tabs/faq.php:343
+msgid "Yes, any contributions are very welcome!"
+msgstr "Ja, alle bijdragen zijn van harte welkom!"
+
+#: inc/php/tabs/faq.php:368
+msgid "Where can I find information about your customer support?"
+msgstr "Waar kan ik informatie vinden over je klantenondersteuning?"
+
+#: inc/php/tabs/faq.php:360
+msgid "Answers to common questions about our licenses, payment process and refunds can be found on our %s Common Questions %s page."
+msgstr "Antwoorden op veelgestelde vragen over onze licenties, betalingsprocedures en terugbetalingen zijn te vinden op onze %s Veelgestelde vragen %s pagina."
+
+#: inc/php/tabs/faq.php:355
+msgid "Where can I find information about your licenses, payment process and refunds?"
+msgstr "Waar kan ik informatie vinden over je licenties, betalingsproces en terugbetalingen?"
+
+#: inc/php/tabs/faq.php:346
+msgid "Please visit our %s Support Us %s page."
+msgstr "Ga naar de %s ondersteun ons %s pagina."
+
+#: inc/php/tabs/faq.php:339
+msgid "I love this plugin!"
+msgstr "Ik ben dol op deze plugin!"
+
+#: inc/php/tabs/faq.php:329
+msgid "Please visit our %s contact page %s."
+msgstr "Ga naar onze %s contact pagina %s."
+
+#: inc/php/tabs/faq.php:326
+msgid "Any suggestions are very welcome!"
+msgstr "Alle suggesties zijn van harte welkom!"
+
+#: inc/php/tabs/faq.php:314
+msgid "An error message is displayed on the plugin settings page."
+msgstr "Er wordt een foutmelding weergegeven op de pagina met plugin instellingen."
+
+#: inc/php/tabs/faq.php:313
+msgid "Elements of the plugin settings page are not working."
+msgstr "Elementen van de pagina met plugin instellingen werken niet."
+
+#: inc/php/tabs/faq.php:310
+msgid "Here are some examples:"
+msgstr "Hier zijn enkele voorbeelden:"
+
+#: inc/php/tabs/faq.php:309
+msgid "Describe in more detail what exactly you are seeing."
+msgstr "Beschrijf in meer detail wat je precies ziet."
+
+#: inc/php/tabs/faq.php:306 inc/php/tabs/faq.php:335 inc/php/tabs/faq.php:351
+msgid "Thank you!"
+msgstr "Dank je!"
+
+#: inc/php/tabs/faq.php:305 inc/php/tabs/faq.php:334
+msgid "Please do not forget to specify the name of the plugin."
+msgstr "Vergeet niet om de naam van de plugin te specificeren."
+
+#: inc/php/tabs/faq.php:300
+msgid "Please visit our %s contact page %s and report."
+msgstr "Bezoek onze %s contact pagina %s en rapporteer."
+
+#: inc/php/tabs/faq.php:297
+msgid "Bug reports are very welcome!"
+msgstr "Bug rapporten zijn erg welkom!"
+
+#: inc/php/tabs/faq.php:289
+msgid "It could just be a cache, so please try to clear your website's cache (may be you using a caching plugin, or some web service such as the CloudFlare) and then the cache of your web browser."
+msgstr "Het kan gewoon een cache zijn, dus probeer de cache van je website te legen (mogelijk gebruikt u een caching plugin of een webdienst zoals  CloudFlare) en vervolgens de cache van je webbrowser."
+
+#: inc/php/tabs/faq.php:288
+msgid "More likely, the problem are related to the settings of the website."
+msgstr "Waarschijnlijker is het probleem gerelateerd aan de instellingen van de website."
+
+#: inc/php/tabs/faq.php:287
+msgid "This plugin can not cause such problem."
+msgstr "Deze plugin kan zo'n probleem niet veroorzaken."
+
+#: inc/php/tabs/faq.php:284
+msgid "Why is this?"
+msgstr "Waarom is dit?"
+
+#: inc/php/tabs/faq.php:277
+msgid "For getting your code, you also can go to the <code>Database</code> &#10145; Table <code>wp_options</code> &#10145; Option <code>spacexchimp_p001_settings</code> &#10145; <code>option_value</code>."
+msgstr "Om je code te verkrijgen, kan je ook naar de <code>database</code> &#10145; tabel <code>wp_options</code> &#10145; optie <code>spacexchimp_p001_settings</code> &#10145; <code>option_value</code>."
+
+#: inc/php/tabs/faq.php:269
+msgid "This will stop the execution of your custom code."
+msgstr "Hiermee stop je de uitvoering van je aangepaste code."
+
+#: inc/php/tabs/faq.php:268
+msgid "Rename the file <code>START</code> to <code>STOP</code>."
+msgstr "Hernoem het bestand <code>START</code> naar <code>STOP</code>."
+
+#: inc/php/tabs/faq.php:265
+msgid "Please contact your web hosting company to get help if you can't find this folder."
+msgstr "Neem contact op met je webhostingbedrijf om hulp te krijgen als je deze map niet kunt vinden."
+
+#: inc/php/tabs/faq.php:261
+msgid "If you aren't sure how usually your web hosting provider will have instructions somewhere on their website."
+msgstr "Als je niet zeker weet hoe vaak je webhostingprovider ergens op hun website instructies heeft."
+
+#: inc/php/tabs/faq.php:260
+msgid "Access your server via FTP or SFTP."
+msgstr "Toegang tot je server via FTP of SFTP."
+
+#: inc/php/tabs/faq.php:257
+msgid "When this happens with you, please perform the following steps."
+msgstr "Wanneer dit met je gebeurt, voer je de volgende stappen uit."
+
+#: inc/php/tabs/faq.php:256
+msgid "This is due to the fact that your custom code has a syntax error that this plugin could not detect."
+msgstr "Dit komt door het feit dat je aangepaste code een syntax fout heeft die deze plugin niet kon detecteren."
+
+#: inc/php/tabs/faq.php:255
+msgid "But plugin is not perfect, so there are times when the entered custom code causes the error and white screen (WSOD)."
+msgstr "Maar de plugin is niet perfect, dus er zijn momenten dat de ingevoerde aangepaste code de fout en het witte scherm (WSOD) veroorzaakt."
+
+#: inc/php/tabs/faq.php:254
+msgid "This plugin has a built-in functions for checking the custom code for syntax errors, duplicate functions names, and etc."
+msgstr "Deze plugin heeft ingebouwde functies voor het controleren van de aangepaste code op syntax fouten, dubbele functienamen en enzovoort."
+
+#: inc/php/tabs/faq.php:242
+msgid "Here are a few of the most likely causes of the issue:"
+msgstr "Hier zijn enkele van de meest waarschijnlijke oorzaken van het probleem:"
+
+#: inc/php/tabs/faq.php:237
+msgid "My custom PHP code is not working."
+msgstr "Mijn aangepaste PHP code werkt niet."
+
+#: inc/php/tabs/faq.php:231
+msgid "Instead, use filters and hooks."
+msgstr "Gebruik in plaats daarvan filters en hooks."
+
+#: inc/php/tabs/faq.php:230
+msgid "You are trying to overwrite an existing function (of WordPress, theme, or plugin)."
+msgstr "Je probeert een bestaande functie (van WordPress, thema of plugin) te overschrijven."
+
+#: inc/php/tabs/faq.php:227
+msgid "Use a unique name for your function."
+msgstr "Gebruik een unieke naam voor je functie."
+
+#: inc/php/tabs/faq.php:226
+msgid "You have entered function with a name that is already occupied by another function."
+msgstr "Je hebt een functie ingevoerd met een naam die al in gebruik is door een andere functie."
+
+#: inc/php/tabs/faq.php:223
+msgid "Use a unique names for your functions."
+msgstr "Gebruik een unieke naam voor je functies."
+
+#: inc/php/tabs/faq.php:222
+msgid "You entered two functions with the same name."
+msgstr "Je hebt twee functies met dezelfde naam ingevoerd."
+
+#: inc/php/tabs/faq.php:219
+msgid "Check the syntax of your code and try again."
+msgstr "Controleer de syntax van je code en probeer het opnieuw."
+
+#: inc/php/tabs/faq.php:218
+msgid "You make a syntax error in the code that you have entered."
+msgstr "Je maakt een syntax fout in de code die je hebt ingevoerd."
+
+#: inc/php/tabs/faq.php:207 inc/php/tabs/faq.php:308
+msgid "Please include as much information as possible, including a link to your website where the problem can be seen."
+msgstr "Voeg zoveel mogelijk informatie toe, inclusief een link naar je website waar het probleem kan worden gezien."
+
+#: inc/php/tabs/faq.php:206
+msgid "If you post a support request in the plugin's support forum on WordPress.org, we'd be happy to give it a look and try to help out."
+msgstr "Als je een ondersteuningsaanvraag achter laat in het ondersteuningsforum van de plugin op WordPress.org, dan willen we graag een kijkje nemen en proberen te helpen."
+
+#: inc/php/tabs/faq.php:204
+msgid "Clearing your browser's cache may solve the problem."
+msgstr "Wissen van de cache van je browser kan het probleem verhelpen."
+
+#: inc/php/tabs/faq.php:203
+msgid "This is called the browser's cache."
+msgstr "Dit wordt de cache van de browser genoemd."
+
+#: inc/php/tabs/faq.php:201
+msgid "The most common reason for this is a web browser's cache."
+msgstr "De meest voorkomende reden hiervoor is de cache van een webbrowser."
+
+#: inc/php/tabs/faq.php:200
+msgid "It's impossible to tell what could be wrong exactly."
+msgstr "Het is onmogelijk om precies te zeggen wat er precies fout zou kunnen zijn."
+
+#: inc/php/tabs/faq.php:199
+msgid "As with every plugin, it's possible that things don't work."
+msgstr "Zoals met elke plugin, is het mogelijk dat dingen niet werken."
+
+#: inc/php/tabs/faq.php:196 inc/php/tabs/faq.php:212 inc/php/tabs/faq.php:238
+msgid "What could be wrong?"
+msgstr "Wat kan er mis zijn?"
+
+#: inc/php/tabs/faq.php:195
+msgid "It's not working."
+msgstr "Het werkt niet."
+
+#: inc/php/tabs/faq.php:179
+msgid "You need something like this:"
+msgstr "Je hebt zoiets als dit nodig:"
+
+#: inc/php/tabs/faq.php:177
+msgid "We plan to add this feature soon."
+msgstr "We zijn van plan deze functie binnenkort toe te voegen."
+
+#: inc/php/tabs/faq.php:169
+msgid "This plugin can be configured with no knowledge of HTML or CSS, using an easy-to-use plugin settings page."
+msgstr "Deze plugin kan worden geconfigureerd zonder kennis van HTML of CSS, met behulp van een eenvoudig te gebruiken plugin instellingen pagina."
+
+#: inc/php/tabs/faq.php:161
+msgid "This plugin is configurable entirely from the plugin settings page."
+msgstr "Deze plugin is volledig configureerbaar vanaf de pagina met plugin instellingen."
+
+#: inc/php/tabs/faq.php:160 inc/php/tabs/faq.php:168
+msgid "Absolutely not."
+msgstr "Absoluut niet."
+
+#: inc/php/tabs/faq.php:102 inc/php/tabs/faq.php:137
+msgid "Yes."
+msgstr "Ja."
+
+#: inc/php/tabs/faq.php:105
+msgid "It is also possible that not all existing translations are up-to-date or correct, so you are welcome to make corrections."
+msgstr "Het is ook mogelijk dat niet alle bestaande vertalingen up-to-date of correct zijn, dus je bent van harte welkom om correcties aan te brengen."
+
+#: inc/php/tabs/faq.php:104
+msgid "But If your language is not available then you can make one."
+msgstr "Maar als je taal niet beschikbaar is, kan je er een maken."
+
+#: inc/php/tabs/faq.php:118
+msgid "Just send the PO file to us ( %s ) and we will include this translation within the next plugin update."
+msgstr "Stuur het PO-bestand naar ons ( %s ) en we zullen de vertaling opnemen in de volgende plugin update."
+
+#: inc/php/tabs/faq.php:115
+msgid "You can also use the POT file that is included and placed in the \"languages\" folder to create a translation PO file."
+msgstr "Je kunt ook het POT-bestand gebruiken dat is ingesloten en in de map \"languages\" is geplaatst om een PO-bestand voor vertalingen te maken."
+
+#: inc/php/tabs/faq.php:111
+msgid "If you want to help translate this plugin, please visit the %s."
+msgstr "Als je wilt helpen deze plugin te vertalen, bezoek dan de %s."
+
+#: inc/php/tabs/faq.php:107
+msgid "Thanks for your contribution!"
+msgstr "Bedankt voor je bijdrage!"
+
+#: inc/php/tabs/faq.php:106
+msgid "Many of plugin users would be delighted if you share your translation with the community."
+msgstr "Veel plugin gebruikers zouden blij zijn als je je vertaling met de community deelt."
+
+#: inc/php/tabs/faq.php:95
+msgid "If you find a conflict between our plugin and a third-party plugin, please let us know and we will definitely release an update of our plugin to fix the problem."
+msgstr "Als je een conflict aantreft tussen onze plugin en een plugin van derden, laat het ons weten en we zullen zeker een update van onze plugin vrijgeven om het probleem op te lossen."
+
+#: inc/php/tabs/faq.php:176
+msgid "For now, this plugin does not have an option to apply the custom PHP code only on specific pages."
+msgstr "Voorlopig heeft deze plugin geen optie om de eigen PHP code alleen op specifieke pagina's toe te passen."
+
+#: inc/php/tabs/faq.php:178
+msgid "But for now in order to apply your custom PHP code only on specific pages of your website, you need to wrap your custom PHP code in a PHP function that will determine the page you want."
+msgstr "Maar voor nu, om je aangepaste PHP code alleen op specifieke pagina's van je site toe te passen, moet je je aangepaste PHP code  in een PHP functie plaatsen die bepaalt welke pagina je wil."
+
+#: inc/php/tabs/faq.php:202
+msgid "Every web browser stores a cache of the websites you visit (pages, images, and etc.) to reduce bandwidth usage and server load."
+msgstr "Elke webbrowser slaat een cache op van de sites die je bezoekt (pagina's, afbeeldingen en enz.) Om het bandbreedtegebruik en de serverbelasting te verminderen."
+
+#: inc/php/tabs/faq.php:386
+msgid "Answers to common questions about our affiliate program can be found on our %s Common Questions %s page."
+msgstr "Antwoorden op veelgestelde vragen over ons partnerprogramma zijn te vinden op onze %s veelgestelde vragen %s pagina."
+
+#: inc/php/tabs/faq.php:318
+msgid "Website is crashed."
+msgstr "Site is gecrasht."
+
+#: inc/php/tabs/faq.php:90
+msgid "This plugin is compatible with most plugins."
+msgstr "Deze plugin is compatibel met de meeste plugins."
+
+#: inc/php/tabs/faq.php:92
+msgid "We constantly check this plugin for compatibility with third-party plugins."
+msgstr "We controleren deze plugin voortdurend op compatibiliteit met plugins van derden."
+
+#: inc/php/tabs/faq.php:93
+msgid "If we find that this plugin is incompatible with a third-party plugin, and if we can fix it on our part, we release an update of our plugin to fix the problem."
+msgstr "Als we vaststellen dat deze plugin incompatibel is met een plugin van een derde partij, en als we deze van onze kant kunnen repareren, dan geven we een update van onze plugin vrij om het probleem op te lossen."
+
+#: inc/php/messages.php:33 inc/php/tabs/support.php:29
+msgid "Hello!"
+msgstr "Hallo!"
+
+#: inc/php/tabs/faq.php:46
+msgid "Where can I find a documentation for this plugin?"
+msgstr "Waar kan ik documentatie voor deze plugin vinden?"
+
+#: inc/php/tabs/faq.php:64
+msgid "Please note that there is a difference between wordpress.COM and wordpress.ORG."
+msgstr "Let op: er is een verschil tussen wordpress.COM en wordpress.ORG."
+
+#: inc/php/tabs/faq.php:51
+msgid "Please visit our %s Documentation site %s to view documentation."
+msgstr "Bezoek onze %s documentatie site %s om documentatie te bekijken."
+
+#: inc/php/tabs/faq.php:68
+msgid "You can learn more about the difference here: %s ."
+msgstr "Je kunt hier meer te weten komen over het verschil: %s."
+
+#: inc/php/tabs/faq.php:78
+msgid "This plugin is compatible with most themes."
+msgstr "Deze plugin is compatibel met de meeste thema's."
+
+#: inc/php/tabs/faq.php:83
+msgid "If you find a conflict between our plugin and a third-party theme, please let us know and we will definitely release an update of our plugin to fix the problem."
+msgstr "Als je een conflict aantreft tussen onze plugin en een thema van een derde partij, laat het ons dan weten en we zullen zeker een update van onze plugin vrijgeven om het probleem op te lossen."
+
+#: inc/php/tabs/faq.php:75
+msgid "Will this plugin work/compatible with the theme I use?"
+msgstr "Werkt deze plugin / compatibel met het thema dat ik gebruik?"
+
+#: inc/php/tabs/faq.php:81
+msgid "If we find that this plugin is incompatible with a third-party theme, and if we can fix it on our part, we release an update of our plugin to fix the problem."
+msgstr "Als we vaststellen dat deze plugin niet compatibel is met een thema van derden en als we deze van onze kant kunnen repareren, geven we een update van onze plugin vrij om het probleem op te lossen."
+
+#: inc/php/tabs/faq.php:91
+msgid "But, unfortunately, we cannot check it with all third-party plugins (especially paid ones) for compatibility, therefore there are cases when this plugin does not work with a third-party plugin."
+msgstr "Maar, helaas kunnen we het niet controleren met alle plugins van derden (met name betaalde) voor compatibiliteit, daarom zijn er gevallen waarin deze plugin niet werkt met een plugin van derden."
+
+#: inc/php/tabs/faq.php:80
+msgid "We constantly check this plugin for compatibility with third-party themes."
+msgstr "We controleren deze plugin voortdurend op compatibiliteit met thema's van derden."
+
+#: inc/php/tabs/faq.php:79
+msgid "But, unfortunately, we cannot check it with all third-party themes (especially paid ones) for compatibility, therefore there are cases when this plugin does not work with a third-party theme."
+msgstr "Helaas kunnen we het niet controleren met alle thema's van derden (met name betaalde) voor compatibiliteit, daarom zijn er gevallen waarin deze plugin niet werkt met een thema van een derde partij."
+
+#: inc/php/tabs/faq.php:87
+msgid "Will this plugin work/compatible with other plugins that I use?"
+msgstr "Werkt deze plugin/compatibel met andere plugins die ik gebruik?"
+
+#: inc/php/tabs/faq.php:246
+msgid "Your custom PHP code is incorrect and may not work."
+msgstr "Je aangepaste PHP code is onjuist en werkt mogelijk niet."
+
+#: inc/php/tabs/faq.php:244
+msgid "You have a typo during the insertion of your custom PHP code."
+msgstr "Je hebt een typfout tijdens het invoegen van je aangepaste PHP code."
+
+#: inc/php/tabs/faq.php:245
+msgid "Your custom PHP code has a syntax error."
+msgstr "Je aangepaste PHP code heeft een syntax fout."
+
+#: inc/php/tabs/settings.php:35
+msgid "NOT SAVED!"
+msgstr "NIET OPGESLAGEN!"
+
+#: inc/php/tabs/faq.php:173
+msgid "Can I add my custom PHP code to a specific page of my website?"
+msgstr "Kan ik mijn aangepaste PHP code toevoegen aan een specifieke pagina van mijn website?"
+
+#: inc/php/tabs/usage.php:27
+msgid "Do not wrap your custom PHP code in HTML tags, such as <code>&lt;?php</code>...<code>?&gt;</code>."
+msgstr "Verpak je aangepaste PHP code niet in HTML tags, zoals <code>&lt;?php</code>...<code>?&gt;</code>."
+
+#: inc/php/tabs/usage.php:23
+msgid "Place your custom PHP code in the code editor field."
+msgstr "Plaats je aangepaste PHP code in het code editor veld."
+
+#. Description of the plugin
+msgid "Easily and safely add your custom PHP code to your WordPress website, directly out of the WordPress Admin Area, without the need to have an external editor."
+msgstr "Voeg eenvoudig en veilig je aangepaste PHP code toe aan je WordPress website, rechtstreeks uit de WordPress beheer ruimte, zonder dat je een externe editor nodig hebt."
+
+#: inc/php/sidebar.php:17
+msgid "We are «Space X-Chimp»"
+msgstr "Wij zijn «Space X-Chimp»"
+
+#: inc/php/tabs/support.php:50
+msgid "If you appreciate our work, you can buy us a cup of coffee!"
+msgstr "Als je ons werk op prijs stelt, kan je een kop koffie voor ons kopen!"
+
+#: inc/php/sidebar.php:58 inc/php/tabs/settings.php:70
+msgid "Every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr "Elke kleine bijdrage helpt onze kosten te dekken en stelt ons in staat meer tijd te besteden aan het maken van dingen voor geweldige mensen zoals jij om van te genieten."
+
+#: inc/php/tabs/support.php:32
+msgid "My name is %s Arthur %s, I'm the founder of %s Space X-Chimp %s, which unites a small international team of young people."
+msgstr "Mijn naam is %s Arthur %s, ik ben de oprichter van %s Space X-Chimp %s, dat een klein internationaal team van jongeren verenigt."
+
+#: inc/php/tabs/faq.php:279
+msgid "We are already working on a feature to automatically stop the execution of users custom PHP code for cases when this plugin could not detect the error, and this caused the inaccessibility of the website."
+msgstr "We zijn bezig met het maken van een optie om de uitvoering van PHP-code automatisch te stoppen, als de plugin geen fout kon detecteren en de PHP-code wel een onbereikbare website veroorzaakt."
+
+#: inc/php/tabs/settings.php:49
+msgid "Enter your PHP functions here"
+msgstr "Voer hier je PHP functies in"
+
+#: inc/php/tabs/faq.php:274
+msgid "Return to the plugin folder and rename the file <code>STOP</code> to <code>START</code> and you're done!"
+msgstr "Keer terug naar de plugin map en verander de naam van het bestand <code>STOP</code> naar <code>START</code> en je bent klaar!"
+
+#: inc/php/tabs/faq.php:272
+msgid "Go to the plugin settings page <code>Settings</code> &#10145; <code>PHP Inserter</code>."
+msgstr "Ga naar de plugin instellingen pagina <code>Instellingen</code> &#10145; <code>PHP Inserter</code>."
+
+#. Author of the plugin
+msgid "Space X-Chimp"
+msgstr "Space X-Chimp"
+
+#. Author URI of the plugin
+msgid "https://www.spacexchimp.com"
+msgstr "https://www.spacexchimp.com"
+
+#: inc/php/page.php:30
+msgid "by %s Space X-Chimp %s"
+msgstr "door %s Space X-Chimp %s"
+
+#: inc/php/messages.php:34
+msgid "We are the team of Space X-Chimp."
+msgstr "Wij zijn het team van Space X-Chimp."
+
+#: inc/php/tabs/usage.php:17
+msgid "Usage Instructions"
+msgstr "Gebruiksinstructies"
+
+#: inc/php/tabs/support.php:17
+msgid "Support Us"
+msgstr "Ondersteun ons"
+
+#: inc/php/core.php:85
+msgid "PHP Inserter"
+msgstr "PHP invoeger"
+
+#: inc/php/tabs/support.php:53
+msgid "Thank you for your support!"
+msgstr "Bedankt voor je ondersteuning!"
+
+#: inc/php/page.php:47
+msgid "Store"
+msgstr "Winkel"
+
+#: inc/php/tabs/faq.php:103
+msgid "This plugin is ready for translation and has already been translated into several languages."
+msgstr "Ja. Deze plugin is klaar voor vertaling en is reeds in verschillende talen vertaald."
+
+#: inc/php/tabs/faq.php:394
+msgid "My question wasn't answered here."
+msgstr "Mij vraag is hier niet beantwoord."
+
+#: inc/php/sidebar.php:49
+msgid "If you have a question, please read the information in the FAQ section."
+msgstr "Als je een vraag hebt, lees dan de informatie in de FAQ-sectie."
+
+#: inc/php/tabs/usage.php:41
+msgid "Click the \"Save changes\" button."
+msgstr "Klik op de knop \"Wijzigingen opslaan\"."
+
+#: inc/php/tabs/faq.php:21
+msgid "If you have a question, please read the Frequently Asked Questions below to see if the answer is here."
+msgstr "Als je een vraag hebt, lees dan eerst de Veel gestelde vragen hieronder om te zien of het antwoord ertussen staat."
+
+#: inc/php/page.php:36
+msgid "Version"
+msgstr "Versie"
+
+#: inc/php/tabs/faq.php:283
+msgid "The last WordPress update is preventing me from editing my website that is using this plugin."
+msgstr "De laatste WordPress update zorgt ervoor dat ik mijn website niet kan bewerken als ik deze plugin gebruik. Waarom is dit?"
+
+#: inc/php/tabs/faq.php:134
+msgid "Can I use HTML/CSS/JS code integrated in PHP code?"
+msgstr "Kan ik HTML/CSS/JS code geïntegreerd in PHP-code gebruiken?"
+
+#: inc/php/tabs/faq.php:138
+msgid "But you need to do it properly, like this:"
+msgstr "Ja. Maar je moet het goed doen, zoals dit:"
+
+#: inc/php/tabs/faq.php:153
+msgid "We don't limit the number of characters."
+msgstr "Er is geen beperking op het aantal tekens."
+
+#: inc/php/tabs/faq.php:215
+msgid "Here are a few of the most likely causes of the error message:"
+msgstr "Hier zijn enkele van de meest waarschijnlijke oorzaken van de foutmelding:"
+
+#: inc/php/tabs/faq.php:165
+msgid "Does this require any knowledge of HTML or CSS?"
+msgstr "Vereist dit enige kennis van HTML of CSS?"
+
+#: inc/php/tabs/faq.php:294
+msgid "Where to report bug if found?"
+msgstr "Waar kan een bug gerapporteerd worden indien gevonden?"
+
+#: inc/php/sidebar.php:63 inc/php/tabs/settings.php:75
+#: inc/php/tabs/support.php:25
+msgid "Donate with PayPal"
+msgstr "Doneer via PayPal"
+
+#: inc/php/tabs/faq.php:323
+msgid "Where to share any ideas or suggestions to make the plugin better?"
+msgstr "Waar kan ik ideeën of suggesties delen om de plugin beter te maken?"
+
+#: inc/php/tabs/faq.php:157
+msgid "Does this plugin requires any modification of the theme?"
+msgstr "Heeft deze plugin enige aanpassing van het thema nodig?"
+
+#: inc/php/tabs/faq.php:150
+msgid "How much of PHP code (characters) I can enter in the code editor?"
+msgstr "Hoe veel PHP code (tekens) kan ik invoeren in de code editor?"
+
+#: inc/php/core.php:40
+msgid "Upgrade to PRO"
+msgstr "Upgrade naar PRO"
+
+#: inc/php/page.php:43
+msgid "Main"
+msgstr "Hoofd"
+
+#: inc/php/page.php:44
+msgid "Usage"
+msgstr "Gebruik"
+
+#: inc/php/page.php:45
+msgid "F.A.Q."
+msgstr "F.A.Q."
+
+#: inc/php/page.php:46 inc/php/sidebar.php:56 inc/php/tabs/settings.php:68
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: inc/php/tabs/usage.php:26 inc/php/tabs/usage.php:30
+msgid "Note!"
+msgstr "Opmerking!"
+
+#: inc/php/tabs/faq.php:130 inc/php/tabs/usage.php:42
+msgid "It's that simple!"
+msgstr "Zo eenvoudig is het!"
+
+#: inc/php/tabs/faq.php:125
+msgid "How does it work?"
+msgstr "Hoe werkt het?"
+
+#: inc/php/tabs/faq.php:99
+msgid "Can I use this plugin on my language?"
+msgstr "Kan ik deze plugin in mijn eigen taal gebruiken?"
+
+#: inc/php/messages.php:91
+msgid "Please update the plugin to the latest version, and all will be fine."
+msgstr "Update de plugin naar de nieuwste versie en alles komt goed."
+
+#: inc/php/messages.php:90
+msgid "You have installed an old version of this plugin."
+msgstr "Je hebt een oudere versie van deze plugin geïnstalleerd."
+
+#: inc/php/messages.php:39
+msgid "Thank you for installing our plugin! We hope you will love it! %s"
+msgstr "Bedankt voor het installeren van onze plugin! We hopen dat je het geweldig zult vinden! %s"
+
+#: inc/php/tabs/usage.php:19
+msgid "To add your custom PHP code to your website, simply follow these steps:"
+msgstr "Om je eigen aangepaste functies (de PHP code) aan je site toe te voegen, volg deze simpele stappen:"
+
+#: inc/php/tabs/faq.php:59
+msgid "Will this plugin work on my wordpress.COM website?"
+msgstr "Werkt deze plugin op mijn wordpress.COM site?"
+
+#: inc/php/tabs/faq.php:62
+msgid "Sorry, this plugin is available for use only on self-hosted (wordpress.ORG) websites."
+msgstr "Deze plugin is alleen beschikbaar voor gebruik op zelf-gehoste (wordpress.ORG) sites."
+
+#: inc/php/tabs/faq.php:129 inc/php/tabs/usage.php:42
+msgid "Enjoy the result of applying your custom PHP code."
+msgstr "Geniet van het resultaat  door je aangepaste  PHP code toe te passen."
+
+#: inc/php/tabs/faq.php:17
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen"
+
+#: inc/php/tabs/settings.php:33
+msgid "Functions (PHP code)"
+msgstr "Functies (PHP code)"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/ArthurGareginyan/my-custom-functions"
+msgstr "https://github.com/ArthurGareginyan/my-custom-functions"
+
+#: inc/php/core.php:32
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/php/sidebar.php:65 inc/php/tabs/settings.php:77
+msgid "Thanks for your support!"
+msgstr "Bedankt voor je ondersteuning!"
+
+#: inc/php/tabs/settings.php:63
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: inc/php/core.php:61
+msgid "Donate"
+msgstr "Doe een gift"
+
+#: inc/php/tabs/usage.php:47
+msgid "If you want more options, then %s let us know %s and we will be happy to add them."
+msgstr "Wilt je meer opties, dan %s vertel ons %s en wij zullen ze graag toevoegen."
+
+#: inc/php/sidebar.php:47
+msgid "Help"
+msgstr "Help"
+
+#: inc/php/messages.php:126
+msgid "Custom code saved successfully."
+msgstr "Aangepaste functies zijn geüpdated."
+
+#: inc/php/sidebar.php:38
+msgid "About"
+msgstr "Over"
+
+#. Plugin Name of the plugin
+msgid "My Custom Functions"
+msgstr "My Custom Functions"
+
+#: inc/php/messages.php:155
+msgid "Please, check the code and try again."
+msgstr "Controleer de code en probeer het opnieuw."
+
+#: inc/php/messages.php:154
+msgid "Sorry, but your code causes a \"Fatal error\", so it is not applied!"
+msgstr "Sorry, maar je code veroorzaakt een \"Fatale fout\", deze wordt niet toegepast!"

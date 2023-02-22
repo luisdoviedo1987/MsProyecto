@@ -1,0 +1,62 @@
+# Translation of Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-21 15:33:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release)\n"
+
+#: languages/vue.php:1988
+msgid "Custom code"
+msgstr "Özel kod"
+
+#: languages/vue.php:2248
+msgid "Enable Demographics and Interests Reports for Remarketing and Advertising"
+msgstr "Remarketing ve Reklam için demografi ve ilgi raporlarını etkinleştir"
+
+#: languages/vue.php:2587
+msgid "Enhanced Link Attribution"
+msgstr "Gelişmiş bağlantı özelliği"
+
+#: languages/vue.php:980
+msgid "License Key"
+msgstr "Lisans anahtarı"
+
+#: languages/vue.php:550
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: languages/vue.php:339
+msgid "Custom Dimensions"
+msgstr "Özel ölçüler"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:290 languages/vue.php:530
+msgid "General"
+msgstr "Genel"
+
+#: languages/vue.php:2239
+msgid "Manually enter your UA code"
+msgstr "UA kodunuzu  elle girin"
+
+#: includes/admin/reports/overview.php:34 languages/vue.php:577
+msgid "Overview"
+msgstr "Genel bakış"
+
+#: includes/admin/admin.php:39 includes/admin/admin.php:130
+#: languages/vue.php:1995
+msgid "Reports"
+msgstr "Raporlar"
+
+#: includes/admin/admin.php:34 includes/admin/admin.php:42
+#: includes/admin/admin.php:222 languages/vue.php:523
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: languages/vue.php:463
+msgid "Save Changes"
+msgstr "Değişiklikleri kaydet"

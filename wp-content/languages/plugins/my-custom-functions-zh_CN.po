@@ -1,0 +1,745 @@
+# Translation of Plugins - My Custom Functions - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - My Custom Functions - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-02 14:47:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - My Custom Functions - Stable (latest release)\n"
+
+#: inc/php/tabs/faq.php:264
+msgid "Browse to the directory <code>wp-content/plugins/"
+msgstr "浏览到目录 <code>wp-content/plugins/"
+
+#: inc/php/tabs/support.php:46
+msgid "We spend a lot of time and effort trying to make sure that the themes, plugins and other things we build are useful, and the ultimate proof of that for us is that you actually want to use them."
+msgstr "我们花费了大量的时间和精力来确保我们构建的主题，插件和其他东西是有用的，并且我们的最终证明就是您实际上想要使用它们。"
+
+#: inc/php/tabs/support.php:43
+msgid "We are really passionate about our work, we like what we are doing and hope that you will be enriched by our projects too."
+msgstr "我们对我们的工作充满热情，并且热爱我们正在做的事，同时也希望使用我们产品的站点能因此而获益。"
+
+#: inc/php/tabs/support.php:42
+msgid "Our motto is - «Follow your dreams and don’t give up»."
+msgstr "我们的座右铭是 - 《追随你的梦想，不要放弃》。"
+
+#: inc/php/tabs/support.php:41
+msgid "Our intention is to create projects that will make this world a better place."
+msgstr "我们的目的是创建让这个世界变得更美好的项目。"
+
+#: inc/php/tabs/faq.php:404
+msgid "But please keep in mind that this plugin is free, and there is no a special support team, so we have no way to answer everyone."
+msgstr "请注意，由于这是一个免费插件，且没有专属于免费插件的技术支持团队，因此我们无法回复所有人的问题。"
+
+#: inc/php/tabs/faq.php:399
+msgid "You can ask your question on %s this page %s."
+msgstr "请在%s这个页面%s提出您的问题。"
+
+#: inc/php/tabs/faq.php:386
+msgid "Answers to common questions about our affiliate program can be found on our %s Common Questions %s page."
+msgstr "关于我们联盟计划的常见问题的答案可以在我们的%s常见问题%s页面上找到。"
+
+#: inc/php/tabs/faq.php:381
+msgid "Where can I find information about your affiliate program?"
+msgstr "我在哪里可以找到有关您的联盟计划的信息？"
+
+#: inc/php/tabs/faq.php:373
+msgid "Answers to common questions about our customer support can be found on our %s Common Questions %s page."
+msgstr "有关我们客户支持的常见问题的解答可以在我们的%s常见问题%s页面上找到。"
+
+#: inc/php/tabs/faq.php:368
+msgid "Where can I find information about your customer support?"
+msgstr "我在哪里可以找到有关您的客户支持的信息？"
+
+#: inc/php/tabs/faq.php:360
+msgid "Answers to common questions about our licenses, payment process and refunds can be found on our %s Common Questions %s page."
+msgstr "有关我们的许可，付款流程和退款的常见问题的解答，请参阅我们的%s常见问题%s页面。"
+
+#: inc/php/tabs/faq.php:355
+msgid "Where can I find information about your licenses, payment process and refunds?"
+msgstr "在何处可以找到插件使用授权、付款及退款流程的相关资讯？"
+
+#: inc/php/tabs/faq.php:346
+msgid "Please visit our %s Support Us %s page."
+msgstr "请访问我们的 %s支持我们%s 页面。"
+
+#: inc/php/tabs/faq.php:343
+msgid "Yes, any contributions are very welcome!"
+msgstr "是的，非常欢迎任何捐助！"
+
+#: inc/php/tabs/faq.php:340
+msgid "Can I help somehow?"
+msgstr "我能以某种方式帮忙吗？"
+
+#: inc/php/tabs/faq.php:339
+msgid "I love this plugin!"
+msgstr "我喜爱这个插件！"
+
+#: inc/php/tabs/faq.php:329
+msgid "Please visit our %s contact page %s."
+msgstr "请访问我们的%s联系页面%s。"
+
+#: inc/php/tabs/faq.php:326
+msgid "Any suggestions are very welcome!"
+msgstr "任何建议都非常欢迎！"
+
+#: inc/php/tabs/faq.php:318
+msgid "Website is crashed."
+msgstr "站点崩溃了。"
+
+#: inc/php/tabs/faq.php:317
+msgid "Custom code is inserted on the plugin settings page, but it is not applied on the website."
+msgstr "自定义代码被插入到插件设置页面上，但没有应用在站点上。(自定义代码没生效)"
+
+#: inc/php/tabs/faq.php:316
+msgid "An error message is displayed on the back end of website."
+msgstr "站点后端显示了一条错误消息。"
+
+#: inc/php/tabs/faq.php:315
+msgid "An error message is displayed on the front end of website."
+msgstr "站点前端显示了一条错误消息。"
+
+#: inc/php/tabs/faq.php:314
+msgid "An error message is displayed on the plugin settings page."
+msgstr "插件设置页面上显示了一条错误消息。"
+
+#: inc/php/tabs/faq.php:313
+msgid "Elements of the plugin settings page are not working."
+msgstr "插件设置页面的元素不起作用。"
+
+#: inc/php/tabs/faq.php:310
+msgid "Here are some examples:"
+msgstr "这里有些例子："
+
+#: inc/php/tabs/faq.php:309
+msgid "Describe in more detail what exactly you are seeing."
+msgstr "更详细地描述您的确切看法。"
+
+#: inc/php/tabs/faq.php:306 inc/php/tabs/faq.php:335 inc/php/tabs/faq.php:351
+msgid "Thank you!"
+msgstr "谢谢您！"
+
+#: inc/php/tabs/faq.php:305 inc/php/tabs/faq.php:334
+msgid "Please do not forget to specify the name of the plugin."
+msgstr "请不要忘记指定插件的名称。"
+
+#: inc/php/tabs/faq.php:300
+msgid "Please visit our %s contact page %s and report."
+msgstr "请访问我们的%s联系页面%s并报告。"
+
+#: inc/php/tabs/faq.php:297
+msgid "Bug reports are very welcome!"
+msgstr "非常欢迎提供Bug报告！"
+
+#: inc/php/tabs/faq.php:290
+msgid "Also please try to re-login to the website, this too can help."
+msgstr "也请尝试重新登录网站，这也可以帮助。"
+
+#: inc/php/tabs/faq.php:289
+msgid "It could just be a cache, so please try to clear your website's cache (may be you using a caching plugin, or some web service such as the CloudFlare) and then the cache of your web browser."
+msgstr "它可能只是一个缓存，所以请尝试清除您网站的缓存（可能是您使用缓存插件，或某些Web服务，如CloudFlare），然后是Web浏览器的缓存。"
+
+#: inc/php/tabs/faq.php:288
+msgid "More likely, the problem are related to the settings of the website."
+msgstr "更有可能的是，此问题与网站的设置有关。"
+
+#: inc/php/tabs/faq.php:287
+msgid "This plugin can not cause such problem."
+msgstr "这个插件不会导致这样的问题。"
+
+#: inc/php/tabs/faq.php:284
+msgid "Why is this?"
+msgstr "为什么会这样？"
+
+#: inc/php/tabs/faq.php:277
+msgid "For getting your code, you also can go to the <code>Database</code> &#10145; Table <code>wp_options</code> &#10145; Option <code>spacexchimp_p001_settings</code> &#10145; <code>option_value</code>."
+msgstr "要获取代码，您还可以转到 <code>wp_options</code> 表，代码片段储存于 <code>option_name</code> 为 <code>spacexchimp_p001_settings</code> 的 <code>option_value</code> 字段中。"
+
+#: inc/php/tabs/faq.php:276
+msgid "This plugin stored you entered code in the database of your website."
+msgstr "此插件将您输入的代码存储在您网站的数据库中。"
+
+#: inc/php/tabs/faq.php:269
+msgid "This will stop the execution of your custom code."
+msgstr "这将停止执行您的自定义代码。"
+
+#: inc/php/tabs/faq.php:268
+msgid "Rename the file <code>START</code> to <code>STOP</code>."
+msgstr "将文件<code>START</code>重命名为<code>STOP</code>。"
+
+#: inc/php/tabs/faq.php:265
+msgid "Please contact your web hosting company to get help if you can't find this folder."
+msgstr "如果找不到此文件夹，请与您的主机托管公司联系以获取帮助。"
+
+#: inc/php/tabs/faq.php:261
+msgid "If you aren't sure how usually your web hosting provider will have instructions somewhere on their website."
+msgstr "如果您不确定如何操作，您的网站托管服务提供商通常会在其网站上的某处提供相关说明。"
+
+#: inc/php/tabs/faq.php:260
+msgid "Access your server via FTP or SFTP."
+msgstr "通过FTP或SFTP访问您的服务器。"
+
+#: inc/php/tabs/faq.php:257
+msgid "When this happens with you, please perform the following steps."
+msgstr "如果发生这种情况，请执行以下步骤。"
+
+#: inc/php/tabs/faq.php:256
+msgid "This is due to the fact that your custom code has a syntax error that this plugin could not detect."
+msgstr "这是因为您的自定义代码具有此插件无法检测到的语法错误。"
+
+#: inc/php/tabs/faq.php:255
+msgid "But plugin is not perfect, so there are times when the entered custom code causes the error and white screen (WSOD)."
+msgstr "但插件并不完美，因此有时输入的自定义代码会导致错误和白屏（WSOD）。"
+
+#: inc/php/tabs/faq.php:254
+msgid "This plugin has a built-in functions for checking the custom code for syntax errors, duplicate functions names, and etc."
+msgstr "此插件具有内置函数，用于检查自定义代码的语法错误，重复的函数名称等。"
+
+#: inc/php/tabs/faq.php:242
+msgid "Here are a few of the most likely causes of the issue:"
+msgstr "以下是此问题的一些最可能原因："
+
+#: inc/php/tabs/faq.php:241
+msgid "It happens that your custom PHP code that you insert on the plugin page does not work, even if an error message does not appear."
+msgstr "即使没有出现错误消息，您在插件页面上插入的自定义PHP代码也不起作用。"
+
+#: inc/php/tabs/faq.php:237
+msgid "My custom PHP code is not working."
+msgstr "我的自定义PHP代码不起作用。"
+
+#: inc/php/tabs/faq.php:231
+msgid "Instead, use filters and hooks."
+msgstr "使用过滤器和钩子代替。(Instead, use filters and hooks.)"
+
+#: inc/php/tabs/faq.php:230
+msgid "You are trying to overwrite an existing function (of WordPress, theme, or plugin)."
+msgstr "您正在尝试覆盖现有的WordPress、主题或插件函数。"
+
+#: inc/php/tabs/faq.php:227
+msgid "Use a unique name for your function."
+msgstr "为您的函数使用唯一的名称。"
+
+#: inc/php/tabs/faq.php:226
+msgid "You have entered function with a name that is already occupied by another function."
+msgstr "您输入的函数名称已被其他函数占用。"
+
+#: inc/php/tabs/faq.php:223
+msgid "Use a unique names for your functions."
+msgstr "为您的函数使用唯一的名称。"
+
+#: inc/php/tabs/faq.php:222
+msgid "You entered two functions with the same name."
+msgstr "您输入了两个具有相同名称的函数。"
+
+#: inc/php/tabs/faq.php:219
+msgid "Check the syntax of your code and try again."
+msgstr "检查代码的语法，然后重试。"
+
+#: inc/php/tabs/faq.php:218
+msgid "You make a syntax error in the code that you have entered."
+msgstr "您在输入的代码中出现语法错误。"
+
+#: inc/php/tabs/faq.php:211
+msgid "On the plugin settings page, an error message appears."
+msgstr "在插件设置页面上，会显示一条错误消息。"
+
+#: inc/php/tabs/faq.php:207 inc/php/tabs/faq.php:308
+msgid "Please include as much information as possible, including a link to your website where the problem can be seen."
+msgstr "请尽可能多地提供相关信息，包括指向可以查看问题的网站链接。"
+
+#: inc/php/tabs/faq.php:206
+msgid "If you post a support request in the plugin's support forum on WordPress.org, we'd be happy to give it a look and try to help out."
+msgstr "如果您在WordPress.org的插件支持论坛上发布支持请求，我们很乐意为您提供帮助，并尝试提供帮助。"
+
+#: inc/php/tabs/faq.php:204
+msgid "Clearing your browser's cache may solve the problem."
+msgstr "清除浏览器的缓存可以解决问题。"
+
+#: inc/php/tabs/faq.php:203
+msgid "This is called the browser's cache."
+msgstr "这称为浏览器的缓存。"
+
+#: inc/php/tabs/faq.php:202
+msgid "Every web browser stores a cache of the websites you visit (pages, images, and etc.) to reduce bandwidth usage and server load."
+msgstr "每个Web浏览器都存储您访问的网站的缓存（页面，图像等），以减少带宽使用和服务器负载。"
+
+#: inc/php/tabs/faq.php:201
+msgid "The most common reason for this is a web browser's cache."
+msgstr "最常见的原因是Web浏览器的缓存。"
+
+#: inc/php/tabs/faq.php:200
+msgid "It's impossible to tell what could be wrong exactly."
+msgstr "无法准确地说出可能出现的问题。"
+
+#: inc/php/tabs/faq.php:199
+msgid "As with every plugin, it's possible that things don't work."
+msgstr "与每个插件一样，都可能无法如预期的一样正常工作。"
+
+#: inc/php/tabs/faq.php:196 inc/php/tabs/faq.php:212 inc/php/tabs/faq.php:238
+msgid "What could be wrong?"
+msgstr "可能有什么错误？"
+
+#: inc/php/tabs/faq.php:195
+msgid "It's not working."
+msgstr "它不起作用。"
+
+#: inc/php/tabs/faq.php:179
+msgid "You need something like this:"
+msgstr "你需要诸如此类："
+
+#: inc/php/tabs/faq.php:178
+msgid "But for now in order to apply your custom PHP code only on specific pages of your website, you need to wrap your custom PHP code in a PHP function that will determine the page you want."
+msgstr "但是现在，为了仅在您网站的特定页面上应用您的自定义PHP代码，您需要将自定义PHP代码包装在将确定所需页面的PHP函数中。"
+
+#: inc/php/tabs/faq.php:177
+msgid "We plan to add this feature soon."
+msgstr "我们计划很快添加此功能。"
+
+#: inc/php/tabs/faq.php:176
+msgid "For now, this plugin does not have an option to apply the custom PHP code only on specific pages."
+msgstr "目前，此插件没有 仅在“特定页面上”应用自定义PHP代码的功能。"
+
+#: inc/php/tabs/faq.php:169
+msgid "This plugin can be configured with no knowledge of HTML or CSS, using an easy-to-use plugin settings page."
+msgstr "这个插件的设置不需要具备 HTML 或 CSS 的相关知识，因为它有个易于使用的设置页面。"
+
+#: inc/php/tabs/faq.php:161
+msgid "This plugin is configurable entirely from the plugin settings page."
+msgstr "这个插件可以从插件设置页面进行完整的设置。"
+
+#: inc/php/tabs/faq.php:160 inc/php/tabs/faq.php:168
+msgid "Absolutely not."
+msgstr "完全不需要。"
+
+#: inc/php/tabs/faq.php:128
+msgid "On the \"Main\" tab, place your custom PHP code in the code editor field, switch the toggle to the \"ON\" position and click the \"Save changes\" button."
+msgstr "在“Main”选项卡上，将自定义PHP代码放在代码编辑器字段中，并将切换开关切换到“ON”位置，然后单击“保存更改”按钮。"
+
+#: inc/php/tabs/faq.php:118
+msgid "Just send the PO file to us ( %s ) and we will include this translation within the next plugin update."
+msgstr "只需将PO文件发送给我们 ( %s ) ，我们将在下一个插件更新中包含此翻译。"
+
+#: inc/php/tabs/faq.php:115
+msgid "You can also use the POT file that is included and placed in the \"languages\" folder to create a translation PO file."
+msgstr "您还可以使用包含并放在“languages”文件夹中的POT文件来创建翻译PO文件。"
+
+#: inc/php/tabs/faq.php:111
+msgid "If you want to help translate this plugin, please visit the %s."
+msgstr "如果您想帮助翻译此插件，请访问%s。"
+
+#: inc/php/tabs/faq.php:107
+msgid "Thanks for your contribution!"
+msgstr "谢谢大家的汗马功劳！"
+
+#: inc/php/tabs/faq.php:106
+msgid "Many of plugin users would be delighted if you share your translation with the community."
+msgstr "如果您与社区分享您的翻译，许多插件用户会很高兴。"
+
+#: inc/php/tabs/faq.php:105
+msgid "It is also possible that not all existing translations are up-to-date or correct, so you are welcome to make corrections."
+msgstr "也可能并非所有现有翻译都是最新的或正确的，因此欢迎您进行更正。"
+
+#: inc/php/tabs/faq.php:104
+msgid "But If your language is not available then you can make one."
+msgstr "但如果您的语言不可用，那么您可以制作一种语言。"
+
+#: inc/php/tabs/faq.php:102 inc/php/tabs/faq.php:137
+msgid "Yes."
+msgstr "是的。"
+
+#: inc/php/tabs/faq.php:95
+msgid "If you find a conflict between our plugin and a third-party plugin, please let us know and we will definitely release an update of our plugin to fix the problem."
+msgstr "如果您发现我们的插件和第三方插件之间存在冲突，请告诉我们，我们肯定会发布我们的插件更新来解决问题。"
+
+#: inc/php/tabs/faq.php:93
+msgid "If we find that this plugin is incompatible with a third-party plugin, and if we can fix it on our part, we release an update of our plugin to fix the problem."
+msgstr "如果我们发现此插件与第三方插件不兼容，并且如果我们可以修复它，我们会发布插件更新以解决问题。"
+
+#: inc/php/tabs/faq.php:92
+msgid "We constantly check this plugin for compatibility with third-party plugins."
+msgstr "我们经常检查此插件是否与第三方插件兼容。"
+
+#: inc/php/tabs/faq.php:91
+msgid "But, unfortunately, we cannot check it with all third-party plugins (especially paid ones) for compatibility, therefore there are cases when this plugin does not work with a third-party plugin."
+msgstr "但是，遗憾的是，我们无法检查所有第三方插件（尤其是付费插件）的兼容性，因此有些情况下此插件无法与第三方插件一起使用。"
+
+#: inc/php/tabs/faq.php:90
+msgid "This plugin is compatible with most plugins."
+msgstr "此插件与大多数插件兼容。"
+
+#: inc/php/tabs/faq.php:87
+msgid "Will this plugin work/compatible with other plugins that I use?"
+msgstr "这个插件是否可以与我使用的其他插件兼容？"
+
+#: inc/php/tabs/faq.php:83
+msgid "If you find a conflict between our plugin and a third-party theme, please let us know and we will definitely release an update of our plugin to fix the problem."
+msgstr "如果您发现我们的插件和第三方主题之间存在冲突，请告诉我们，我们肯定会发布我们的插件更新来解决问题。"
+
+#: inc/php/tabs/faq.php:81
+msgid "If we find that this plugin is incompatible with a third-party theme, and if we can fix it on our part, we release an update of our plugin to fix the problem."
+msgstr "如果我们发现此插件与第三方主题不兼容，并且我们可以自行修复，我们会发布插件更新以解决问题。"
+
+#: inc/php/tabs/faq.php:80
+msgid "We constantly check this plugin for compatibility with third-party themes."
+msgstr "我们经常检查此插件是否与第三方主题兼容。"
+
+#: inc/php/tabs/faq.php:79
+msgid "But, unfortunately, we cannot check it with all third-party themes (especially paid ones) for compatibility, therefore there are cases when this plugin does not work with a third-party theme."
+msgstr "但是，遗憾的是，我们无法检查所有第三方主题（尤其是付费主题）的兼容性，因此有些情况下此插件无法与第三方主题一起使用。"
+
+#: inc/php/tabs/faq.php:78
+msgid "This plugin is compatible with most themes."
+msgstr "此插件与大多数主题兼容。"
+
+#: inc/php/tabs/faq.php:75
+msgid "Will this plugin work/compatible with the theme I use?"
+msgstr "这个插件是否可以与我使用的主题兼容吗？"
+
+#: inc/php/tabs/faq.php:68
+msgid "You can learn more about the difference here: %s ."
+msgstr "您可以在此处了解有关差异的更多信息： %s。"
+
+#: inc/php/tabs/faq.php:65
+msgid "The wordpress.COM is a blog hosting service that offers a limited version of the popular self-hosted WordPress software."
+msgstr "wordpress.COM是一个博客托管服务，提供受欢迎的自托管WordPress软件的限定版本。"
+
+#: inc/php/tabs/faq.php:64
+msgid "Please note that there is a difference between wordpress.COM and wordpress.ORG."
+msgstr "请注意，wordpress.COM和wordpress.ORG之间存在差异。"
+
+#: inc/php/tabs/faq.php:51
+msgid "Please visit our %s Documentation site %s to view documentation."
+msgstr "请访问我们的%s文档站点%s查看文档。"
+
+#: inc/php/tabs/faq.php:46
+msgid "Where can I find a documentation for this plugin?"
+msgstr "我在哪里可以找到这个插件的文档？"
+
+#: inc/php/messages.php:33 inc/php/tabs/support.php:29
+msgid "Hello!"
+msgstr "您好！"
+
+#: inc/php/tabs/faq.php:246
+msgid "Your custom PHP code is incorrect and may not work."
+msgstr "您的自定义PHP代码不正确，可能无法正常工作。"
+
+#: inc/php/tabs/faq.php:245
+msgid "Your custom PHP code has a syntax error."
+msgstr "您的自定义PHP代码有语法错误。"
+
+#: inc/php/tabs/faq.php:244
+msgid "You have a typo during the insertion of your custom PHP code."
+msgstr "插入自定义PHP代码时出现错误。"
+
+#: inc/php/tabs/settings.php:35
+msgid "NOT SAVED!"
+msgstr "没有保存！"
+
+#: inc/php/tabs/faq.php:173
+msgid "Can I add my custom PHP code to a specific page of my website?"
+msgstr "我可以将自定义PHP代码添加到我网站的特定页面吗？"
+
+#: inc/php/tabs/usage.php:27
+msgid "Do not wrap your custom PHP code in HTML tags, such as <code>&lt;?php</code>...<code>?&gt;</code>."
+msgstr "不要将自定义PHP代码包装在HTML标记中，例如<code>&lt;?php</code>......<code>?&gt;</code>。"
+
+#: inc/php/tabs/usage.php:23
+msgid "Place your custom PHP code in the code editor field."
+msgstr "将自定义PHP代码放在代码编辑器字段中。"
+
+#: inc/php/tabs/usage.php:21
+msgid "Go to the \"Main\" tab on this page."
+msgstr "转到此页面上的“Main”标签。"
+
+#. Description of the plugin
+msgid "Easily and safely add your custom PHP code to your WordPress website, directly out of the WordPress Admin Area, without the need to have an external editor."
+msgstr "轻松安全地将自定义PHP代码添加到WordPress网站，直接从WordPress管理区域添加，无需外部编辑器。"
+
+#: inc/php/sidebar.php:17
+msgid "We are «Space X-Chimp»"
+msgstr "我们是 Space X-Chimp"
+
+#: inc/php/sidebar.php:58 inc/php/tabs/settings.php:70
+msgid "Every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr "每一笔捐款都有助于弥补我们的成本，让我们可以花更多的时间为像你这样的优秀人士创造一些东西。"
+
+#: inc/php/tabs/support.php:50
+msgid "If you appreciate our work, you can buy us a cup of coffee!"
+msgstr "如果你欣赏我们的工作，你可以给我们买一杯咖啡！(If you appreciate our work, you can buy us a cup of coffee!)"
+
+#: inc/php/tabs/support.php:32
+msgid "My name is %s Arthur %s, I'm the founder of %s Space X-Chimp %s, which unites a small international team of young people."
+msgstr "我是 %sArthur%s，%sSpace X-Chimp%s 的创办人，Space X-Chimp 是一个由跨国年轻成员组成的小型团队。"
+
+#: inc/php/tabs/settings.php:49
+msgid "Enter your PHP functions here"
+msgstr "在这里输入您的PHP函数"
+
+#: inc/php/tabs/faq.php:279
+msgid "We are already working on a feature to automatically stop the execution of users custom PHP code for cases when this plugin could not detect the error, and this caused the inaccessibility of the website."
+msgstr "我们已经在开发一项功能，可以在此插件无法检测到错误的情况下自动停止执行用户自定义PHP代码，这导致网站无法访问。"
+
+#: inc/php/tabs/faq.php:274
+msgid "Return to the plugin folder and rename the file <code>STOP</code> to <code>START</code> and you're done!"
+msgstr "返回插件文件夹并将文件<code> STOP </code>重命名为<code> START </code>，您就完成了！"
+
+#: inc/php/tabs/faq.php:272
+msgid "Go to the plugin settings page <code>Settings</code> &#10145; <code>PHP Inserter</code>."
+msgstr "转到插件设置页<code>设置</code> &#10145; <code> PHP Inserter </code>。"
+
+#: inc/php/tabs/faq.php:271
+msgid "Log in to Admin Area of your WordPress website."
+msgstr "登录WordPress网站的管理区域。"
+
+#. Author URI of the plugin
+msgid "https://www.spacexchimp.com"
+msgstr "https://www.spacexchimp.com"
+
+#. Author of the plugin
+msgid "Space X-Chimp"
+msgstr "Space X-Chimp（宇宙的 X-黑猩猩）"
+
+#: inc/php/page.php:30
+msgid "by %s Space X-Chimp %s"
+msgstr "由 %sSpace X-Chimp%s 开发"
+
+#: inc/php/messages.php:34
+msgid "We are the team of Space X-Chimp."
+msgstr "我们是 Space X-Chimp 团队。"
+
+#: inc/php/tabs/support.php:17
+msgid "Support Us"
+msgstr "支持我们持续开发"
+
+#: inc/php/tabs/usage.php:17
+msgid "Usage Instructions"
+msgstr "使用说明"
+
+#: inc/php/core.php:85
+msgid "PHP Inserter"
+msgstr "PHP 插入器"
+
+#: inc/php/tabs/support.php:53
+msgid "Thank you for your support!"
+msgstr "感谢您的支持！"
+
+#: inc/php/page.php:47
+msgid "Store"
+msgstr "商店(Store)"
+
+#: inc/php/sidebar.php:40
+msgid "This plugin gives you the ability to easily and safely add your custom PHP code to your WordPress website, directly out of the WordPress Admin Area, without the need to have an external editor."
+msgstr "此插件使您能够轻松安全地将自定义PHP代码添加到WordPress网站，直接从WordPress管理区域添加，而无需使用外部编辑器。"
+
+#: inc/php/tabs/faq.php:103
+msgid "This plugin is ready for translation and has already been translated into several languages."
+msgstr "此插件已准备好进行翻译，并已翻译成多种语言。"
+
+#: inc/php/sidebar.php:49
+msgid "If you have a question, please read the information in the FAQ section."
+msgstr "如果您有任何疑问，请阅读常见问题解答部分中的信息。(FAQ)"
+
+#: inc/php/tabs/faq.php:394
+msgid "My question wasn't answered here."
+msgstr "我的问题在这里没有得到解答。"
+
+#: inc/php/tabs/faq.php:21
+msgid "If you have a question, please read the Frequently Asked Questions below to see if the answer is here."
+msgstr "如果您有任何疑问，请阅读下面的常见问题解答，看看答案是否在这里。"
+
+#: inc/php/tabs/usage.php:41
+msgid "Click the \"Save changes\" button."
+msgstr "单击“保存更改”按钮。"
+
+#: inc/php/tabs/usage.php:40
+msgid "Switch the toggle to the \"ON\" position."
+msgstr "将切换开关切换到“ON”位置。"
+
+#: inc/php/page.php:36
+msgid "Version"
+msgstr "版本:"
+
+#: inc/php/tabs/faq.php:251
+msgid "What to do if this plugin crashed the website?"
+msgstr "如果这个插件导致网站崩溃时该怎么办？"
+
+#: inc/php/tabs/faq.php:283
+msgid "The last WordPress update is preventing me from editing my website that is using this plugin."
+msgstr "最新的WordPress更新阻止了我的网站使用此插件来编辑。"
+
+#: inc/php/sidebar.php:63 inc/php/tabs/settings.php:75
+#: inc/php/tabs/support.php:25
+msgid "Donate with PayPal"
+msgstr "使用PayPal捐赠"
+
+#: inc/php/tabs/faq.php:323
+msgid "Where to share any ideas or suggestions to make the plugin better?"
+msgstr "在哪里分享想法或建议，使插件更美好？"
+
+#: inc/php/tabs/faq.php:294
+msgid "Where to report bug if found?"
+msgstr "如果发现错误（bug）在哪里报告？"
+
+#: inc/php/tabs/faq.php:273
+msgid "Edit/fix your custom PHP code that you entered before the crash."
+msgstr "编辑/修复您在崩溃之前输入的自定义PHP代码。"
+
+#: inc/php/tabs/faq.php:165
+msgid "Does this require any knowledge of HTML or CSS?"
+msgstr "这需要HTML或CSS的任何知识吗？"
+
+#: inc/php/tabs/faq.php:157
+msgid "Does this plugin requires any modification of the theme?"
+msgstr "这个插件是否需要对主题进行任何修改？"
+
+#: inc/php/tabs/faq.php:215
+msgid "Here are a few of the most likely causes of the error message:"
+msgstr "以下是错误消息的一些最可能原因："
+
+#: inc/php/tabs/faq.php:153
+msgid "We don't limit the number of characters."
+msgstr "我们不限制字符数。"
+
+#: inc/php/tabs/faq.php:150
+msgid "How much of PHP code (characters) I can enter in the code editor?"
+msgstr "我可以在代码编辑器中输入多少PHP代码（字符）？"
+
+#: inc/php/tabs/faq.php:138
+msgid "But you need to do it properly, like this:"
+msgstr "但你需要正确地做到这一点，像这样："
+
+#: inc/php/tabs/faq.php:134
+msgid "Can I use HTML/CSS/JS code integrated in PHP code?"
+msgstr "我可以使用PHP代码中集成的HTML / CSS / JS代码吗？"
+
+#: inc/php/tabs/faq.php:125
+msgid "How does it work?"
+msgstr "它是如何工作的？"
+
+#: inc/php/tabs/faq.php:99
+msgid "Can I use this plugin on my language?"
+msgstr "我可以在我的语言上使用这个插件吗？"
+
+#: inc/php/tabs/faq.php:62
+msgid "Sorry, this plugin is available for use only on self-hosted (wordpress.ORG) websites."
+msgstr "抱歉，此插件仅可用于自托管（wordpress.ORG）网站。"
+
+#: inc/php/tabs/faq.php:59
+msgid "Will this plugin work on my wordpress.COM website?"
+msgstr "这个插件会在我的wordpress.COM网站上运行吗？"
+
+#: inc/php/tabs/faq.php:17
+msgid "Frequently Asked Questions"
+msgstr "常见问题解答"
+
+#: inc/php/tabs/faq.php:130 inc/php/tabs/usage.php:42
+msgid "It's that simple!"
+msgstr "就这么简单！"
+
+#: inc/php/tabs/faq.php:129 inc/php/tabs/usage.php:42
+msgid "Enjoy the result of applying your custom PHP code."
+msgstr "享受应用自定义PHP代码的结果。"
+
+#: inc/php/tabs/usage.php:33
+msgid "Before use, please read the %s instructions %s in our Blog on what to do in case of a website crash."
+msgstr "在使用之前，请阅读我们博客中的%s说明%s，了解网站崩溃时应采取的措施。"
+
+#: inc/php/tabs/usage.php:26 inc/php/tabs/usage.php:30
+msgid "Note!"
+msgstr "注意！"
+
+#: inc/php/tabs/usage.php:19
+msgid "To add your custom PHP code to your website, simply follow these steps:"
+msgstr "要将自定义PHP代码添加到您的网站，只需按照以下步骤操作："
+
+#: inc/php/page.php:46 inc/php/sidebar.php:56 inc/php/tabs/settings.php:68
+msgid "Support"
+msgstr "支持"
+
+#: inc/php/page.php:45
+msgid "F.A.Q."
+msgstr "常见问题解答"
+
+#: inc/php/page.php:44
+msgid "Usage"
+msgstr "用法"
+
+#: inc/php/page.php:43
+msgid "Main"
+msgstr "主要（Main）"
+
+#: inc/php/messages.php:91
+msgid "Please update the plugin to the latest version, and all will be fine."
+msgstr "请将插件更新到最新版本，一切都会好的。"
+
+#: inc/php/messages.php:90
+msgid "You have installed an old version of this plugin."
+msgstr "您已安装此插件的旧版本。"
+
+#: inc/php/messages.php:39
+msgid "Thank you for installing our plugin! We hope you will love it! %s"
+msgstr "感谢您安装我们的插件！ 我们希望你会喜欢它！%s"
+
+#: inc/php/core.php:40
+msgid "Upgrade to PRO"
+msgstr "升级到PRO"
+
+#: inc/php/tabs/support.php:47
+msgid "But we are an independent developers, without a regular income, so every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr "但我们是一个独立的开发者，没有固定的收入，所以每一笔小额捐款都有助于弥补我们的成本，让我们可以花更多的时间为像你这样的优秀人士创造一些东西。"
+
+#: inc/php/tabs/settings.php:33
+msgid "Functions (PHP code)"
+msgstr "如果写错网站崩溃500。请进入wp-content/plugins/my-custom-functions/，将文件START重命名为STOP　相当于右侧开关按钮-->"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/ArthurGareginyan/my-custom-functions"
+msgstr "https://github.com/ArthurGareginyan/my-custom-functions"
+
+#: inc/php/core.php:32
+msgid "Settings"
+msgstr "设置"
+
+#: inc/php/tabs/settings.php:63
+msgid "Save changes"
+msgstr "保存更改"
+
+#: inc/php/sidebar.php:65 inc/php/tabs/settings.php:77
+msgid "Thanks for your support!"
+msgstr "感谢您的支持！"
+
+#: inc/php/core.php:61
+msgid "Donate"
+msgstr "捐赠"
+
+#: inc/php/tabs/usage.php:47
+msgid "If you want more options, then %s let us know %s and we will be happy to add them."
+msgstr "如果您想要更多选项，那么%s让我们知道%s，我们很乐意添加它们。"
+
+#: inc/php/sidebar.php:47
+msgid "Help"
+msgstr "帮助"
+
+#: inc/php/sidebar.php:38
+msgid "About"
+msgstr "关于"
+
+#. Plugin Name of the plugin
+msgid "My Custom Functions"
+msgstr "我的自定义函数(My Custom Functions)"
+
+#: inc/php/messages.php:155
+msgid "Please, check the code and try again."
+msgstr "请检查代码，然后重试。"
+
+#: inc/php/messages.php:154
+msgid "Sorry, but your code causes a \"Fatal error\", so it is not applied!"
+msgstr "抱歉，您的代码会导致“致命错误”，因此不会被应用！"
+
+#: inc/php/messages.php:126
+msgid "Custom code saved successfully."
+msgstr "自定义代码已成功保存"

@@ -1,0 +1,48 @@
+# Translation of Plugins - WooCommerce Product Table Lite - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - WooCommerce Product Table Lite - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-08 05:29:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - WooCommerce Product Table Lite - Development (trunk)\n"
+
+#: templates/form-loading-screen.php:19
+msgid "Loading&hellip;"
+msgstr "正在載入..."
+
+#: templates/modals.php:61
+msgid "Apply"
+msgstr "套用"
+
+#: editor/partials/query.php:358
+msgid "Enter comma separated product SKUs"
+msgstr "請以逗號分隔多個商品 SKU"
+
+#: editor/partials/query.php:349
+msgid "Enter comma separated product IDs"
+msgstr "請以逗號分隔多個商品 ID"
+
+#: editor/partials/query.php:347
+msgid "Select products by ID"
+msgstr "依據商品 ID 選取商品"
+
+#: editor/partials/query.php:356
+msgid "Select products by SKU"
+msgstr "依據商品 SKU 選取商品"
+
+#: templates/search.php:69 templates/search.php:79
+msgid "Search"
+msgstr "搜尋"
+
+#: editor/partials/style.php:89
+msgid "Enter custom CSS here..."
+msgstr "請在這裡輸入自訂 CSS..."
+
+#: editor/settings.php:9
+msgid "WCPT Global Settings"
+msgstr "WooCommerce Product Table 全域設定"

@@ -1,0 +1,652 @@
+# Translation of Plugins - Advanced noCaptcha &amp; invisible Captcha (v2 &amp; v3) - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Advanced noCaptcha &amp; invisible Captcha (v2 &amp; v3) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-02 04:55:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Advanced noCaptcha &amp; invisible Captcha (v2 &amp; v3) - Stable (latest release)\n"
+
+#: admin/settings.php:46
+msgid "This plugin joins WP White Security and it will soon be getting a well deserved update. "
+msgstr "このプラグインは WP White Security に管理され、アップデートもすぐに提供されます。"
+
+#: admin/settings.php:41
+msgid "Finally! The Advanced noCaptcha & invisible Captcha plugin is getting an update"
+msgstr "ついに ! The Advanced noCaptcha & invisible Captcha プラグインのアップデートが届いています"
+
+#. Author URI of the plugin
+msgid "https://www.wpwhitesecurity.com/"
+msgstr "https://www.wpwhitesecurity.com/"
+
+#. Author of the plugin
+msgid "WP White Security"
+msgstr "WP White Security"
+
+#. Description of the plugin
+msgid "Implement any type of Captcha check in comment, password, login & registration forms, & also on BuddyPress, WooCommerce, CF7 & forms by other plugins."
+msgstr "常に Captcha 検証をコメント、パスワード、ログイン・登録フォームで有効にします。BuddyPress、 WooCommerce、 CF7、その他プラグインによるフォームも含みます。"
+
+#. Plugin URI of the plugin
+msgid "https://www.wpwhitesecurity.com/wordpress-plugins/captcha-plugin-wordpress/"
+msgstr "https://www.wpwhitesecurity.com/wordpress-plugins/captcha-plugin-wordpress/"
+
+#: admin/settings.php:624
+msgid "BuddyPress register form"
+msgstr "BuddyPress 登録フォーム"
+
+#: admin/settings.php:623
+msgid "bbPress reply to topic form"
+msgstr "bbPress トピックへの返信フォーム"
+
+#: admin/settings.php:622
+msgid "bbPress New topic form"
+msgstr "bbPress 新規トピックフォーム"
+
+#: admin/settings.php:621
+msgid "Contact Form 7 forms"
+msgstr "Contact Form 7 フォーム"
+
+#: admin/settings.php:620
+msgid "WooCommerce forms"
+msgstr "WooCommerce フォーム"
+
+#: admin/settings.php:615
+msgid "PRO Features"
+msgstr "Pro 版の特徴"
+
+#: admin/settings.php:310 admin/settings.php:626
+msgid "View Details"
+msgstr "詳細を表示"
+
+#: admin/settings.php:604
+msgid "For paid support pleasse visit <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Advanced noCaptcha reCaptcha</a>"
+msgstr "有償のサポートをご希望の方は <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Advanced noCaptcha reCaptcha</a> へお進みください。"
+
+#: admin/settings.php:596
+msgid "Full details can be found in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%1$s\">this instruction</a>"
+msgstr "完全な詳細は<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%1$s\">こちらの手引</a>からお探しください。"
+
+#: admin/settings.php:591
+msgid "Get your site key and secret key from <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">GOOGLE</a> if you do not have already. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">How to get google reCAPTCHA keys?</a>."
+msgstr "サイトキーと秘密キーを<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">GOOGLE</a>から未取得の場合取得してください。<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google reCAPTCHA キーの取得方法</a>"
+
+#: admin/settings.php:97
+msgid "reCAPTCHA type"
+msgstr "reCAPTCHA タイプ"
+
+#: admin/settings.php:77
+msgid "Get reCaptcha keys from <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google</a>. Make sure to get keys for your selected captcha type. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">How to get google reCAPTCHA keys?</a>."
+msgstr "reCaptcha キーを <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google</a> から取得してください。ご選択の captcha タイプと同じかを確認してください。<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google reCAPTCHA キーの取得方法</a>"
+
+#: admin/settings.php:134
+msgid "For \"Contact Form 7\" you need to follow <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%1$s\">this instruction</a>. For other forms see <a href=\"%2$s\">this instruction</a>"
+msgstr "\"Contact Form 7\" については、<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%1$s\">こちらの手引き</a>に従って進めてください。ほかのフォームについては<a href=\"%2$s\">こちらの手引き</a>を見てください。"
+
+#: admin/settings.php:279
+msgid "If any one is blocked in your country select other one."
+msgstr ""
+"もしあなたの国でいずれかがブロックされていたら、ほかのひとつを選択してください。\n"
+"If any one is blocked in your country select other one."
+
+#: admin/settings.php:269
+msgid "Recaptcha Domain"
+msgstr "Recaptcha ドメイン"
+
+#: admin/settings.php:266
+msgid "One per line"
+msgstr "１行に１つ"
+
+#: admin/settings.php:262
+msgid "Whitelisted IPs"
+msgstr "ホワイトリスト登録済み IP"
+
+#: admin/settings.php:259
+msgid "Higher means more sensitive"
+msgstr "高くするほど厳密になります"
+
+#: admin/settings.php:253
+msgid "Captcha Score"
+msgstr "Captcha スコア"
+
+#: admin/settings.php:250
+msgid "Loading in All Pages help google for analytics"
+msgstr "google 解析のヒントのためにすべてのページで読み込む"
+
+#: admin/settings.php:248
+msgid "Form Pages"
+msgstr "フォームページ"
+
+#: admin/settings.php:247
+msgid "All Pages"
+msgstr "固定ページ一覧"
+
+#: admin/settings.php:241
+msgid "v3 Script Load"
+msgstr "v3 スクリプト読み込み"
+
+#: admin/settings.php:107
+msgid "Select your reCAPTCHA type. Make sure to use site key and secret key for your selected type."
+msgstr "reCAPTCHA タイプを選択してください。サイトキーと秘密キーのタイプが選択したものと一致しているか確認してください。"
+
+#: admin/settings.php:105
+msgid "V3"
+msgstr "V3"
+
+#: admin/settings.php:104
+msgid "V2 Invisible"
+msgstr "V2 Invisible"
+
+#: admin/settings.php:103
+msgid "V2 \"I'm not a robot\""
+msgstr "V2 \"私はロボットではありません\""
+
+#: anr-captcha-class.php:629
+msgid "Comment Submission Failure"
+msgstr "コメント送信失敗"
+
+#: admin/settings.php:603
+msgid "To verify use %s. It will return true on success otherwise false."
+msgstr "検証には %s を使用してください。成功時は true、そうでなければ false を返却します。"
+
+#: admin/settings.php:602
+msgid "To show noCaptcha in a form use %1$s OR %2$s"
+msgstr "noCaptcha をフォーム内で表示するには %1$s または %2$s を使用してください"
+
+#: admin/settings.php:595
+msgid "To show noCaptcha use %s"
+msgstr "noCaptcha の表示には %s を使用してください"
+
+#: admin/settings.php:592
+msgid "Goto %s page of this plugin and set up as you need. and ENJOY..."
+msgstr "このプラグインの %s ページで、ご希望の設定を進めて、便利にご活用ください..."
+
+#: admin/settings.php:433
+msgid "No hook defined for %s"
+msgstr "%s へのフック定義はありません"
+
+#: admin/settings.php:297
+msgid "No JS Captcha"
+msgstr "JS 不使用 Captcha"
+
+#: admin/settings.php:289
+msgid "Remove CSS"
+msgstr "CSS を削除"
+
+#: admin/settings.php:282
+msgid "Logged in Hide"
+msgstr "ログインで非表示"
+
+#: admin/settings.php:238
+msgid "Show login Captcha after how many failed attempts? 0 = show always"
+msgstr "ログイン Captcha を何回試行したあとに表示しますか? 0だと常に表示します。"
+
+#: admin/settings.php:232
+msgid "Failed login Captcha"
+msgstr "Captcha ログインに失敗しました"
+
+#: admin/settings.php:142
+msgid "Captcha Language"
+msgstr "Captcha の言語"
+
+#: admin/settings.php:139 anr-captcha-class.php:118
+msgid "Please solve Captcha correctly"
+msgstr "Captcha を正しく解いてください"
+
+#: admin/settings.php:131
+msgid "BuddyPress register"
+msgstr "BuddyPress 登録"
+
+#: admin/settings.php:118
+msgid "Enabled Forms"
+msgstr "有効化されたフォーム"
+
+#: admin/settings.php:114
+msgid "Secret Key"
+msgstr "シークレットキー"
+
+#: admin/settings.php:84
+msgid "Other Settings"
+msgstr "その他の設定"
+
+#: admin/settings.php:81
+msgid "Forms"
+msgstr "フォーム"
+
+#: admin/settings.php:75
+msgid "Google Keys"
+msgstr "Google キー"
+
+#: anr-captcha-class.php:120
+msgid "ERROR"
+msgstr "エラー"
+
+#: admin/anr-admin-class.php:186
+msgid "Show login Captcha after how many failed attempts"
+msgstr "ログイン Captcha を何回か繰り返しログイン試行したあとに表示"
+
+#. Plugin Name of the plugin
+msgid "Advanced noCaptcha & invisible Captcha"
+msgstr "Advanced noCaptcha & invisible Captcha"
+
+#: admin/anr-admin-class.php:182 admin/settings.php:229
+msgid "Badge shows for invisible captcha"
+msgstr "invisible captcha を表すバッヂ"
+
+#: admin/anr-admin-class.php:179 admin/settings.php:227
+msgid "Inline"
+msgstr "インライン"
+
+#: admin/anr-admin-class.php:178 admin/settings.php:226
+msgid "Bottom Left"
+msgstr "左下"
+
+#: admin/anr-admin-class.php:177 admin/settings.php:225
+msgid "Bottom Right"
+msgstr "右下"
+
+#: admin/anr-admin-class.php:175 admin/settings.php:219
+msgid "Badge"
+msgstr "バッジ"
+
+#: admin/anr-admin-class.php:172
+msgid "For invisible captcha set this as Invisible. Make sure to use site key and secret key for invisible captcha"
+msgstr "invisible captcha にはこれを「非表示 (Invisible)」に設定してください。サイトキーと秘密キーが invisible captcha 用のものかどうか確認してください。"
+
+#: admin/anr-admin-class.php:169
+msgid "Invisible"
+msgstr "非表示 (Invisible)"
+
+#: admin/anr-admin-class.php:168 admin/settings.php:215
+msgid "Compact"
+msgstr "コンパクト"
+
+#: admin/anr-admin-class.php:167 admin/settings.php:214
+msgid "Normal"
+msgstr "通常"
+
+#: admin/anr-admin-class.php:162 admin/settings.php:204
+msgid "Dark"
+msgstr "ダーク"
+
+#: admin/anr-admin-class.php:161 admin/settings.php:203
+msgid "Light"
+msgstr "ライト"
+
+#: admin/anr-admin-class.php:45 admin/settings.php:499 admin/settings.php:505
+msgid "Advanced noCaptcha & invisible captcha"
+msgstr "Advanced noCaptcha & invisible captcha"
+
+#: admin/anr-admin-class.php:45 admin/settings.php:499 admin/settings.php:505
+#: admin/settings.php:553
+msgid "Advanced noCaptcha & invisible captcha Settings"
+msgstr "Advanced noCaptcha & invisible captcha 各種設定"
+
+#: functions.php:26
+msgid "<strong>ERROR</strong>: "
+msgstr "<strong>エラー</strong>:"
+
+#: admin/anr-admin-class.php:302
+msgid "To verify use "
+msgstr "検証には次を使用ください"
+
+#: admin/anr-admin-class.php:301
+msgid "To show form field use "
+msgstr "フォームを表示するにはこれを使用してください"
+
+#: admin/anr-admin-class.php:300 admin/settings.php:601
+msgid "If you want to implement noCaptcha in any other custom form"
+msgstr "もし noCaptcha をその他のカスタムフォームで有効にしたい場合"
+
+#: admin/anr-admin-class.php:298 admin/settings.php:599
+msgid "If Login Form, Registration Form, Lost Password Form, Reset Password Form is selected in SETTINGS page of this plugin they will show and verify Captcha in WooCommerce respective forms also."
+msgstr "ログインフォーム、登録フォーム、パスワード忘れフォーム、パスワードリセットフォームが設定ページで選択されている場合、そこでは Captchaが表示・検証されます。WooCommerce 等の適応したフォームも含みます。"
+
+#: admin/anr-admin-class.php:297 admin/settings.php:598
+msgid "Implement noCaptcha in WooCommerce"
+msgstr "noCaptcha を WooCommerce で有効にする"
+
+#: admin/anr-admin-class.php:295
+msgid "To show noCaptcha use "
+msgstr "noCaptcha の表示にはこれを使用してください"
+
+#: admin/anr-admin-class.php:294 admin/settings.php:594
+msgid "Implement noCaptcha in Contact Form 7"
+msgstr "noCaptcha を Contact Form 7 で有効にする"
+
+#: admin/anr-admin-class.php:292
+msgid "Goto SETTINGS page of this plugin and set up as you need. and ENJOY..."
+msgstr "このプラグインの設定ページで、ご希望の設定を進めて、便利にご活用ください..."
+
+#: admin/anr-admin-class.php:291
+msgid "Get your site key and secret key from <a href='%s' target='_blank'>GOOGLE</a> if you do not have already."
+msgstr "サイトキーと秘密キーを <a href='%s' target='_blank'>GOOGLE</a> から未取得の場合は取得してください。"
+
+#: admin/anr-admin-class.php:289
+msgid "Advanced noCaptcha reCaptcha Setup Instruction"
+msgstr "Advanced noCaptcha reCaptcha 設定の手引き"
+
+#: admin/anr-admin-class.php:255
+msgid "Sorry, your nonce did not verify!"
+msgstr "nonce 認証領域の確認に失敗しました !"
+
+#: admin/anr-admin-class.php:251
+msgid "No Permission!"
+msgstr "権限がありません！"
+
+#: admin/anr-admin-class.php:226
+msgid "Plugin Author"
+msgstr "プラグイン作者"
+
+#: admin/anr-admin-class.php:213 admin/anr-admin-class.php:303
+msgid "For paid support pleasse visit <a href='%s' target='_blank'>Advanced noCaptcha reCaptcha</a>"
+msgstr "有償のサポートをご希望の方は <a href='%s' target='_blank'>Advanced noCaptcha reCaptcha</a> へお進みください"
+
+#: admin/anr-admin-class.php:210
+msgid "Save Options"
+msgstr "設定を保存"
+
+#: admin/anr-admin-class.php:209 admin/settings.php:302
+msgid "If JavaScript is a requirement for your site, we advise that you do NOT check this."
+msgstr "もし JavaScript の利用があなたのサイトで必須なら、これにチェックを入れないことをすすめます。"
+
+#: admin/anr-admin-class.php:209 admin/settings.php:301
+msgid "Show captcha if javascript disabled?"
+msgstr "JavaScript が無効でも captcha を表示しますか ?"
+
+#: admin/anr-admin-class.php:208 admin/settings.php:294
+msgid "This css increase login page width to adjust with Captcha width."
+msgstr "この CSS はログインページの幅を広くし Capcha の幅が収まるようにします。"
+
+#: admin/anr-admin-class.php:208 admin/settings.php:293
+msgid "Remove this plugin's css from login page?"
+msgstr "このプラグイン用の CSS をログインページから除去しますか ?"
+
+#: admin/anr-admin-class.php:207 admin/settings.php:286
+msgid "Hide Captcha for logged in users?"
+msgstr "ログイン済みユーザーから Captcha を隠しますか ?"
+
+#: admin/anr-admin-class.php:188
+msgid "Show Captcha on"
+msgstr "Captcha をここで表示"
+
+#: admin/anr-admin-class.php:185 admin/settings.php:137
+msgid "Error Message"
+msgstr "エラーメッセージ"
+
+#: admin/anr-admin-class.php:165 admin/settings.php:208
+msgid "Size"
+msgstr "サイズ"
+
+#: admin/anr-admin-class.php:159 admin/settings.php:197
+msgid "Theme"
+msgstr "テーマ"
+
+#: admin/anr-admin-class.php:150
+msgid "Language"
+msgstr "言語"
+
+#: admin/anr-admin-class.php:148
+msgid "Secret key"
+msgstr "秘密キー"
+
+#: admin/anr-admin-class.php:147 admin/settings.php:110
+msgid "Site Key"
+msgstr "サイトキー"
+
+#: admin/anr-admin-class.php:145
+msgid "Value"
+msgstr "値"
+
+#: admin/anr-admin-class.php:145
+msgid "Setting"
+msgstr "設定"
+
+#: admin/anr-admin-class.php:141
+msgid "If you like this plugin please <a href='%s' target='_blank'>Review in Wordpress.org</a> and give 5 star"
+msgstr "もしプラグインが気に入ったら<a href='%s' target='_blank'>WordPress.org のレヴュー</a> で5つ星をお願いします。"
+
+#: admin/anr-admin-class.php:140
+msgid "Advanced noCaptcha reCaptcha Settings"
+msgstr "Advanced noCaptcha reCaptcha 各種設定"
+
+#: admin/anr-admin-class.php:130
+msgid "Options successfully saved."
+msgstr "設定は正常に保存されました。"
+
+#: admin/anr-admin-class.php:120 admin/settings.php:132
+msgid "WooCommerce Checkout"
+msgstr "WooCommerce 購入手続き"
+
+#: admin/anr-admin-class.php:119 admin/settings.php:130
+msgid "bbPress reply to topic"
+msgstr "bbPress トピックへの返信"
+
+#: admin/anr-admin-class.php:118 admin/settings.php:129
+msgid "bbPress New topic"
+msgstr "bbPress 新規トピック"
+
+#: admin/anr-admin-class.php:117 admin/settings.php:128
+msgid "Comment Form"
+msgstr "コメントフォーム"
+
+#: admin/anr-admin-class.php:116 admin/settings.php:127
+msgid "Reset Password Form"
+msgstr "パスワードリセットフォーム"
+
+#: admin/anr-admin-class.php:115 admin/settings.php:126
+msgid "Lost Password Form"
+msgstr "パスワード紛失フォーム"
+
+#: admin/anr-admin-class.php:114 admin/settings.php:125
+msgid "Multisite User Signup Form"
+msgstr "マルチサイト ユーザーのサインアップ フォーム"
+
+#: admin/anr-admin-class.php:113 admin/settings.php:124
+msgid "Registration Form"
+msgstr "登録フォーム"
+
+#: admin/anr-admin-class.php:112 admin/settings.php:123
+msgid "Login Form"
+msgstr "ログインフォーム"
+
+#: admin/anr-admin-class.php:107 admin/settings.php:193
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+#: admin/anr-admin-class.php:106 admin/settings.php:192
+msgid "Ukrainian"
+msgstr "ウクライナ語"
+
+#: admin/anr-admin-class.php:105 admin/settings.php:191
+msgid "Turkish"
+msgstr "トルコ語"
+
+#: admin/anr-admin-class.php:104 admin/settings.php:190
+msgid "Thai"
+msgstr "タイ語"
+
+#: admin/anr-admin-class.php:103 admin/settings.php:189
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+#: admin/anr-admin-class.php:102 admin/settings.php:188
+msgid "Spanish (Latin America)"
+msgstr "スペイン語 (中南米)"
+
+#: admin/anr-admin-class.php:101 admin/settings.php:187
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: admin/anr-admin-class.php:100 admin/settings.php:186
+msgid "Slovenian"
+msgstr "スロベニア語"
+
+#: admin/anr-admin-class.php:99 admin/settings.php:185
+msgid "Slovak"
+msgstr "スロバキア語"
+
+#: admin/anr-admin-class.php:98 admin/settings.php:184
+msgid "Serbian"
+msgstr "セルビア語"
+
+#: admin/anr-admin-class.php:97 admin/settings.php:183
+msgid "Russian"
+msgstr "ロシア語"
+
+#: admin/anr-admin-class.php:96 admin/settings.php:182
+msgid "Romanian"
+msgstr "ルーマニア語"
+
+#: admin/anr-admin-class.php:95 admin/settings.php:181
+msgid "Portuguese (Portugal)"
+msgstr "ポルトガル語 (ポルトガル)"
+
+#: admin/anr-admin-class.php:94 admin/settings.php:180
+msgid "Portuguese (Brazil)"
+msgstr "ポルトガル語 (ブラジル)"
+
+#: admin/anr-admin-class.php:93 admin/settings.php:179
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+#: admin/anr-admin-class.php:92 admin/settings.php:178
+msgid "Polish"
+msgstr "ポーランド語"
+
+#: admin/anr-admin-class.php:91 admin/settings.php:177
+msgid "Persian"
+msgstr "ペルシア語"
+
+#: admin/anr-admin-class.php:90 admin/settings.php:176
+msgid "Norwegian"
+msgstr "ノルウェー語"
+
+#: admin/anr-admin-class.php:89 admin/settings.php:175
+msgid "Lithuanian"
+msgstr "リトアニア語"
+
+#: admin/anr-admin-class.php:88 admin/settings.php:174
+msgid "Latvian"
+msgstr "ラトビア語"
+
+#: admin/anr-admin-class.php:87 admin/settings.php:173
+msgid "Korean"
+msgstr "韓国語"
+
+#: admin/anr-admin-class.php:86 admin/settings.php:172
+msgid "Japanese"
+msgstr "日本語"
+
+#: admin/anr-admin-class.php:85 admin/settings.php:171
+msgid "Italian"
+msgstr "イタリア語"
+
+#: admin/anr-admin-class.php:84 admin/settings.php:170
+msgid "Indonesian"
+msgstr "インドネシア語"
+
+#: admin/anr-admin-class.php:83 admin/settings.php:169
+msgid "Hungarain"
+msgstr "ハンガリー語"
+
+#: admin/anr-admin-class.php:82 admin/settings.php:168
+msgid "Hindi"
+msgstr "ヒンディー語"
+
+#: admin/anr-admin-class.php:81 admin/settings.php:167
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+#: admin/anr-admin-class.php:80 admin/settings.php:166
+msgid "Greek"
+msgstr "ギリシャ語"
+
+#: admin/anr-admin-class.php:79 admin/settings.php:165
+msgid "German (Switzerland)"
+msgstr "ドイツ語 (スイス)"
+
+#: admin/anr-admin-class.php:78 admin/settings.php:164
+msgid "German (Austria)"
+msgstr "ドイツ語 (オーストリア)"
+
+#: admin/anr-admin-class.php:77 admin/settings.php:163
+msgid "German"
+msgstr "ドイツ語"
+
+#: admin/anr-admin-class.php:76 admin/settings.php:162
+msgid "French (Canadian)"
+msgstr "フランス語 (カナダ)"
+
+#: admin/anr-admin-class.php:75 admin/settings.php:161
+msgid "French"
+msgstr "フランス語"
+
+#: admin/anr-admin-class.php:74 admin/settings.php:160
+msgid "Finnish"
+msgstr "フィンランド語"
+
+#: admin/anr-admin-class.php:73 admin/settings.php:159
+msgid "Filipino"
+msgstr "フィリピン語"
+
+#: admin/anr-admin-class.php:72 admin/settings.php:158
+msgid "English (US)"
+msgstr "英語 (US)"
+
+#: admin/anr-admin-class.php:71 admin/settings.php:157
+msgid "English (UK)"
+msgstr "英語 (UK)"
+
+#: admin/anr-admin-class.php:70 admin/settings.php:156
+msgid "Dutch"
+msgstr "オランダ語"
+
+#: admin/anr-admin-class.php:69 admin/settings.php:155
+msgid "Danish"
+msgstr "デンマーク語"
+
+#: admin/anr-admin-class.php:68 admin/settings.php:154
+msgid "Czech"
+msgstr "チェコ語"
+
+#: admin/anr-admin-class.php:67 admin/settings.php:153
+msgid "Croatian"
+msgstr "クロアチア語"
+
+#: admin/anr-admin-class.php:66 admin/settings.php:152
+msgid "Chinese (Traditional)"
+msgstr "中国語 (繁体字)"
+
+#: admin/anr-admin-class.php:65 admin/settings.php:151
+msgid "Chinese (Simplified)"
+msgstr "中国語 (簡体字)"
+
+#: admin/anr-admin-class.php:64 admin/settings.php:150
+msgid "Catalan"
+msgstr "カタロニア語"
+
+#: admin/anr-admin-class.php:63 admin/settings.php:149
+msgid "Bulgarian"
+msgstr "ブルガリア語"
+
+#: admin/anr-admin-class.php:62 admin/settings.php:148
+msgid "Arabic"
+msgstr "アラビア語"
+
+#: admin/anr-admin-class.php:61 admin/settings.php:147
+msgid "Auto Detect"
+msgstr "自動検出"
+
+#: admin/settings.php:528
+msgid "Instruction"
+msgstr "手引き"
+
+#: admin/anr-admin-class.php:314 admin/settings.php:527 admin/settings.php:592
+#: admin/settings.php:636
+msgid "Settings"
+msgstr "設定"

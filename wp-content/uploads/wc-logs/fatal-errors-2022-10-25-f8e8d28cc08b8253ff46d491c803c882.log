@@ -1,0 +1,28 @@
+2022-10-25T05:00:44+00:00 CRITICAL Out of memory (allocated 139460608) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/module/settings/migration/RowZeroGutter.php en la línea 1
+
+2022-10-25T05:00:48+00:00 CRITICAL Out of memory (allocated 114294784) (tried to allocate 4096 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/class-dynamic-assets.php en la línea 1657
+
+2022-10-25T05:00:48+00:00 CRITICAL Out of memory (allocated 114294784) (tried to allocate 8192 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/class-dynamic-assets.php en la línea 1697
+
+2022-10-25T05:00:48+00:00 CRITICAL Out of memory (allocated 114294784) (tried to allocate 8192 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/class-dynamic-assets.php en la línea 1697
+
+2022-10-25T21:07:34+00:00 CRITICAL Out of memory (allocated 30408704) (tried to allocate 163840 bytes) en /var/www/html/medismart.net/public_html/wp-includes/pomo/mo.php en la línea 297
+
+2022-10-25T21:07:42+00:00 CRITICAL Out of memory (allocated 118489088) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/functions.php en la línea 4622
+
+2022-10-25T21:07:42+00:00 CRITICAL Out of memory (allocated 145752064) (tried to allocate 20480 bytes) en /var/www/html/medismart.net/public_html/wp-includes/functions.php en la línea 4803
+
+2022-10-25T21:11:40+00:00 CRITICAL Out of memory (allocated 61865984) (tried to allocate 32768 bytes) en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/class-dynamic-assets.php en la línea 1633
+
+2022-10-25T22:37:44+00:00 CRITICAL Uncaught Error: Call to undefined function et_builder_get_fonts() in /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php:207
+Stack trace:
+#0 /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php(229): et_divi_fonts_url()
+#1 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(307): et_divi_load_fonts()
+#2 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /var/www/html/medismart.net/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#4 /var/www/html/medismart.net/public_html/wp-includes/script-loader.php(2156): do_action()
+#5 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts()
+#6 /var/www/html/medismart.net/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#7 /var/www/html/medismart.net/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#8 /var/www/html/medismart.net/public_html/wp-includes/general-templa en /var/www/html/medismart.net/public_html/wp-content/themes/Divi/functions.php en la línea 207
+
