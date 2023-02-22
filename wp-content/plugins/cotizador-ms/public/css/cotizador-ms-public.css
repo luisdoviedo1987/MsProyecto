@@ -1,0 +1,85 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+.fontbold {
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+}
+.fontlight {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.fontnormal {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.wcpt-cart-widget-ms {
+  opacity: 1;
+  position: fixed;
+  bottom: 50px;
+  left: 50%;
+  width: 350px;
+  background: #4caf50;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  color: #fff;
+  letter-spacing: 0.5px;
+  box-sizing: border-box;
+  transform: translateX(-50%);
+  padding: 0.5em 1.25em 0.6em;
+  box-shadow: 0 0 25px 0 rgb(0 0 0 / 25%);
+  border-radius: 0;
+  font-weight: 700;
+  font-size: 16px;
+  z-index: 10000;
+  cursor: pointer;
+}
+.wcpt-cw-half-ms {
+  width: 49%;
+  display: inline-block;
+  color: inherit !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  background: 0 0 !important;
+  background-image: none !important;
+  font-size: inherit !important;
+  vertical-align: middle;
+}
+.wcpt-cw-separator-ms {
+  margin: 0 2px;
+  display: inline-block;
+  font-weight: 100;
+}
+.wcpt-cw-cart-icon-ms {
+  margin-left: 0.2em;
+  top: -0.05em;
+}
+@media only screen and (max-width: 2500px) {
+  #medismart-logo-badge {
+    height: 80px;
+    margin: 5px;
+  }
+}
+@media only screen and (max-width: 1500px) {
+  #medismart-logo-badge {
+    height: 80px;
+    margin: 5px;
+  }
+}
+@media only screen and (max-width: 570px) {
+  #medismart-logo-badge {
+    height: 80px;
+    margin-left: -8px;
+  }
+}
+@media only screen and (max-width: 370px) {
+  #medismart-logo-badge {
+    height: 80px;
+    margin-left: -8px;
+  }
+}
+ */
